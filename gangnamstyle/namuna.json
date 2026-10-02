@@ -1,0 +1,63 @@
+{
+ "dokon": "Gangnamstyle_Cosmetics Online Store",
+ "kanal": "gangnamstyle_cosmetics",
+ "ava": "img/ava.jpg",
+ "accent": "#53260F",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "2348",
+   "nom": "Assalomu alekum videodagi barcha kosmetikalari sotuvda bor",
+   "narx": "180 000 so'm",
+   "narx_son": 180000,
+   "tavsif": "1⃣ Lalarecipe penka [200ml] 160, 000 so'm",
+   "turkum": null,
+   "rasm": "img/2348.jpg"
+  },
+  {
+   "id": "2330",
+   "nom": "Videodagi kosmetikalar sotuvda bor bemalol buyurtma bersangi",
+   "narx": "150 000 so'm",
+   "narx_son": 150000,
+   "tavsif": "OFBASE tabiiy gurunch suvi+ glutathion",
+   "turkum": null,
+   "rasm": "img/2330.jpg"
+  },
+  {
+   "id": "2319",
+   "nom": "Luvum brandidan dog'larga qarshi 13,5 % Clear Vita Ampoule",
+   "narx": "200 000 so'm",
+   "narx_son": 200000,
+   "tavsif": "Buyurtma berish uchun",
+   "turkum": null,
+   "rasm": "img/2319.jpg"
+  },
+  {
+   "id": "2315",
+   "nom": "Paddelka mahsulotlardan ehtiyot bo’ling",
+   "narx": "160 000 so'm",
+   "narx_son": 160000,
+   "tavsif": "Original bo’lmagan mahsulotlar yuz baryerini buzib yuboradi,",
+   "turkum": null,
+   "rasm": "img/2315.jpg"
+  },
+  {
+   "id": "2313",
+   "nom": "EVOCARON NIOSOME — CHUQUR NAMLANTIRISH VA TERI TO‘SIG‘INI MU",
+   "narx": "180 000 so'm",
+   "narx_son": 180000,
+   "tavsif": "Terining namlik balansini tiklash, sezgirlikni kamaytirish v",
+   "turkum": null,
+   "rasm": "img/2313.jpg"
+  },
+  {
+   "id": "2305",
+   "nom": "Evocaron brandidan mega skidkadaaa",
+   "narx": "160 000 so'm",
+   "narx_son": 160000,
+   "tavsif": "EVOCARON NIOSOME — CHUQUR NAMLANTIRISH VA TERI TO‘SIG‘INI MU",
+   "turkum": null,
+   "rasm": "img/2305.jpg"
+  }
+ ]
+}
