@@ -1,0 +1,63 @@
+{
+ "dokon": "Castrum Toys",
+ "kanal": "Castrum_toys",
+ "ava": "img/ava.jpg",
+ "accent": "#A98818",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "11875",
+   "nom": "Qo'g'irchoq uyi",
+   "narx": "700 000 so'm",
+   "narx_son": 700000,
+   "tavsif": "3 qavatli yog'och qo'g'irchoq uyi, sifatli va chiroyli dizaynda.",
+   "turkum": "O'yinchoq uy",
+   "rasm": "img/11875.jpg"
+  },
+  {
+   "id": "11873",
+   "nom": "5v1 zargarlik va kosmetika to'plami",
+   "narx": "500 000 so'm",
+   "narx_son": 500000,
+   "tavsif": "5 in 1 zargarlik buyumlari va kosmetika to'plami, sifati yuqori.",
+   "turkum": "Kosmetika to'plami",
+   "rasm": "img/11873.jpg"
+  },
+  {
+   "id": "11868",
+   "nom": "Dars qiladigan stol-stul",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Balandligi sozlanadigan transformer dars stol-stul to'plami, qulay va zamonaviy dizaynda.",
+   "turkum": "Mebel",
+   "rasm": "img/11868.jpg"
+  },
+  {
+   "id": "11867",
+   "nom": "Terma Kovrik 180x200",
+   "narx": "120 000 so'm",
+   "narx_son": 120000,
+   "tavsif": "Bolajonlar uchun rangli va yumshoq terma kovrik, o'lchami 180x200 sm.",
+   "turkum": "Kovrik",
+   "rasm": "img/11867.jpg"
+  },
+  {
+   "id": "11848",
+   "nom": "Kuromi 12V Elektron Moshina",
+   "narx": "1 250 000 so'm",
+   "narx_son": 1250000,
+   "tavsif": "Kuromi dizaynli 12V elektron moshina, pult orqali va o'zi boshqarish imkoniyati bilan.",
+   "turkum": "Elektromobil",
+   "rasm": "img/11848.jpg"
+  },
+  {
+   "id": "11853",
+   "nom": "Mini Skateboard",
+   "narx": "180 000 so'm",
+   "narx_son": 180000,
+   "tavsif": "Yorqin dizaynli va mustahkam g'ildirakli bolalar mini skeytbordi.",
+   "turkum": "Skeytbord",
+   "rasm": "img/11853.jpg"
+  }
+ ]
+}
