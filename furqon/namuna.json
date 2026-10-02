@@ -1,0 +1,63 @@
+{
+ "dokon": "KITOBLAR DO‘KONI",
+ "kanal": "furqonkitoblar",
+ "ava": "img/ava.jpg",
+ "accent": "#5C9927",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "11461",
+   "nom": "Jannat — Xasson Shamsiy Po'sho",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Oila, mehr, sabr va insoniy munosabatlar qadrini chuqur his qildiradigan iliq va ta'sirli asar.",
+   "turkum": "Roman",
+   "rasm": "img/11461.jpg"
+  },
+  {
+   "id": "11395",
+   "nom": "Dard etma, Alloh yetar — Qodir Akel",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Оғир дамларда қалбга сабр, умид ва Аллоҳга бўлган ишончни мустаҳкамловчи таскин берувчи китоб.",
+   "turkum": "Diniy",
+   "rasm": "img/11395.jpg"
+  },
+  {
+   "id": "11384",
+   "nom": "Ishq va iymon — Munib Engin Noyan",
+   "narx": "85 000 so'm",
+   "narx_son": 85000,
+   "tavsif": "Билол ва Робия муҳаббати, иймон ва тақдир синовларидан ўтган таъсирли роман.",
+   "turkum": "Roman",
+   "rasm": "img/11384.jpg"
+  },
+  {
+   "id": "11348",
+   "nom": "Oqsoch — Frida Makfadden",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Boy xonadonga ishga kirgan qizning hayotidagi sirli va ta'sirli voqealar haqida triller.",
+   "turkum": "Triller",
+   "rasm": "img/11348.jpg"
+  },
+  {
+   "id": "11343",
+   "nom": "Tasavvuf bilan tanishuv — Abdulvoliy",
+   "narx": "75 000 so'm",
+   "narx_son": 75000,
+   "tavsif": "Tasavvuf ilmi va qalb tarbiyasi haqida sodda va tushunarli uslubda yozilgan asar.",
+   "turkum": "Diniy",
+   "rasm": "img/11343.jpg"
+  },
+  {
+   "id": "11481",
+   "nom": "U shunday Allohki — Asmo ul Husno",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Allohning go'zal ismlari sharhi orqali qalbga taskin va ma'naviy ozuqa beruvchi kitob.",
+   "turkum": "Diniy",
+   "rasm": "img/11481.jpg"
+  }
+ ]
+}
