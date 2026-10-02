@@ -70,7 +70,7 @@
   footer a { color: var(--muted); }
 </style>
 </head>
-<body data-v="20261002111908">
+<body data-v="20261002114507">
 <header>
   <div class="shop">
     <div class="ava" id="ava"></div>
@@ -128,7 +128,10 @@ if (cats.length > 1) {
   renderChips();
 } else { $('chips').style.display = 'none'; }
 
-function priceHtml(m) { return m.narx ? `<div class="price">${esc(m.narx)}</div>` : `<div class="price ask">${T.ask}</div>`; }
+function priceHtml(m) {
+  if (m.narx_son) return `<div class="price">${fmt(m.narx_son)}</div>`;
+  return m.narx ? `<div class="price">${esc(m.narx)}</div>` : `<div class="price ask">${T.ask}</div>`;
+}
 function render() {
   const q = $('q').value.trim().toLowerCase();
   const list = D.mahsulotlar.filter(m => (!cat || m.turkum === cat) && (!q || (m.nom + ' ' + (m.tavsif || '')).toLowerCase().includes(q)));
