@@ -1,0 +1,63 @@
+{
+ "dokon": "Bossbaby_uzb",
+ "kanal": "bossbaby_uzb",
+ "ava": "img/ava.jpg",
+ "accent": "#186CA9",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "4787",
+   "nom": "Basanojka — Котёнок",
+   "narx": "220 000 so'm",
+   "narx_son": 220000,
+   "tavsif": "Yoz fasli uchun qulay, premium sifatdagi Котёнок firmasidan basanojka, razmer 31-36",
+   "turkum": "Basanojka",
+   "rasm": "img/4787.jpg"
+  },
+  {
+   "id": "4784",
+   "nom": "Basanojka — Zvezda",
+   "narx": "120 000 so'm",
+   "narx_son": 120000,
+   "tavsif": "Zvezda firmasidan basanojka, razmer 26-35, narxi 120,000 so'm",
+   "turkum": "Basanojka",
+   "rasm": "img/4784.jpg"
+  },
+  {
+   "id": "4796",
+   "nom": "Aksiyadagi krasovka",
+   "narx": "30 000 so'm",
+   "narx_son": 30000,
+   "tavsif": "Atigi 30,000 so'mdan skidkadagi krasovkalar",
+   "turkum": "Krasovka",
+   "rasm": "img/4796.jpg"
+  },
+  {
+   "id": "4800",
+   "nom": "Oq krasovka",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Kuz mavsumi uchun ideal variant bo'lgan krasovka",
+   "turkum": "Krasovka",
+   "rasm": "img/4800.jpg"
+  },
+  {
+   "id": "4803",
+   "nom": "Sport krasovkasi",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Siz so'ragan mahsulot — yangi krasovka keldi",
+   "turkum": "Krasovka",
+   "rasm": "img/4803.jpg"
+  },
+  {
+   "id": "4795",
+   "nom": "Sarakanoshka",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Sarakanoshkalar keldi, razmer 27-37",
+   "turkum": "Sarakanoshka",
+   "rasm": "img/4795.jpg"
+  }
+ ]
+}
