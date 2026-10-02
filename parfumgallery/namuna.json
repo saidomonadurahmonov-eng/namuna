@@ -1,0 +1,63 @@
+{
+ "dokon": "Parfum Gallery",
+ "kanal": "begimparfumgallery",
+ "ava": "img/ava.jpg",
+ "accent": "#632A0E",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "2178",
+   "nom": "Привычка радовать себя приносит подарки",
+   "narx": "1 000 000 so'm",
+   "narx_son": 1000000,
+   "tavsif": "Встречайте карту лояльности от Parfum Gallery!",
+   "turkum": null,
+   "rasm": "img/2178.jpg"
+  },
+  {
+   "id": "2248",
+   "nom": "Скидки до −60% на любимые ароматы, beauty-фавориты и уход",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Sevimli atirlar, beauty-favoritlar va parvarish vositalariga",
+   "turkum": null,
+   "rasm": "img/2248.jpg"
+  },
+  {
+   "id": "2246",
+   "nom": "При покупке 2-х продуктов Dior или Guerlain — 3-й продукт с ",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Акция действует в Головном магазине и в филиале в ТРЦ «Rivie",
+   "turkum": null,
+   "rasm": "img/2246.jpg"
+  },
+  {
+   "id": "2244",
+   "nom": "Когда открыла шкафчик не за учебником…",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Shkafxonani darslik uchun emas…",
+   "turkum": null,
+   "rasm": "img/2244.jpg"
+  },
+  {
+   "id": "2239",
+   "nom": "Пусть подготовка к важному дню будет приятнее",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "07.09–07.10 в Parfum Gallery",
+   "turkum": null,
+   "rasm": "img/2239.jpg"
+  },
+  {
+   "id": "2234",
+   "nom": "Свежесть, элегантность, характер и выразительный шлейф — соб",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Tazelik, nafislik, xarakter va maftunkor taraluvchan hidsimo",
+   "turkum": null,
+   "rasm": "img/2234.jpg"
+  }
+ ]
+}
