@@ -1,0 +1,63 @@
+{
+ "dokon": "YASIN.CO",
+ "kanal": "yasin_co_1",
+ "ava": "img/ava.jpg",
+ "accent": "#0B344E",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "12247",
+   "nom": "Kumush uzuk",
+   "narx": "203 000 so'm",
+   "narx_son": 203000,
+   "tavsif": "925 probali kumush, yuqori sifatli uzuk, O'zbekiston bo'ylab yetkazib berish mavjud.",
+   "turkum": "Uzuk",
+   "rasm": "img/12247.jpg"
+  },
+  {
+   "id": "12245",
+   "nom": "Kumush uzuklar",
+   "narx": "420 000 so'm (dan)",
+   "narx_son": 420000,
+   "tavsif": "925 probali kumush uzuklar, yuqori sifat, O'zbekiston bo'ylab yetkazib berish mavjud.",
+   "turkum": "Uzuk",
+   "rasm": "img/12245.jpg"
+  },
+  {
+   "id": "12241",
+   "nom": "Kumush sepochka",
+   "narx": "553 000 so'm",
+   "narx_son": 553000,
+   "tavsif": "925 probali kumush sepochka, yuqori sifat, O'zbekiston bo'ylab yetkazib berish mavjud.",
+   "turkum": "Sepochka",
+   "rasm": "img/12241.jpg"
+  },
+  {
+   "id": "12239",
+   "nom": "Kumush komplekt",
+   "narx": "4 049 000 so'm",
+   "narx_son": 4049000,
+   "tavsif": "925 probali kumush komplekt: sepochka, zirak, uzuk va braslet birgalikda.",
+   "turkum": "Komplekt",
+   "rasm": "img/12239.jpg"
+  },
+  {
+   "id": "12236",
+   "nom": "Nafis kumush uzuk",
+   "narx": "217 000 so'm",
+   "narx_son": 217000,
+   "tavsif": "Nafislik va nafosat bitta uzukda — 925 probali kumush.",
+   "turkum": "Uzuk",
+   "rasm": "img/12236.jpg"
+  },
+  {
+   "id": "12235",
+   "nom": "Kumush braslet",
+   "narx": "590 000 so'm",
+   "narx_son": 590000,
+   "tavsif": "Har bir qizga yoqadigan 925 probali kumush braslet.",
+   "turkum": "Braslet",
+   "rasm": "img/12235.jpg"
+  }
+ ]
+}
