@@ -1,0 +1,63 @@
+{
+ "dokon": "Aroma Lux",
+ "kanal": "aromaluxuzz",
+ "ava": "img/ava.jpg",
+ "accent": "#A9A218",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "2539",
+   "nom": "Tiziana Terenzi Gumin",
+   "narx": "120 000 so'm",
+   "narx_son": 120000,
+   "tavsif": "",
+   "turkum": null,
+   "rasm": "img/2539.jpg"
+  },
+  {
+   "id": "2537",
+   "nom": "MoccAllure pomada nabori",
+   "narx": "35 000 so'm",
+   "narx_son": 35000,
+   "tavsif": "",
+   "turkum": null,
+   "rasm": "img/2537.jpg"
+  },
+  {
+   "id": "2533",
+   "nom": "TIR TIR kushonlar minisi",
+   "narx": "19 000 so'm",
+   "narx_son": 19000,
+   "tavsif": "",
+   "turkum": null,
+   "rasm": "img/2533.jpg"
+  },
+  {
+   "id": "2532",
+   "nom": "TIR TIR kushonlar minisi",
+   "narx": "19 000 so'm",
+   "narx_son": 19000,
+   "tavsif": "",
+   "turkum": null,
+   "rasm": "img/2532.jpg"
+  },
+  {
+   "id": "2530",
+   "nom": "Brend Luxury",
+   "narx": "115 000 so'm",
+   "narx_son": 115000,
+   "tavsif": "",
+   "turkum": null,
+   "rasm": "img/2530.jpg"
+  },
+  {
+   "id": "2529",
+   "nom": "Brend Luxury",
+   "narx": "115 000 so'm",
+   "narx_son": 115000,
+   "tavsif": "",
+   "turkum": null,
+   "rasm": "img/2529.jpg"
+  }
+ ]
+}
