@@ -1,0 +1,63 @@
+{
+ "dokon": "ps.store.uz",
+ "kanal": "psstoreuzz",
+ "ava": "img/ava.jpg",
+ "accent": "#A98D18",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "5073",
+   "nom": "PS5 Slim 1TB (Koreya versiyasi)",
+   "narx": "600$",
+   "narx_son": 600,
+   "tavsif": "PS5 Slim 1TB, koreya versiyasi, narxi 600$.",
+   "turkum": "O'yin konsoli",
+   "rasm": "img/5073.jpg"
+  },
+  {
+   "id": "5066",
+   "nom": "PS4 Pro 1TB",
+   "narx": "260$",
+   "narx_son": 260,
+   "tavsif": "PS4 Pro 1TB, ideal holatda, narxi 260$.",
+   "turkum": "O'yin konsoli",
+   "rasm": "img/5066.jpg"
+  },
+  {
+   "id": "5063",
+   "nom": "Meta Quest 3 512GB",
+   "narx": "585$",
+   "narx_son": 585,
+   "tavsif": "Meta Quest 3, 512GB xotira, narxi 585$.",
+   "turkum": "VR ko'zoynak",
+   "rasm": "img/5063.jpg"
+  },
+  {
+   "id": "5060",
+   "nom": "PS5 Slim 825GB (Yevropa)",
+   "narx": "585$",
+   "narx_son": 585,
+   "tavsif": "PS5 Slim 825GB, yevropa versiyasi, narxi 585$.",
+   "turkum": "O'yin konsoli",
+   "rasm": "img/5060.jpg"
+  },
+  {
+   "id": "5058",
+   "nom": "PS4 Pro orginal jostik bilan",
+   "narx": "260$",
+   "narx_son": 260,
+   "tavsif": "PS4 Pro konsoli, orginal jostik bilan, biroz vizlom bor, narxi 260$.",
+   "turkum": "O'yin konsoli",
+   "rasm": "img/5058.jpg"
+  },
+  {
+   "id": "5094",
+   "nom": "PS5 Slim",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "PS5 Slim konsoli qutisi, sotuvda bor.",
+   "turkum": "O'yin konsoli",
+   "rasm": "img/5094.jpg"
+  }
+ ]
+}
