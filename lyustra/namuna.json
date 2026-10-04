@@ -1,0 +1,63 @@
+{
+ "dokon": "lyustra.uzb",
+ "kanal": "lyustrauzzb",
+ "ava": "img/ava.jpg",
+ "accent": "#0C5436",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "1772",
+   "nom": "Rangli kristalli halqa lyustra",
+   "narx": "330 000 so'm",
+   "narx_son": 330000,
+   "tavsif": "Rangli shisha kublar osilgan halqa shaklidagi zamonaviy lyustra, katta chegirmada.",
+   "turkum": null,
+   "rasm": "img/1772.jpg"
+  },
+  {
+   "id": "1775",
+   "nom": "Eclipse model lyustra",
+   "narx": "1 030 000 so'm",
+   "narx_son": 1030000,
+   "tavsif": "Eclipse modeli — oltin rangli bezak va bahromali oval shakldagi hashamatli lyustra, skidkada.",
+   "turkum": null,
+   "rasm": "img/1775.jpg"
+  },
+  {
+   "id": "1754",
+   "nom": "Lyustra 72561 (bahromali)",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "To'lqinsimon ko'p qatlamli oltin rangli bahromali lyustra, bir nechta o'lchamda mavjud.",
+   "turkum": null,
+   "rasm": "img/1754.jpg"
+  },
+  {
+   "id": "1738",
+   "nom": "PL3167/BK WH halqa plafon",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Oq-qora rangdagi minimalist halqa shaklidagi osma plafon, PL3167/BK WH modeli.",
+   "turkum": null,
+   "rasm": "img/1738.jpg"
+  },
+  {
+   "id": "1736",
+   "nom": "PL3956/WH+GD gumbaz plafon",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Ichki tomoni oltin rangli, tashqi tomoni oq rangdagi gumbazsimon plafon, 40sm o'lchamda.",
+   "turkum": null,
+   "rasm": "img/1736.jpg"
+  },
+  {
+   "id": "1740",
+   "nom": "3970/GAB konussimon lyustra",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Qora ipsimon tolalardan yasalgan konussimon osma lyustra, pastki halqasida yorug'lik.",
+   "turkum": null,
+   "rasm": "img/1740.jpg"
+  }
+ ]
+}
