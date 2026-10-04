@@ -1,0 +1,63 @@
+{
+ "dokon": "PcShop_uz",
+ "kanal": "pcshop_uz",
+ "ava": "img/ava.jpg",
+ "accent": "#A9181E",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "4099",
+   "nom": "HP OmniBook X Flip 16-as0023dx",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Intel Core Ultra 7, 16 ГБ ОЗУ, 1 ТБ SSD — сенсорный ноутбук-трансформер 2-в-1",
+   "turkum": "Noutbuk",
+   "rasm": "img/4099.jpg"
+  },
+  {
+   "id": "4063",
+   "nom": "O'yin kompyuteri Ryzen 7 9800X3D RTX 5070",
+   "narx": "$2 450",
+   "narx_son": null,
+   "tavsif": "Ryzen 7 9800X3D protsessor va RTX 5070 videokarta asosidagi tayyor o'yin kompyuteri",
+   "turkum": "Kompyuter",
+   "rasm": "img/4063.jpg"
+  },
+  {
+   "id": "4082",
+   "nom": "GravaStar Mercury V75 Lite Onyx Crystal",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Игровая механическая клавиатура 75% с RGB-подсветкой, хот-свапом и алюминиевым корпусом",
+   "turkum": "Klaviatura",
+   "rasm": "img/4082.jpg"
+  },
+  {
+   "id": "4080",
+   "nom": "Acer Predator 27 2K OLED 500Hz",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Флагманский игровой монитор OLED 2K с частотой обновления 500 Гц и откликом 0,03 мс",
+   "turkum": "Monitor",
+   "rasm": "img/4080.jpg"
+  },
+  {
+   "id": "4077",
+   "nom": "Cougar E-Ares 120",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Игровой стол с электрической регулировкой высоты и RGB-подсветкой, карбоновая поверхность",
+   "turkum": "Stol",
+   "rasm": "img/4077.jpg"
+  },
+  {
+   "id": "4062",
+   "nom": "PNY GeForce RTX 5070",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Видеокарта нового поколения NVIDIA Blackwell, 12 ГБ GDDR7, комфортный 1440p гейминг",
+   "turkum": "Videokarta",
+   "rasm": "img/4062.jpg"
+  }
+ ]
+}
