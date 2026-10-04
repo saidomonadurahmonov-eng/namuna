@@ -1,0 +1,63 @@
+{
+ "dokon": "Credomobile.uz",
+ "kanal": "Credomobileuz",
+ "ava": "img/ava.jpg",
+ "accent": "#A98218",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "1733",
+   "nom": "iPhone 18 Pro Max 512GB",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "512 GB xotira, yangi, barcha ranglarda, muddatli to'lov va Trade-in xizmati bilan.",
+   "turkum": null,
+   "rasm": "img/1733.jpg"
+  },
+  {
+   "id": "1720",
+   "nom": "iPhone 17 Pro 256GB",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "256 GB, 97% batareya, Ideal holatda, kumush rang, muddatli to'lovda sotiladi.",
+   "turkum": null,
+   "rasm": "img/1720.jpg"
+  },
+  {
+   "id": "1727",
+   "nom": "iPhone 16 Pro Max 256GB",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "256 GB, 100% batareya (68 sikl), qora rang, muddatli to'lov va kafolat bilan.",
+   "turkum": null,
+   "rasm": "img/1727.jpg"
+  },
+  {
+   "id": "1728",
+   "nom": "iPhone 15 Pro Max 512GB",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "512 GB, 89% batareya, Natural rang, muddatli to'lov va Trade-in xizmati mavjud.",
+   "turkum": null,
+   "rasm": "img/1728.jpg"
+  },
+  {
+   "id": "1721",
+   "nom": "iPhone Air 256GB",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "256 GB, 92% batareya, oq rang, muddatli to'lov va 3 oylik kafolat bilan.",
+   "turkum": null,
+   "rasm": "img/1721.jpg"
+  },
+  {
+   "id": "1729",
+   "nom": "iPhone 14 Pro 256GB",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "256 GB, 83% batareya, siyohrang (Purple), muddatli to'lov imkoniyati mavjud.",
+   "turkum": null,
+   "rasm": "img/1729.jpg"
+  }
+ ]
+}
