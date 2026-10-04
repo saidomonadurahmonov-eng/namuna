@@ -1,0 +1,63 @@
+{
+ "dokon": "Phototrade.uz",
+ "kanal": "phototradeuz",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "2364",
+   "nom": "Instax Mini 12 Giftbox",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Suratlarni bir necha soniyada chop etuvchi ixcham tezkor kamera, sovg'a to'plamida.",
+   "turkum": "Kamera",
+   "rasm": "img/2364.jpg"
+  },
+  {
+   "id": "2362",
+   "nom": "Hollyland Lark M3",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Video, intervyu va Reels uchun mo'ljallangan ixcham simsiz mikrofon tizimi, toza ovoz beradi.",
+   "turkum": "Mikrofon",
+   "rasm": "img/2362.jpg"
+  },
+  {
+   "id": "2360",
+   "nom": "Canon RF45mm F1.2 STM",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Kundalik, portret va kreativ suratga olish uchun qulay, F/1.2 diafragmali obyektiv.",
+   "turkum": "Obyektiv",
+   "rasm": "img/2360.jpg"
+  },
+  {
+   "id": "2358",
+   "nom": "Insta360 X6",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "360° formatda dinamik va keng qamrovli videolar olish uchun mo'ljallangan ixcham ekshn kamera.",
+   "turkum": "Ekshn-kamera",
+   "rasm": "img/2358.jpg"
+  },
+  {
+   "id": "2348",
+   "nom": "SmallRig Suction Cup Camera Support",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Avtomobil kuzovi yoki oynasiga kamerani mustahkam o'rnatish uchun professional mahkamlash tizimi.",
+   "turkum": "Aksessuar",
+   "rasm": "img/2348.jpg"
+  },
+  {
+   "id": "2344",
+   "nom": "DJI RS5 Combo",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "3 kg yuklama va aqlli tracking moduli bilan professional videotasvir uchun 3 o'qli stabilizator.",
+   "turkum": "Stabilizator",
+   "rasm": "img/2344.jpg"
+  }
+ ]
+}
