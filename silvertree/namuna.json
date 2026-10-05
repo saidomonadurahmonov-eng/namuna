@@ -1,0 +1,63 @@
+{
+ "dokon": "SILVER TREE UZ",
+ "kanal": "Silver_tree_uz",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "5395",
+   "nom": "Кольца",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Размеры и стоимость уточняйте в комментариях",
+   "turkum": "Кольцо",
+   "rasm": "img/5395.jpg"
+  },
+  {
+   "id": "5356",
+   "nom": "Цепочки",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Цепочки в наличии в филиале Tashkent City mall",
+   "turkum": "Цепочка",
+   "rasm": "img/5356.jpg"
+  },
+  {
+   "id": "5404",
+   "nom": "Гвоздики",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Новое поступление гвоздиков в филиале Некст",
+   "turkum": "Серьги",
+   "rasm": "img/5404.jpg"
+  },
+  {
+   "id": "5385",
+   "nom": "Браслеты",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Браслеты в наличии, большой ассортимент из серебра 925 пробы с родиевым покрытием",
+   "turkum": "Браслет",
+   "rasm": "img/5385.jpg"
+  },
+  {
+   "id": "5370",
+   "nom": "Теннисные браслеты",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Теннисные браслеты в наличии",
+   "turkum": "Браслет",
+   "rasm": "img/5370.jpg"
+  },
+  {
+   "id": "5306",
+   "nom": "Жади браслет",
+   "narx": "750 000 сум",
+   "narx_son": 750000,
+   "tavsif": "В наличии жади браслет",
+   "turkum": "Браслет",
+   "rasm": "img/5306.jpg"
+  }
+ ]
+}
