@@ -1,0 +1,63 @@
+{
+ "dokon": "Orchidsale - орхидеи в Ташкенте",
+ "kanal": "orchidsale",
+ "ava": "img/ava.jpg",
+ "accent": "#6B9A16",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "13811",
+   "nom": "Орхидеи подростки по предзаказу",
+   "narx": "65000 so'm",
+   "narx_son": 65000,
+   "tavsif": "https://t.me/orchidsaleperakatalog/1663",
+   "turkum": null,
+   "rasm": "img/13811.jpg"
+  },
+  {
+   "id": "13763",
+   "nom": "Вазы от 70000сум",
+   "narx": "70000 so'm",
+   "narx_son": 70000,
+   "tavsif": "",
+   "turkum": null,
+   "rasm": "img/13763.jpg"
+  },
+  {
+   "id": "13739",
+   "nom": "АКЦИЯ в честь Мустакилик при любой покупке от 200000сум Анту",
+   "narx": "200000 so'm",
+   "narx_son": 200000,
+   "tavsif": "",
+   "turkum": null,
+   "rasm": "img/13739.jpg"
+  },
+  {
+   "id": "13833",
+   "nom": "С праздником!",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Мы работаем в обычном режиме",
+   "turkum": null,
+   "rasm": "img/13833.jpg"
+  },
+  {
+   "id": "13832",
+   "nom": "Новый завоз!",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Магазин работает с 9:00 до 20:00 Локация",
+   "turkum": null,
+   "rasm": "img/13832.jpg"
+  },
+  {
+   "id": "13828",
+   "nom": "Мы работаем в обычном режиме",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "",
+   "turkum": null,
+   "rasm": "img/13828.jpg"
+  }
+ ]
+}
