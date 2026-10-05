@@ -1,0 +1,63 @@
+{
+ "dokon": "PARFUM CITY",
+ "kanal": "parfumcity_uz",
+ "ava": null,
+ "accent": "#A3831E",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "8898",
+   "nom": "Sisley Soir d'Orient",
+   "narx": "1 750 000 so'm",
+   "narx_son": 1750000,
+   "tavsif": "Парфюмерная вода Soir d'Оrient от Sisley, 100 мл, в наличии со скидкой.",
+   "turkum": null,
+   "rasm": "img/8898.jpg"
+  },
+  {
+   "id": "8897",
+   "nom": "Maison Francis Kurkdjian Grand Soir",
+   "narx": "2 395 000 so'm",
+   "narx_son": 2395000,
+   "tavsif": "Парфюмерная вода Grand Soir от Maison Francis Kurkdjian, 70 мл, со скидкой.",
+   "turkum": null,
+   "rasm": "img/8897.jpg"
+  },
+  {
+   "id": "8896",
+   "nom": "Christian Louboutin Loubiprince",
+   "narx": "1 295 000 so'm",
+   "narx_son": 1295000,
+   "tavsif": "Парфюмерная вода Loubiprince от Christian Louboutin, на заказ, 50 мл.",
+   "turkum": null,
+   "rasm": "img/8896.jpg"
+  },
+  {
+   "id": "8884",
+   "nom": "Giorgio Armani My Way Sunny Vanilla",
+   "narx": "1 380 000 so'm",
+   "narx_son": 1380000,
+   "tavsif": "Новинка 2025 — парфюмерная вода My Way Sunny Vanilla от Giorgio Armani, 90 мл.",
+   "turkum": null,
+   "rasm": "img/8884.jpg"
+  },
+  {
+   "id": "8883",
+   "nom": "Roja Parfums Oceania",
+   "narx": "2 580 000 so'm",
+   "narx_son": 2580000,
+   "tavsif": "Парфюмерная вода Oceania от Roja Parfums, 100 мл, в наличии со скидкой.",
+   "turkum": null,
+   "rasm": "img/8883.jpg"
+  },
+  {
+   "id": "8888",
+   "nom": "Sospiro Basso",
+   "narx": "2 050 000 so'm",
+   "narx_son": 2050000,
+   "tavsif": "Парфюмерная вода Basso от Sospiro, 100 мл, в наличии со скидкой.",
+   "turkum": null,
+   "rasm": "img/8888.jpg"
+  }
+ ]
+}
