@@ -1,0 +1,63 @@
+{
+ "dokon": "HONOR furniture",
+ "kanal": "HONOR_furniture",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "770",
+   "nom": "PRAGA divan to'plami",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Keng va qulay PRAGA divan-kreslolari mehmonxonangizga o'ziga xos ko'rinish bag'ishlaydi.",
+   "turkum": null,
+   "rasm": "img/770.jpg"
+  },
+  {
+   "id": "755",
+   "nom": "SECRET divan to'plami",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Keng va qulay SECRET divan-kreslolari oila davrasida dam olish uchun sevimli joyga aylanadi.",
+   "turkum": null,
+   "rasm": "img/755.jpg"
+  },
+  {
+   "id": "752",
+   "nom": "SELIN divan to'plami",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Keng va qulay SELIN divan-kreslolari mehmonxonangizga o'ziga xos ko'rinish baxsh etadi.",
+   "turkum": null,
+   "rasm": "img/752.jpg"
+  },
+  {
+   "id": "749",
+   "nom": "DELFIN divan to'plami",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Keng va qulay DELFIN divan-kreslolari oila atrofida dam olish uchun qulay joy yaratadi.",
+   "turkum": null,
+   "rasm": "img/749.jpg"
+  },
+  {
+   "id": "734",
+   "nom": "ELIF divan to'plami",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Keng va qulay ELIF divan-kreslolari mehmonxonangizga nafis va zamonaviy ko'rinish baxsh etadi.",
+   "turkum": null,
+   "rasm": "img/734.jpg"
+  },
+  {
+   "id": "730",
+   "nom": "BARON divan to'plami",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Keng va qulay BARON divan-kreslolari hashamatli va qulay dam olish makonini yaratadi.",
+   "turkum": null,
+   "rasm": "img/730.jpg"
+  }
+ ]
+}
