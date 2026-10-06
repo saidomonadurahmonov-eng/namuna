@@ -1,0 +1,63 @@
+{
+ "dokon": "Kurtkalar❄️",
+ "kanal": "kurtka_shop",
+ "ava": "img/ava.jpg",
+ "accent": "#A94018",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "16152",
+   "nom": "Rangli qishki kurtka",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Do'kondagi turli rangdagi qishki kurtkalar, narxi 49 000 so'mdan.",
+   "turkum": null,
+   "rasm": "img/16152.jpg"
+  },
+  {
+   "id": "16144",
+   "nom": "Pukhli qishki kurtka",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Rastadagi barcha qishki kurtkalar bir xil narxda — 99 000 so'm.",
+   "turkum": null,
+   "rasm": "img/16144.jpg"
+  },
+  {
+   "id": "16132",
+   "nom": "Chegirmadagi qishki kurtka",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Mijozlar band qilayotgan chegirmadagi qishki kurtkalar, narxi 50 000 so'm.",
+   "turkum": null,
+   "rasm": "img/16132.jpg"
+  },
+  {
+   "id": "16131",
+   "nom": "Och rangli qishki kurtka",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Turli rangdagi qishki kurtkalar, barchasi 99 000 so'mdan sotilmoqda.",
+   "turkum": null,
+   "rasm": "img/16131.jpg"
+  },
+  {
+   "id": "16133",
+   "nom": "Sariq qishki kurtka",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Yangi sariq rangdagi qishki kurtka, tez orada sotuvga chiqadi.",
+   "turkum": null,
+   "rasm": "img/16133.jpg"
+  },
+  {
+   "id": "16138",
+   "nom": "Yangi kurtka partiyasi",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Omborga yangi qishki kurtkalar partiyasi tushmoqda, tez orada sotuvda.",
+   "turkum": null,
+   "rasm": "img/16138.jpg"
+  }
+ ]
+}
