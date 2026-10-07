@@ -1,0 +1,63 @@
+{
+ "dokon": "🪽🩷𝓜𝓲𝓵𝓪_𝓑𝓪𝓫𝔂_𝓚𝓲𝓭𝓼🩷🪽",
+ "kanal": "mila_baby_kids",
+ "ava": "img/ava.jpg",
+ "accent": "#A91881",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "53916",
+   "nom": "Burberry to'plami",
+   "narx": "450 000 so'm",
+   "narx_son": 450000,
+   "tavsif": "100-150 sm o'lchamli, premium sifatli Burberry bolalar kostyumi",
+   "turkum": null,
+   "rasm": "img/53916.jpg"
+  },
+  {
+   "id": "53910",
+   "nom": "Dior kurtka to'plami",
+   "narx": "495 000 so'm",
+   "narx_son": 495000,
+   "tavsif": "100-150 sm o'lchamli, premium kachestva Dior kurtka va shim to'plami",
+   "turkum": null,
+   "rasm": "img/53910.jpg"
+  },
+  {
+   "id": "53888",
+   "nom": "Troyka: palto, vatalaska, shim",
+   "narx": "495 000 so'm",
+   "narx_son": 495000,
+   "tavsif": "1-7 yosh uchun noodatiy tayyor look, mexli troyka to'plam",
+   "turkum": null,
+   "rasm": "img/53888.jpg"
+  },
+  {
+   "id": "53884",
+   "nom": "Troyka kostyum",
+   "narx": "350 000 so'm",
+   "narx_son": 350000,
+   "tavsif": "90-120 sm o'lchamli, super narxdagi troyka kostyum",
+   "turkum": null,
+   "rasm": "img/53884.jpg"
+  },
+  {
+   "id": "53892",
+   "nom": "Sport kostyumi",
+   "narx": "395 000 so'm",
+   "narx_son": 395000,
+   "tavsif": "Yangi kelgan qizlar uchun ulgurji sport kostyumi",
+   "turkum": null,
+   "rasm": "img/53892.jpg"
+  },
+  {
+   "id": "53878",
+   "nom": "Dvoyka to'plam",
+   "narx": "330 000 so'm",
+   "narx_son": 330000,
+   "tavsif": "100-140 sm gacha o'lchamli, yangi kolleksiyadan dvoyka to'plam",
+   "turkum": null,
+   "rasm": "img/53878.jpg"
+  }
+ ]
+}
