@@ -1,0 +1,63 @@
+{
+ "dokon": "ISADORRA BEAUTY COSMETIC",
+ "kanal": "isadorrabeauty",
+ "ava": "img/ava.jpg",
+ "accent": "#A2631F",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "8687",
+   "nom": "Lic Highlighter",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Lic brendidan porloq, yengil pardoz mahsuloti.",
+   "turkum": "Pardoz",
+   "rasm": "img/8687.jpg"
+  },
+  {
+   "id": "8686",
+   "nom": "Oltin yurakchali sovg'a qutisi",
+   "narx": "125 $",
+   "narx_son": null,
+   "tavsif": "Oltin yurakcha bezakli chiroyli sovg'a qutisi to'plami.",
+   "turkum": "Sovg'a qutisi",
+   "rasm": "img/8686.jpg"
+  },
+  {
+   "id": "8685",
+   "nom": "Yurak shaklidagi sovg'a qutisi",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Bant bilan bezatilgan pushti rangli yurak shaklidagi sovg'a qutisi.",
+   "turkum": "Sovg'a qutisi",
+   "rasm": "img/8685.jpg"
+  },
+  {
+   "id": "8684",
+   "nom": "Pushti kosmetika sumkachasi",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Shaffof qadoqdagi pushti rangli kosmetika sumkachasi.",
+   "turkum": "Sumkacha",
+   "rasm": "img/8684.jpg"
+  },
+  {
+   "id": "8683",
+   "nom": "Dove sovg'a to'plami",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Dove mahsulotlari bilan to'ldirilgan shaffof quticha sovg'a to'plami.",
+   "turkum": "Sovg'a to'plami",
+   "rasm": "img/8683.jpg"
+  },
+  {
+   "id": "8681",
+   "nom": "Rose Herby sovg'a nabori",
+   "narx": "300 000 so'mdan",
+   "narx_son": 300000,
+   "tavsif": "Rose Herby brendidan chiroyli bezakli sovg'a nabori, 300 000 so'mdan boshlanadi.",
+   "turkum": "Sovg'a to'plami",
+   "rasm": "img/8681.jpg"
+  }
+ ]
+}
