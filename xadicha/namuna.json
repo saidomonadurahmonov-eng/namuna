@@ -1,0 +1,63 @@
+{
+ "dokon": "Xadicha Cosmetics",
+ "kanal": "xadicha_kosmetika_1",
+ "ava": "img/ava.jpg",
+ "accent": "#9B3526",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "4571",
+   "nom": "ECLADO Snail Lifting Cream",
+   "narx": "330 000 so'm",
+   "narx_son": 330000,
+   "tavsif": "20% snail mucin bilan terini namlab, elastikligini qo'llab, mayda ajinlarni kamaytiruvchi lifting krem.",
+   "turkum": "Krem",
+   "rasm": "img/4571.jpg"
+  },
+  {
+   "id": "4556",
+   "nom": "Amouage Guidance",
+   "narx": "3 550 000 so'm",
+   "narx_son": 3550000,
+   "tavsif": "Nok, atirgul, yasmin, vanil va sandal notalariga ega shirin, hashamatli hidli 100% original parfyum.",
+   "turkum": "Parfyum",
+   "rasm": "img/4556.jpg"
+  },
+  {
+   "id": "4553",
+   "nom": "Bath & Body Works Into the Night",
+   "narx": "70 000 so'm",
+   "narx_son": 70000,
+   "tavsif": "Terini chuqur namlantiruvchi, yoqimli hidli 100% original Amerika qo'l kremi.",
+   "turkum": "Qo'l kremi",
+   "rasm": "img/4553.jpg"
+  },
+  {
+   "id": "4544",
+   "nom": "Huda Beauty Easy Blur",
+   "narx": "499 000 so'm",
+   "narx_son": 499000,
+   "tavsif": "Yengil tekstura, 1,5% niatsinamid bilan teri notekisliklarini blur-effekt bilan yashiruvchi fon de ten.",
+   "turkum": "Fon de ten",
+   "rasm": "img/4544.jpg"
+  },
+  {
+   "id": "4539",
+   "nom": "Hourglass Palette",
+   "narx": "1 480 000 so'm",
+   "narx_son": 1480000,
+   "tavsif": "Kontur, rumyana, haylaytr va pudrani bitta naborda jamlagan sifatli makiyaj palitrasi.",
+   "turkum": "Palitra",
+   "rasm": "img/4539.jpg"
+  },
+  {
+   "id": "4529",
+   "nom": "POM7 Smart Hybrid BB Cream SPF 36",
+   "narx": "210 000 so'm",
+   "narx_son": 210000,
+   "tavsif": "SPF 36 PA++ himoya bilan terini tekislab, niatsinamid va gialuron kislotasi bilan namlantiruvchi BB-krem.",
+   "turkum": "BB krem",
+   "rasm": "img/4529.jpg"
+  }
+ ]
+}
