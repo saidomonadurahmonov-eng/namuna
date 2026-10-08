@@ -1,0 +1,63 @@
+{
+ "dokon": "HILOLA DESIGN",
+ "kanal": "hiloladesign",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "5844",
+   "nom": "Yarqiroq tufli-shippak",
+   "narx": "250 000 so'm",
+   "narx_son": 250000,
+   "tavsif": "Oq va bej ranglarda yarqiroq tufli-shippak, yangi sotuvda.",
+   "turkum": "Poyabzal",
+   "rasm": "img/5844.jpg"
+  },
+  {
+   "id": "5882",
+   "nom": "Toshli baletka",
+   "narx": "290 000 so'm",
+   "narx_son": 290000,
+   "tavsif": "Old qismi billur toshlar bilan bezatilgan baletka, 36, 39 va 41 razmerlar bor.",
+   "turkum": "Poyabzal",
+   "rasm": "img/5882.jpg"
+  },
+  {
+   "id": "5834",
+   "nom": "Toshli uy shippagi",
+   "narx": "190 000 so'm",
+   "narx_son": 190000,
+   "tavsif": "Kumush rangli, gul shaklidagi toshlar bilan bezatilgan shippak, 37-38 razmer.",
+   "turkum": "Poyabzal",
+   "rasm": "img/5834.jpg"
+  },
+  {
+   "id": "5853",
+   "nom": "Baletka",
+   "narx": "290 000 so'm",
+   "narx_son": 290000,
+   "tavsif": "Naqshli, bezakli baletka, 37 va 40 razmerlar sotuvda.",
+   "turkum": "Poyabzal",
+   "rasm": "img/5853.jpg"
+  },
+  {
+   "id": "5865",
+   "nom": "Yaltiroq baletka",
+   "narx": "290 000 so'm",
+   "narx_son": 290000,
+   "tavsif": "Old qismi toshlar bilan bezatilgan yaltiroq baletka, 38 razmer sotuvda.",
+   "turkum": "Poyabzal",
+   "rasm": "img/5865.jpg"
+  },
+  {
+   "id": "5867",
+   "nom": "Baxmal kostyum",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Yoqasi bezakli baxmal ko'ylak va keng shimdan iborat kostyum.",
+   "turkum": "Kiyim",
+   "rasm": "img/5867.jpg"
+  }
+ ]
+}
