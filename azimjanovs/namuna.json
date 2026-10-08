@@ -1,0 +1,63 @@
+{
+ "dokon": "Azimjanovs_store",
+ "kanal": "azimjanovs_store",
+ "ava": "img/ava.jpg",
+ "accent": "#286799",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "6940",
+   "nom": "Набор Baylis & Harding в косметичке",
+   "narx": "595 000 so'm",
+   "narx_son": 595000,
+   "tavsif": "Мист 100 мл, крем для рук 100 мл и гель для душа 100 мл.",
+   "turkum": "Набор",
+   "rasm": "img/6940.jpg"
+  },
+  {
+   "id": "6937",
+   "nom": "Набор Baylis & Harding Candlelit",
+   "narx": "750 000 so'm",
+   "narx_son": 750000,
+   "tavsif": "Крем гель для душа, пена для ванны, масло для тела и ароматическая свечка.",
+   "turkum": "Набор",
+   "rasm": "img/6937.jpg"
+  },
+  {
+   "id": "6933",
+   "nom": "Набор Baylis & Harding для ванны",
+   "narx": "650 000 so'm",
+   "narx_son": 650000,
+   "tavsif": "Гель для душа 300 мл, пена для ванны 300 мл и лосьон для тела 200 мл.",
+   "turkum": "Набор",
+   "rasm": "img/6933.jpg"
+  },
+  {
+   "id": "6931",
+   "nom": "Набор кремов для рук",
+   "narx": "280 000 so'm",
+   "narx_son": 280000,
+   "tavsif": "Набор кремов для рук.",
+   "turkum": "Набор",
+   "rasm": "img/6931.jpg"
+  },
+  {
+   "id": "6930",
+   "nom": "Мини набор с косметичкой Armani",
+   "narx": "450 000 so'm",
+   "narx_son": 450000,
+   "tavsif": "Фиксатор Benefit, Magic cream, лосьон Sol De Janeiro и косметичка Armani.",
+   "turkum": "Набор",
+   "rasm": "img/6930.jpg"
+  },
+  {
+   "id": "6891",
+   "nom": "Victoria's Secret лосьон и мист",
+   "narx": "200 000 so'm",
+   "narx_son": 200000,
+   "tavsif": "Лосьон для тела и мист, каждый по 200.000 сум.",
+   "turkum": "Уход за телом",
+   "rasm": "img/6891.jpg"
+  }
+ ]
+}
