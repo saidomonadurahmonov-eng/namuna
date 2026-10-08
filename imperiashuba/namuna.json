@@ -1,0 +1,63 @@
+{
+ "dokon": "Imperia Shuba Mex",
+ "kanal": "imperia_shuba_mexa",
+ "ava": "img/ava.jpg",
+ "accent": "#134F8B",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "8774",
+   "nom": "Yangi mavsum shubalari",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Katta partiyada yangi mavsum shubalari yetib keldi, yangi modellar va kolleksiya.",
+   "turkum": null,
+   "rasm": "img/8774.jpg"
+  },
+  {
+   "id": "8773",
+   "nom": "Banana trend shubasi",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "IMPERIA hardoim trendda — trenddagi shuba modeli.",
+   "turkum": null,
+   "rasm": "img/8773.jpg"
+  },
+  {
+   "id": "8780",
+   "nom": "Import shubalar",
+   "narx": "550$ dan",
+   "narx_son": null,
+   "tavsif": "Import shubalar qulay narxda, 2 yillik kafolat bilan, soni cheklangan.",
+   "turkum": null,
+   "rasm": "img/8780.jpg"
+  },
+  {
+   "id": "8764",
+   "nom": "Angliskiy yoqa shubalari",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Angliskiy yoqali shubalarning ranglari, narxi va obzori.",
+   "turkum": null,
+   "rasm": "img/8764.jpg"
+  },
+  {
+   "id": "8763",
+   "nom": "Yangi modellar shubalari",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Yangi modellar, chiroyli fasonlar va o'zgacha variantlar keldi.",
+   "turkum": null,
+   "rasm": "img/8763.jpg"
+  },
+  {
+   "id": "8782",
+   "nom": "1-qavat shubalari",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "1 qavatdagi hamma shubalarga 30% chegirma, 2 yil garantiya bilan.",
+   "turkum": null,
+   "rasm": "img/8782.jpg"
+  }
+ ]
+}
