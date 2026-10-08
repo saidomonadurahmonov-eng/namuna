@@ -1,0 +1,63 @@
+{
+ "dokon": "MyShoes.uzb",
+ "kanal": "myshoes_uz",
+ "ava": "img/ava.jpg",
+ "accent": "#A93618",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "7110",
+   "nom": "Dior krossovkalar",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Premium sifatli krossovka, 36–41 razmerlar mavjud.",
+   "turkum": null,
+   "rasm": "img/7110.jpg"
+  },
+  {
+   "id": "7108",
+   "nom": "Zamsh va to'r krossovkalar",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Premium sifatli krossovka, 36–41 razmerlar mavjud.",
+   "turkum": null,
+   "rasm": "img/7108.jpg"
+  },
+  {
+   "id": "7105",
+   "nom": "Chanel zamsh sandaliyalar",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Premium sifatli zamsh poyabzal, 36–41 razmerlar mavjud.",
+   "turkum": null,
+   "rasm": "img/7105.jpg"
+  },
+  {
+   "id": "7112",
+   "nom": "Ayollar tuflisi",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Premium sifatli past ingichka poshnali tufli, 36–41 razmerlar.",
+   "turkum": null,
+   "rasm": "img/7112.jpg"
+  },
+  {
+   "id": "7103",
+   "nom": "Jimmy Choo baletkalar",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Premium sifatli baletka, 36–41 razmerlar mavjud.",
+   "turkum": null,
+   "rasm": "img/7103.jpg"
+  },
+  {
+   "id": "7101",
+   "nom": "Jimmy Choo kristalli baletkalar",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Premium sifatli to'rli baletka, 36–41 razmerlar mavjud.",
+   "turkum": null,
+   "rasm": "img/7101.jpg"
+  }
+ ]
+}
