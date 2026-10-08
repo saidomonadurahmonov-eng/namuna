@@ -1,0 +1,63 @@
+{
+ "dokon": "Ultra Beauty✨",
+ "kanal": "ultrabeauty_uz",
+ "ava": "img/ava.jpg",
+ "accent": "#A91819",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "17386",
+   "nom": "Anua Heartleaf Silky Moisture Sun Cream",
+   "narx": "210 000 so'm",
+   "narx_son": 210000,
+   "tavsif": "Успокаивающий солнцезащитный крем с хауттюйнией SPF50+ PA++++ без белых следов.",
+   "turkum": "Quyoshdan himoya",
+   "rasm": "img/17386.jpg"
+  },
+  {
+   "id": "17383",
+   "nom": "Anua BHA 2% Gentle Exfoliating Toner",
+   "narx": "215 000 so'm",
+   "narx_son": 215000,
+   "tavsif": "Мягкий отшелушивающий тонер с салициловой кислотой для работы с высыпаниями и себумом.",
+   "turkum": "Tonik",
+   "rasm": "img/17383.jpg"
+  },
+  {
+   "id": "17381",
+   "nom": "Wishtrend Vitamin A-mazing Night Cream",
+   "narx": "225 000 so'm",
+   "narx_son": 225000,
+   "tavsif": "Ночной крем с ретинолом и бакучиолом, уменьшает морщины и подходит чувствительной коже.",
+   "turkum": "Yuz kremi",
+   "rasm": "img/17381.jpg"
+  },
+  {
+   "id": "17379",
+   "nom": "Arocell Wrinkle Solution Eye Cream",
+   "narx": "215 000 so'm",
+   "narx_son": 215000,
+   "tavsif": "Гальванический крем для век, который подтягивает кожу и уменьшает тёмные круги и отёки.",
+   "turkum": "Ko'z kremi",
+   "rasm": "img/17379.jpg"
+  },
+  {
+   "id": "17366",
+   "nom": "MEDIPEEL Phyto EX PDRN Powder Cleanser",
+   "narx": "180 000 so'm",
+   "narx_son": 180000,
+   "tavsif": "Энзимная пудра с PDRN для глубокого очищения кожи без агрессивного скрабирования.",
+   "turkum": "Tozalash",
+   "rasm": "img/17366.jpg"
+  },
+  {
+   "id": "17361",
+   "nom": "KEUNE Vital Nutrition Power Plump",
+   "narx": "525 000 so'm",
+   "narx_son": 525000,
+   "tavsif": "Несмываемый гель-крем для сухих, повреждённых и химически обработанных волос.",
+   "turkum": "Soch parvarishi",
+   "rasm": "img/17361.jpg"
+  }
+ ]
+}
