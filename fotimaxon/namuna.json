@@ -1,0 +1,63 @@
+{
+ "dokon": "Fotimaxon 💎Diamond💎",
+ "kanal": "fotimaxondiamond",
+ "ava": "img/ava.jpg",
+ "accent": "#93532E",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "32981",
+   "nom": "Kotta va ortancha uzuklar",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Kotta va ortancha o'lchamdagi uzuklar.",
+   "turkum": "Uzuk",
+   "rasm": "img/32981.jpg"
+  },
+  {
+   "id": "32916",
+   "nom": "Oq tilla brendlarimiz",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Oq tillada brendlarimiz.",
+   "turkum": "Bilaguzuk",
+   "rasm": "img/32916.jpg"
+  },
+  {
+   "id": "32915",
+   "nom": "Brendiviy brasletlar",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Brendiviy brasletlarimiz do'konda nalichi.",
+   "turkum": "Bilaguzuk",
+   "rasm": "img/32915.jpg"
+  },
+  {
+   "id": "32914",
+   "nom": "Gulli brasletlar",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Bulani go'zalligini qarela.",
+   "turkum": "Bilaguzuk",
+   "rasm": "img/32914.jpg"
+  },
+  {
+   "id": "32913",
+   "nom": "Brasletlar to'plami",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Bir biridan chiroyli brasletlarimiz sizni kutishyapti.",
+   "turkum": "Bilaguzuk",
+   "rasm": "img/32913.jpg"
+  },
+  {
+   "id": "32912",
+   "nom": "Toshli brasletlar",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Hammasi nalichi, do'konimizda bor.",
+   "turkum": "Bilaguzuk",
+   "rasm": "img/32912.jpg"
+  }
+ ]
+}
