@@ -1,0 +1,36 @@
+{
+ "dokon": "PASOTTI MEN",
+ "kanal": "pasottimen",
+ "ava": "img/ava.jpg",
+ "accent": "#4D270B",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "4698",
+   "nom": "LORO PIANA",
+   "narx": "400 000 so'm",
+   "narx_son": 400000,
+   "tavsif": "Razmerlar: 39/40/41/42/43/44. Chilonzor, metro Mirzo Ulug'bek.",
+   "turkum": null,
+   "rasm": "img/4698.jpg"
+  },
+  {
+   "id": "4695",
+   "nom": "GAUCHE",
+   "narx": "450 000 so'm",
+   "narx_son": 450000,
+   "tavsif": "Razmerlar: 40/41/42/43/44. Chilonzor, metro Mirzo Ulug'bek.",
+   "turkum": null,
+   "rasm": "img/4695.jpg"
+  },
+  {
+   "id": "4645",
+   "nom": "TENNIS WALK",
+   "narx": "450 000 so'm",
+   "narx_son": 450000,
+   "tavsif": "Razmerlar: 39/40/41/42/43/44. Chilonzor, metro Mirzo Ulug'bek.",
+   "turkum": null,
+   "rasm": "img/4645.jpg"
+  }
+ ]
+}
