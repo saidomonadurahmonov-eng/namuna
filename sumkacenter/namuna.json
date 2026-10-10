@@ -1,0 +1,63 @@
+{
+ "dokon": "Sumka Center 👜👛",
+ "kanal": "sumkacenter",
+ "ava": "img/ava.jpg",
+ "accent": "#A92718",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "8381",
+   "nom": "Tilla dastali yaltiroq klatch",
+   "narx": "240 000 so'm",
+   "narx_son": 240000,
+   "tavsif": "Kumush, oltin va qora rangdagi toshli klatch, metall dastasi bor.",
+   "turkum": null,
+   "rasm": "img/8381.jpg"
+  },
+  {
+   "id": "8377",
+   "nom": "Injuli kichik sumka",
+   "narx": "230 000 so'm",
+   "narx_son": 230000,
+   "tavsif": "Injuli, zanjirli kichik sumka, bayram kiyimlariga mos.",
+   "turkum": null,
+   "rasm": "img/8377.jpg"
+  },
+  {
+   "id": "8375",
+   "nom": "Kristalli dastali sumka",
+   "narx": "180 000 so'm",
+   "narx_son": 180000,
+   "tavsif": "Kristalli bezakli dastali sumka, to'rt xil rangda.",
+   "turkum": null,
+   "rasm": "img/8375.jpg"
+  },
+  {
+   "id": "8373",
+   "nom": "Injuli marjon klatch",
+   "narx": "240 000 so'm",
+   "narx_son": 240000,
+   "tavsif": "Marjon va tosh bilan bezatilgan klatch, kumush va oltin rangda.",
+   "turkum": null,
+   "rasm": "img/8373.jpg"
+  },
+  {
+   "id": "8367",
+   "nom": "Pedro qora kosmetichka sumka",
+   "narx": "280 000 so'm",
+   "narx_son": 280000,
+   "tavsif": "Qora rangli, qulfli, yaltiroq naqshli sumka, karobkali.",
+   "turkum": null,
+   "rasm": "img/8367.jpg"
+  },
+  {
+   "id": "8366",
+   "nom": "Zamsh sumka, ipak ro'molli",
+   "narx": "170 000 so'm",
+   "narx_son": 170000,
+   "tavsif": "Zamshdan tikilgan, dastasiga ro'mol o'ralgan sumka, karobkali.",
+   "turkum": null,
+   "rasm": "img/8366.jpg"
+  }
+ ]
+}
