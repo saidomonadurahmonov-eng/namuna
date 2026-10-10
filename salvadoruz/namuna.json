@@ -1,0 +1,63 @@
+{
+ "dokon": "Salvador_uz",
+ "kanal": "salvadoruz_kanal",
+ "ava": "img/ava.jpg",
+ "accent": "#0A2A4A",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "2019",
+   "nom": "Obuv — to'q ko'k zamsha",
+   "narx": "980 000 so'm",
+   "narx_son": 980000,
+   "tavsif": "New collection obuv, narxi 980.000.",
+   "turkum": "Poyabzal",
+   "rasm": "img/2019.jpg"
+  },
+  {
+   "id": "2018",
+   "nom": "Obuv — jigarrang va to'q ko'k",
+   "narx": "980 000 so'm",
+   "narx_son": 980000,
+   "tavsif": "New collection obuv, narxi 980.000.",
+   "turkum": "Poyabzal",
+   "rasm": "img/2018.jpg"
+  },
+  {
+   "id": "2009",
+   "nom": "Krossovka — to'q ko'k",
+   "narx": "1 180 000 so'm",
+   "narx_son": 1180000,
+   "tavsif": "Narxi 1.180.000.",
+   "turkum": "Poyabzal",
+   "rasm": "img/2009.jpg"
+  },
+  {
+   "id": "2004",
+   "nom": "Krossovka — jigarrang",
+   "narx": "1 180 000 so'm",
+   "narx_son": 1180000,
+   "tavsif": "New collection, narxi 1.180.000.",
+   "turkum": "Poyabzal",
+   "rasm": "img/2004.jpg"
+  },
+  {
+   "id": "1992",
+   "nom": "Charm obuv — to'q ko'k",
+   "narx": "1 380 000 so'm",
+   "narx_son": 1380000,
+   "tavsif": "New collection, narxi 1.380.000.",
+   "turkum": "Poyabzal",
+   "rasm": "img/1992.jpg"
+  },
+  {
+   "id": "1996",
+   "nom": "Jinsi shim",
+   "narx": "495 000 so'm",
+   "narx_son": 495000,
+   "tavsif": "New collection, narxi 495.000.",
+   "turkum": "Kiyim",
+   "rasm": "img/1996.jpg"
+  }
+ ]
+}
