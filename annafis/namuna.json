@@ -1,0 +1,63 @@
+{
+ "dokon": "ANNAFIS. kanal",
+ "kanal": "annafisa_uz",
+ "ava": "img/ava.jpg",
+ "accent": "#16513A",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "103140",
+   "nom": "Sumkalar",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Sumkalarimiz qogan ranglari",
+   "turkum": "Sumka",
+   "rasm": "img/103140.jpg"
+  },
+  {
+   "id": "103113",
+   "nom": "Jilet",
+   "narx": "550 000 so'm",
+   "narx_son": 550000,
+   "tavsif": "Eski narxi 1.050.000 edi, endi 550.000 so'm.",
+   "turkum": "Kiyim",
+   "rasm": "img/103113.jpg"
+  },
+  {
+   "id": "103127",
+   "nom": "Svitor",
+   "narx": "480 000 so'm",
+   "narx_son": 480000,
+   "tavsif": "Svitorlarimiz keldi, razmer: standart.",
+   "turkum": "Kiyim",
+   "rasm": "img/103127.jpg"
+  },
+  {
+   "id": "103126",
+   "nom": "Dvoyka",
+   "narx": "680 000 so'm",
+   "narx_son": 680000,
+   "tavsif": "Dvoyka, materiali: vyazka.",
+   "turkum": "Kiyim",
+   "rasm": "img/103126.jpg"
+  },
+  {
+   "id": "103142",
+   "nom": "Kardigan",
+   "narx": "450 000 so'm",
+   "narx_son": 450000,
+   "tavsif": "Look: kardigan, razmer standart. Yubka va obuv ham bor.",
+   "turkum": "Kiyim",
+   "rasm": "img/103142.jpg"
+  },
+  {
+   "id": "103134",
+   "nom": "Troyka",
+   "narx": "780 000 so'm",
+   "narx_son": 780000,
+   "tavsif": "Novinka troyka, razmer: standart.",
+   "turkum": "Kiyim",
+   "rasm": "img/103134.jpg"
+  }
+ ]
+}
