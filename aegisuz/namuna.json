@@ -1,0 +1,63 @@
+{
+ "dokon": "AEGIS UZ 🇺🇿",
+ "kanal": "aegisuzb",
+ "ava": "img/ava.jpg",
+ "accent": "#090C46",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "1740",
+   "nom": "Stone Island",
+   "narx": "440 000 so'm",
+   "narx_son": 440000,
+   "tavsif": "Все размеры в наличии, полное описание товара в комментариях.",
+   "turkum": "Куртка",
+   "rasm": "img/1740.jpg"
+  },
+  {
+   "id": "1734",
+   "nom": "Moncler",
+   "narx": "530 000 so'm",
+   "narx_son": 530000,
+   "tavsif": "Полное описание товара в комментариях.",
+   "turkum": "Футболка",
+   "rasm": "img/1734.jpg"
+  },
+  {
+   "id": "1728",
+   "nom": "Prada",
+   "narx": "800 000 so'm",
+   "narx_son": 800000,
+   "tavsif": "Полное описание товара в комментариях.",
+   "turkum": "Кроссовки",
+   "rasm": "img/1728.jpg"
+  },
+  {
+   "id": "1722",
+   "nom": "Acne Studios",
+   "narx": "620 000 so'm",
+   "narx_son": 620000,
+   "tavsif": "Полное описание товара в комментариях.",
+   "turkum": "Худи",
+   "rasm": "img/1722.jpg"
+  },
+  {
+   "id": "1694",
+   "nom": "Dior",
+   "narx": "1 200 000 so'm",
+   "narx_son": 1200000,
+   "tavsif": "Полное описание товара в комментариях.",
+   "turkum": "Костюм",
+   "rasm": "img/1694.jpg"
+  },
+  {
+   "id": "1655",
+   "nom": "Polo Ralph Lauren",
+   "narx": "420 000 so'm",
+   "narx_son": 420000,
+   "tavsif": "Полное описание товара в комментариях.",
+   "turkum": "Поло",
+   "rasm": "img/1655.jpg"
+  }
+ ]
+}
