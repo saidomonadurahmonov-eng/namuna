@@ -1,0 +1,63 @@
+{
+ "dokon": "LE PARFUM Showroom",
+ "kanal": "leparfumgo",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "9251",
+   "nom": "LACOSTE ORIGINAL AQUA",
+   "narx": "770 000 so'm",
+   "narx_son": 770000,
+   "tavsif": "Парфюмерная вода для мужчин, 100 мл, Франция.",
+   "turkum": null,
+   "rasm": "img/9251.jpg"
+  },
+  {
+   "id": "9250",
+   "nom": "VALENTINO DONNA BORN IN ROMA PURPLE MELANCHOLIA",
+   "narx": "1 730 000 so'm",
+   "narx_son": 1730000,
+   "tavsif": "Парфюмерная вода для женщин, 100 мл, Франция.",
+   "turkum": null,
+   "rasm": "img/9250.jpg"
+  },
+  {
+   "id": "9249",
+   "nom": "PARFUMS DE MARLY DELINA",
+   "narx": "2 990 000 so'm",
+   "narx_son": 2990000,
+   "tavsif": "Парфюмерная вода для женщин, 75 мл, Франция.",
+   "turkum": null,
+   "rasm": "img/9249.jpg"
+  },
+  {
+   "id": "9237",
+   "nom": "INITIO CAN'T GET ENOUGH",
+   "narx": "2 530 000 so'm",
+   "narx_son": 2530000,
+   "tavsif": "Унисекс парфюмерная вода, 90 мл, Франция.",
+   "turkum": null,
+   "rasm": "img/9237.jpg"
+  },
+  {
+   "id": "9236",
+   "nom": "EMPORIO ARMANI STRONGER WITH YOU POWERFULLY",
+   "narx": "1 440 000 so'm",
+   "narx_son": 1440000,
+   "tavsif": "Парфюмерная вода для мужчин, 100 мл, Франция.",
+   "turkum": null,
+   "rasm": "img/9236.jpg"
+  },
+  {
+   "id": "9238",
+   "nom": "GIORGIO ARMANI RED BLOOM PASSIONE",
+   "narx": "1 430 000 so'm",
+   "narx_son": 1430000,
+   "tavsif": "Парфюмерная вода для женщин, 100 мл, Франция.",
+   "turkum": null,
+   "rasm": "img/9238.jpg"
+  }
+ ]
+}
