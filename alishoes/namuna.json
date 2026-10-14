@@ -1,0 +1,63 @@
+{
+ "dokon": "✈️ ALISHOES.UZ | Расмий канал",
+ "kanal": "alishoesuz",
+ "ava": null,
+ "accent": "#49130A",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "31613",
+   "nom": "Erkaklar charm loferi",
+   "narx": "2 280 000 so'm",
+   "narx_son": 2280000,
+   "tavsif": "Premium sifatli, trenddagi va qulay erkaklar poyabzali.",
+   "turkum": null,
+   "rasm": "img/31613.jpg"
+  },
+  {
+   "id": "31686",
+   "nom": "Erkaklar velur loferi",
+   "narx": "1 380 000 so'm",
+   "narx_son": 1380000,
+   "tavsif": "Premium sifatli erkaklar poyabzali, O'zbekiston bo'ylab yetkazib beriladi.",
+   "turkum": null,
+   "rasm": "img/31686.jpg"
+  },
+  {
+   "id": "31674",
+   "nom": "Erkaklar charm krossovkasi",
+   "narx": "1 380 000 so'm",
+   "narx_son": 1380000,
+   "tavsif": "Premium sifatli erkaklar poyabzali, 39-45 o'lchamlari bor.",
+   "turkum": null,
+   "rasm": "img/31674.jpg"
+  },
+  {
+   "id": "31678",
+   "nom": "Erkaklar brogue tufligi",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Premium sifatli erkaklar poyabzali, 39-o'lcham mavjud.",
+   "turkum": null,
+   "rasm": "img/31678.jpg"
+  },
+  {
+   "id": "31683",
+   "nom": "Erkaklar charm botinkasi",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Premium sifatli, qulay va bardoshli erkaklar poyabzali.",
+   "turkum": null,
+   "rasm": "img/31683.jpg"
+  },
+  {
+   "id": "31673",
+   "nom": "Erkaklar qora tufli",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Eng so'nggi trenddagi, qulay va bardoshli erkaklar poyabzali.",
+   "turkum": null,
+   "rasm": "img/31673.jpg"
+  }
+ ]
+}
