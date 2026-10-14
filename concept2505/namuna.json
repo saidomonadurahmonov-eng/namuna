@@ -1,0 +1,63 @@
+{
+ "dokon": "2505 Concept store👑",
+ "kanal": "store2505concept",
+ "ava": "img/ava.jpg",
+ "accent": "#7D3A11",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "9228",
+   "nom": "Мюли Jil Sander",
+   "narx": "25 550 000 so'm",
+   "narx_son": 25550000,
+   "tavsif": "Мюли Jil Sander, размеры 37, 37.5, 38, 39, 40.",
+   "turkum": "Обувь",
+   "rasm": "img/9228.jpg"
+  },
+  {
+   "id": "9218",
+   "nom": "Сумка MM6 Bauletto Shoulder bag small",
+   "narx": "9 420 000 so'm",
+   "narx_son": 9420000,
+   "tavsif": "Сумка MM6 Bauletto Shoulder bag small size.",
+   "turkum": "Сумки",
+   "rasm": "img/9218.jpg"
+  },
+  {
+   "id": "9211",
+   "nom": "Кроссовки MM6",
+   "narx": "8 510 000 so'm",
+   "narx_son": 8510000,
+   "tavsif": "Новые кроссовки MM6, размеры 37, 38, 39, 40, 41.",
+   "turkum": "Обувь",
+   "rasm": "img/9211.jpg"
+  },
+  {
+   "id": "9232",
+   "nom": "Сумка MM6 Maison Margiela",
+   "narx": "6 750 000 so'm",
+   "narx_son": 6750000,
+   "tavsif": "Сумка MM6 Maison Margiela.",
+   "turkum": "Сумки",
+   "rasm": "img/9232.jpg"
+  },
+  {
+   "id": "9220",
+   "nom": "Блейзер",
+   "narx": "3 711 000 so'm",
+   "narx_son": 3711000,
+   "tavsif": "Блейзер размера М, цена со скидкой 3.711.000.",
+   "turkum": "Одежда",
+   "rasm": "img/9220.jpg"
+  },
+  {
+   "id": "9226",
+   "nom": "Брюки",
+   "narx": "720 000 so'm",
+   "narx_son": 720000,
+   "tavsif": "Брюки размера S, цена со скидкой 720.000.",
+   "turkum": "Одежда",
+   "rasm": "img/9226.jpg"
+  }
+ ]
+}
