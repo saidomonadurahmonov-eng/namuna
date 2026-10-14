@@ -1,0 +1,63 @@
+{
+ "dokon": "𝐌𝐀𝐑𝐈𝐎 𝐁𝐑𝐀𝐍𝐃𝐈𝐍𝐈",
+ "kanal": "mario_brandini",
+ "ava": "img/ava.jpg",
+ "accent": "#A97118",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "4398",
+   "nom": "Mario Brandini натуральная кожа (коричневый)",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Новая коллекция 2026/27 осень-зима, подошва ЕВА, производство Турция, размеры 38-43.",
+   "turkum": null,
+   "rasm": "img/4398.jpg"
+  },
+  {
+   "id": "4269",
+   "nom": "Mario Brandini натуральная кожа (чёрный)",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Новая коллекция 2026 весна-лето, подошва каучук, производство Турция, размеры 39-43.",
+   "turkum": null,
+   "rasm": "img/4269.jpg"
+  },
+  {
+   "id": "4238",
+   "nom": "Mario Brandini Буффало плетёный (синий и чёрный)",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Натуральная кожа Буффало плетёный, подошва кожа с профилактикой, размеры 39-43.",
+   "turkum": null,
+   "rasm": "img/4238.jpg"
+  },
+  {
+   "id": "4225",
+   "nom": "Mario Brandini кожа замши (чёрный)",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Натуральная замша, подошва кожа, производство Турция, размеры 39-43.",
+   "turkum": null,
+   "rasm": "img/4225.jpg"
+  },
+  {
+   "id": "4220",
+   "nom": "Mario Brandini кожа оленя и Буффало плетёный",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Натуральная кожа оленя и Буффало плетёный (чёрный и синий), подошва кожа, размеры 39-43.",
+   "turkum": null,
+   "rasm": "img/4220.jpg"
+  },
+  {
+   "id": "4215",
+   "nom": "Mario Brandini кожа оленя и Буффало (синий)",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Натуральная кожа оленя и Буффало, подошва кожа с профилактикой, размеры 39-43.",
+   "turkum": null,
+   "rasm": "img/4215.jpg"
+  }
+ ]
+}
