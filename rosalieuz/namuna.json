@@ -1,0 +1,63 @@
+{
+ "dokon": "Rosalie_uz",
+ "kanal": "Rosalie_uz",
+ "ava": "img/ava.jpg",
+ "accent": "#8A4937",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "5008",
+   "nom": "Слейв серебро 925 Italy",
+   "narx": "950 000 so'm",
+   "narx_son": 950000,
+   "tavsif": "Слейв из серебра 925 Italy.",
+   "turkum": null,
+   "rasm": "img/5008.jpg"
+  },
+  {
+   "id": "5010",
+   "nom": "Слейв с кисточкой",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Слейв с кисточкой — невероятно роскошное украшение.",
+   "turkum": null,
+   "rasm": "img/5010.jpg"
+  },
+  {
+   "id": "5007",
+   "nom": "Кольцо с кисточкой, серебро 925 Italy",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Серебро 925 Italy.",
+   "turkum": null,
+   "rasm": "img/5007.jpg"
+  },
+  {
+   "id": "5047",
+   "nom": "Двойной браслет Messika на ножку",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Двойной браслет «Messika» на ножку в наличии, есть и в золотом цвете.",
+   "turkum": null,
+   "rasm": "img/5047.jpg"
+  },
+  {
+   "id": "5030",
+   "nom": "Украшения из серебра 925 с муассанитами",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Премиальные украшения из итальянского серебра 925 пробы с изысканными муассанитами.",
+   "turkum": null,
+   "rasm": "img/5030.jpg"
+  },
+  {
+   "id": "5058",
+   "nom": "Кольца с кисточками, серебро 925 Italy",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Серебро 925 Italy, все изделия в наличии.",
+   "turkum": null,
+   "rasm": "img/5058.jpg"
+  }
+ ]
+}
