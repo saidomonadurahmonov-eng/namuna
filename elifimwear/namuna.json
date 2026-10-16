@@ -1,0 +1,63 @@
+{
+ "dokon": "Elifim Wear 🇹🇷",
+ "kanal": "elifimwear",
+ "ava": "img/ava.jpg",
+ "accent": "#0C1F4B",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "1075",
+   "nom": "River Island polo",
+   "narx": "150 000 so'm",
+   "narx_son": 150000,
+   "tavsif": "River Island brendining 2-15 yoshli bolalar uchun yo'l-yo'l polo kiyimi.",
+   "turkum": "Bolalar kiyimi",
+   "rasm": "img/1075.jpg"
+  },
+  {
+   "id": "1074",
+   "nom": "River Island polo ko'ylak",
+   "narx": "100 000 so'm",
+   "narx_son": 100000,
+   "tavsif": "River Island brendining 2-6 yoshli qizlar uchun zamli polo ko'ylagi.",
+   "turkum": "Bolalar kiyimi",
+   "rasm": "img/1074.jpg"
+  },
+  {
+   "id": "1017",
+   "nom": "Kastym",
+   "narx": "350 000 so'm",
+   "narx_son": 350000,
+   "tavsif": "Made in Türkiye, belbog'li to'q jigarrang kastym.",
+   "turkum": "Kostyum",
+   "rasm": "img/1017.jpg"
+  },
+  {
+   "id": "1016",
+   "nom": "Pidjak",
+   "narx": "250 000 so'm",
+   "narx_son": 250000,
+   "tavsif": "Made in Türkiye, katak naqshli uzun pidjak.",
+   "turkum": "Pidjak",
+   "rasm": "img/1016.jpg"
+  },
+  {
+   "id": "1013",
+   "nom": "Paxta ko'ylak",
+   "narx": "175 000 so'm",
+   "narx_son": 175000,
+   "tavsif": "Made in Türkiye, paxtadan tikilgan gulli ko'ylak.",
+   "turkum": "Ko'ylak",
+   "rasm": "img/1013.jpg"
+  },
+  {
+   "id": "994",
+   "nom": "Kamarli jaket",
+   "narx": "250 000 so'm",
+   "narx_son": 250000,
+   "tavsif": "Katta yoqa va keng kamarli zamonaviy jaket, xantal, leopard va kulrang ranglarda.",
+   "turkum": "Jaket",
+   "rasm": "img/994.jpg"
+  }
+ ]
+}
