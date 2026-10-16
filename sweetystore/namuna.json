@@ -1,0 +1,63 @@
+{
+ "dokon": "Sweetystore.uz",
+ "kanal": "sweetystoreuz",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "10331",
+   "nom": "Dvoyka",
+   "narx": "495 000 so'm",
+   "narx_son": 495000,
+   "tavsif": "Qora dvoyka, belbog'dagi gul bilan bezatilgan.",
+   "turkum": null,
+   "rasm": "img/10331.jpg"
+  },
+  {
+   "id": "10325",
+   "nom": "Palto",
+   "narx": "685 000 so'm",
+   "narx_son": 685000,
+   "tavsif": "Jigarrang palto, belbog'li va keng yengli.",
+   "turkum": null,
+   "rasm": "img/10325.jpg"
+  },
+  {
+   "id": "10294",
+   "nom": "Tvid",
+   "narx": "155 000 so'm",
+   "narx_son": 155000,
+   "tavsif": "Tvid kurtka, jinsi shim va sumka bilan birga ko'rsatilgan.",
+   "turkum": null,
+   "rasm": "img/10294.jpg"
+  },
+  {
+   "id": "10287",
+   "nom": "Kostyum",
+   "narx": "485 000 so'm",
+   "narx_son": 485000,
+   "tavsif": "Pushti nuqtali jaket va qora shimdan iborat kostyum.",
+   "turkum": null,
+   "rasm": "img/10287.jpg"
+  },
+  {
+   "id": "10279",
+   "nom": "Kardigan",
+   "narx": "100 000 so'm",
+   "narx_son": 100000,
+   "tavsif": "Oq to'rsimon kardigan, tugmali.",
+   "turkum": null,
+   "rasm": "img/10279.jpg"
+  },
+  {
+   "id": "10269",
+   "nom": "Bomber",
+   "narx": "675 000 so'm",
+   "narx_son": 675000,
+   "tavsif": "Bej bomber kurtka, jinsi shim va sumka bilan.",
+   "turkum": null,
+   "rasm": "img/10269.jpg"
+  }
+ ]
+}
