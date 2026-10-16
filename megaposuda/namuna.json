@@ -1,0 +1,63 @@
+{
+ "dokon": "МЕГА ПОСУДЫ АНДИЖОН",
+ "kanal": "megaposuda_orginal",
+ "ava": "img/ava.jpg",
+ "accent": "#A91C18",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "49225",
+   "nom": "Servis 12 kishilik 64 pcs",
+   "narx": "1 190 000 so'm",
+   "narx_son": 1190000,
+   "tavsif": "12 kishilik 64 donali oq-oltin chiroyli choy va ovqat servisi.",
+   "turkum": "Servis",
+   "rasm": "img/49225.jpg"
+  },
+  {
+   "id": "49224",
+   "nom": "Termos 380-1 White",
+   "narx": "155 000 so'm",
+   "narx_son": 155000,
+   "tavsif": "Oq rangli, oltin naqshli Elegant termos, qutisida 12 dona.",
+   "turkum": "Termos",
+   "rasm": "img/49224.jpg"
+  },
+  {
+   "id": "49221",
+   "nom": "W-48 servis 60 person",
+   "narx": "1 050 000 so'm",
+   "narx_son": 1050000,
+   "tavsif": "Kumush hoshiyali oq tarelkalardan iborat 60 person servisi.",
+   "turkum": "Servis",
+   "rasm": "img/49221.jpg"
+  },
+  {
+   "id": "49219",
+   "nom": "W-05 servis 60 person",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Gulli naqsh va oltin hoshiyali 60 person choy servisi.",
+   "turkum": "Servis",
+   "rasm": "img/49219.jpg"
+  },
+  {
+   "id": "49217",
+   "nom": "Lili EC-70 servis",
+   "narx": "1 320 000 so'm",
+   "narx_son": 1320000,
+   "tavsif": "12 kishilik 60 donali oltin hoshiyali oq servis.",
+   "turkum": "Servis",
+   "rasm": "img/49217.jpg"
+  },
+  {
+   "id": "49241",
+   "nom": "Samsung Vacuum Cleaner",
+   "narx": "765 000 so'm",
+   "narx_son": 765000,
+   "tavsif": "Samsung чанг ютгич, ўз қутисида.",
+   "turkum": "Maishiy texnika",
+   "rasm": "img/49241.jpg"
+  }
+ ]
+}
