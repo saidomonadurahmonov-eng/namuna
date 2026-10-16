@@ -1,0 +1,63 @@
+{
+ "dokon": "tkani_abusahiy",
+ "kanal": "tkani_abusahiy",
+ "ava": "img/ava.jpg",
+ "accent": "#0C422E",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "49407",
+   "nom": "Двухсторонний бархатный Твид",
+   "narx": "56 000 so'm",
+   "narx_son": 56000,
+   "tavsif": "Двухсторонний бархатный твид, ширина 1,5 м.",
+   "turkum": null,
+   "rasm": "img/49407.jpg"
+  },
+  {
+   "id": "49399",
+   "nom": "Кожа вышивка с пайетками",
+   "narx": "76 000 so'm",
+   "narx_son": 76000,
+   "tavsif": "Кожа с вышивкой и пайетками, ширина 1,40 м.",
+   "turkum": null,
+   "rasm": "img/49399.jpg"
+  },
+  {
+   "id": "49398",
+   "nom": "Кондиционер шелк",
+   "narx": "22 000 so'm",
+   "narx_son": 22000,
+   "tavsif": "Пахта ва полиэстер аралаш мато, эни 1,5, чўзилмайди, скидкада.",
+   "turkum": null,
+   "rasm": "img/49398.jpg"
+  },
+  {
+   "id": "49377",
+   "nom": "Эко кожа леопард",
+   "narx": "46 000 so'm",
+   "narx_son": 46000,
+   "tavsif": "Леопард принтли эко тери, эни 1,5.",
+   "turkum": null,
+   "rasm": "img/49377.jpg"
+  },
+  {
+   "id": "49367",
+   "nom": "Хб клетка начес",
+   "narx": "47 000 so'm",
+   "narx_son": 47000,
+   "tavsif": "Начесли хб катак мато, ширина 1,5 м.",
+   "turkum": null,
+   "rasm": "img/49367.jpg"
+  },
+  {
+   "id": "49354",
+   "nom": "Dak mato (Turkiya)",
+   "narx": "57 000 so'm",
+   "narx_son": 57000,
+   "tavsif": "Suv o'tkazmaydigan chiroyli printli dak mato, eni 180 cm, Turkiya ishlab chiqarishi.",
+   "turkum": null,
+   "rasm": "img/49354.jpg"
+  }
+ ]
+}
