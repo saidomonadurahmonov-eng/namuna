@@ -1,0 +1,63 @@
+{
+ "dokon": "Кроссовки Ташкент Узбекистан",
+ "kanal": "justshop222",
+ "ava": "img/ava.jpg",
+ "accent": "#0A2346",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "5868",
+   "nom": "Loro Piana krossovka",
+   "narx": "200 000 so'm",
+   "narx_son": 200000,
+   "tavsif": "Chegirma: qora charm Loro Piana krossovka, o'lchamlari 41, 44 cheklangan.",
+   "turkum": null,
+   "rasm": "img/5868.jpg"
+  },
+  {
+   "id": "5862",
+   "nom": "Loro Piana mokasin",
+   "narx": "200 000 so'm",
+   "narx_son": 200000,
+   "tavsif": "Chegirma: qora charm Loro Piana mokasin, faqat 39-o'lcham qolgan.",
+   "turkum": null,
+   "rasm": "img/5862.jpg"
+  },
+  {
+   "id": "5856",
+   "nom": "On Cloudmonster krossovka",
+   "narx": "450 000 so'm",
+   "narx_son": 450000,
+   "tavsif": "On krossovkasi, o'lchamlari 40 dan 44 gacha, tez yetkazib berish bilan.",
+   "turkum": null,
+   "rasm": "img/5856.jpg"
+  },
+  {
+   "id": "5829",
+   "nom": "Puma krossovka qora",
+   "narx": "260 000 so'm",
+   "narx_son": 260000,
+   "tavsif": "Qora Puma krossovkasi, o'lchamlari 40 dan 45 gacha.",
+   "turkum": null,
+   "rasm": "img/5829.jpg"
+  },
+  {
+   "id": "5807",
+   "nom": "Nike Air Max Plus krossovka",
+   "narx": "100 000 so'm",
+   "narx_son": 100000,
+   "tavsif": "Chegirma: qora-oq Nike Air Max Plus krossovkasi.",
+   "turkum": null,
+   "rasm": "img/5807.jpg"
+  },
+  {
+   "id": "5827",
+   "nom": "Puma krossovka oq-to'q ko'k",
+   "narx": "260 000 so'm",
+   "narx_son": 260000,
+   "tavsif": "Oq-to'q ko'k Puma krossovkasi, o'lchamlari 40 dan 44 gacha.",
+   "turkum": null,
+   "rasm": "img/5827.jpg"
+  }
+ ]
+}
