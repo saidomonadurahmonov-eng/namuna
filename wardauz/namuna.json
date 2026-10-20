@@ -1,0 +1,63 @@
+{
+ "dokon": "Warda_uz",
+ "kanal": "warda_uz",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "12744",
+   "nom": "Trench",
+   "narx": "1 100 000 so'm",
+   "narx_son": 1100000,
+   "tavsif": "Trench 1.100.000 so'm, jinsi shim, longsliv, obuv va sharf bilan yangi kolleksiyada.",
+   "turkum": null,
+   "rasm": "img/12744.jpg"
+  },
+  {
+   "id": "12728",
+   "nom": "Kardigan",
+   "narx": "295 000 so'm",
+   "narx_son": 295000,
+   "tavsif": "Xit prodajga aylangan kardiganimiz - 295.000",
+   "turkum": null,
+   "rasm": "img/12728.jpg"
+  },
+  {
+   "id": "12745",
+   "nom": "New collection",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "New collection: kuzgi kurtka, yubka, trench va poyabzallar.",
+   "turkum": null,
+   "rasm": "img/12745.jpg"
+  },
+  {
+   "id": "12725",
+   "nom": "Pufak kurtka",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Warda'da har kuni yangi kollektsiya.",
+   "turkum": null,
+   "rasm": "img/12725.jpg"
+  },
+  {
+   "id": "12726",
+   "nom": "Plash",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Warda'da har kuni yangi kollektsiya.",
+   "turkum": null,
+   "rasm": "img/12726.jpg"
+  },
+  {
+   "id": "12727",
+   "nom": "Kamarli plash",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Warda'da har kuni yangi kollektsiya.",
+   "turkum": null,
+   "rasm": "img/12727.jpg"
+  }
+ ]
+}
