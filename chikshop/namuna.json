@@ -1,0 +1,63 @@
+{
+ "dokon": "Chikshopuz",
+ "kanal": "chikshopuz",
+ "ava": "img/ava.jpg",
+ "accent": "#A91818",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "13202",
+   "nom": "Mo'ynali yoqali kurtka",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Standart razmer, 4 xil rangda.",
+   "turkum": null,
+   "rasm": "img/13202.jpg"
+  },
+  {
+   "id": "13178",
+   "nom": "Bordo uzun ko'ylak",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Standart razmer, 4 xil rangda.",
+   "turkum": null,
+   "rasm": "img/13178.jpg"
+  },
+  {
+   "id": "13181",
+   "nom": "Yengida zamokli sviter",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Standart razmer, 4 xil rangda.",
+   "turkum": null,
+   "rasm": "img/13181.jpg"
+  },
+  {
+   "id": "13141",
+   "nom": "Yoqali kostyum yubka bilan",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Standart razmer, 4 xil rangda.",
+   "turkum": null,
+   "rasm": "img/13141.jpg"
+  },
+  {
+   "id": "13137",
+   "nom": "Zamokli kostyum V belgisi bilan",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Standart razmer, 4 xil rangda.",
+   "turkum": null,
+   "rasm": "img/13137.jpg"
+  },
+  {
+   "id": "13217",
+   "nom": "Gulli tugmali qora jaket",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Standart razmer, 4 xil rangda.",
+   "turkum": null,
+   "rasm": "img/13217.jpg"
+  }
+ ]
+}
