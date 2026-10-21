@@ -1,0 +1,45 @@
+{
+ "dokon": "IZMIR 💃 Ткани оптом🔝",
+ "kanal": "izmir_shoplux",
+ "ava": "img/ava.jpg",
+ "accent": "#A97718",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "25255",
+   "nom": "Korelеva Villur",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Dubaydan yangi kolleksiya, original Koreleva villur, eni 1,40.",
+   "turkum": null,
+   "rasm": "img/25255.jpg"
+  },
+  {
+   "id": "25253",
+   "nom": "Lasagrada Villur",
+   "narx": "27 000 so'm",
+   "narx_son": 27000,
+   "tavsif": "100% original Lasagrada villur, eni 1.80 metr, ranglari juda ko'p.",
+   "turkum": null,
+   "rasm": "img/25253.jpg"
+  },
+  {
+   "id": "25232",
+   "nom": "Cupro original Turkiya",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Turkiyaning original Cupro matosi, turli chiroyli ranglarda.",
+   "turkum": null,
+   "rasm": "img/25232.jpg"
+  },
+  {
+   "id": "25226",
+   "nom": "Original Turkiya Cupro",
+   "narx": "183 000 so'm",
+   "narx_son": 183000,
+   "tavsif": "Ipakdek mayin, nafis, havo o'tkazadigan original Turkiya Cupro matosi.",
+   "turkum": null,
+   "rasm": "img/25226.jpg"
+  }
+ ]
+}
