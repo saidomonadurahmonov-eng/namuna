@@ -1,0 +1,45 @@
+{
+ "dokon": "👠samara_shopuz👠",
+ "kanal": "samarxon",
+ "ava": "img/ava.jpg",
+ "accent": "#A95118",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "61362",
+   "nom": "Qora charm etik",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Mijoz tez yetkazib berilgan chiroyli qora etikdan minnatdor.",
+   "turkum": "Etik",
+   "rasm": "img/61362.jpg"
+  },
+  {
+   "id": "61294",
+   "nom": "Uchli burunli tufli, qora rang",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Mijoz qora rangni tanladi.",
+   "turkum": "Tufli",
+   "rasm": "img/61294.jpg"
+  },
+  {
+   "id": "61277",
+   "nom": "Yashil sumka 30 sm",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "30 sm o'lchamdagi sumka sotildi.",
+   "turkum": "Sumka",
+   "rasm": "img/61277.jpg"
+  },
+  {
+   "id": "61278",
+   "nom": "Jigarrang sumka",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Bu rangdan qolmadi, sergiliga dostavka bor.",
+   "turkum": "Sumka",
+   "rasm": "img/61278.jpg"
+  }
+ ]
+}
