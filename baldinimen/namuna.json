@@ -1,0 +1,63 @@
+{
+ "dokon": "Baldini men's wear",
+ "kanal": "baldini_1",
+ "ava": "img/ava.jpg",
+ "accent": "#4E310B",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "18921",
+   "nom": "Dvoyka",
+   "narx": "623 000 so'm",
+   "narx_son": 623000,
+   "tavsif": "Dvoyka, narxi 623.000.",
+   "turkum": null,
+   "rasm": "img/18921.jpg"
+  },
+  {
+   "id": "18915",
+   "nom": "Premyum Amerikanka",
+   "narx": "313 000 so'm",
+   "narx_son": 313000,
+   "tavsif": "Premyum Amerikanka, narxi 313.000.",
+   "turkum": null,
+   "rasm": "img/18915.jpg"
+  },
+  {
+   "id": "18906",
+   "nom": "Kardigan",
+   "narx": "353 000 so'm",
+   "narx_son": 353000,
+   "tavsif": "Kardigan, narxi 353.000.",
+   "turkum": null,
+   "rasm": "img/18906.jpg"
+  },
+  {
+   "id": "18910",
+   "nom": "Shim",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Narxi tepadagi dumaloq vidyoda.",
+   "turkum": null,
+   "rasm": "img/18910.jpg"
+  },
+  {
+   "id": "18897",
+   "nom": "Sumka",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Ko'pchilik so'raganidan keldi.",
+   "turkum": null,
+   "rasm": "img/18897.jpg"
+  },
+  {
+   "id": "18907",
+   "nom": "Kitel, shim va oyoq kiyim",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Kitel, shim, amerikanka va oyoq kiyim to'plami.",
+   "turkum": null,
+   "rasm": "img/18907.jpg"
+  }
+ ]
+}
