@@ -1,0 +1,63 @@
+{
+ "dokon": "DilyaMur",
+ "kanal": "dilyamur_fashion",
+ "ava": "img/ava.jpg",
+ "accent": "#8D6D34",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "13072",
+   "nom": "Jensi shim",
+   "narx": "490 000 so'm",
+   "narx_son": 490000,
+   "tavsif": "Jensi shim, Turkiya mahsuloti, 490.000 so'm.",
+   "turkum": "Шим",
+   "rasm": "img/13072.jpg"
+  },
+  {
+   "id": "13068",
+   "nom": "Pidjak",
+   "narx": "570 000 so'm",
+   "narx_son": 570000,
+   "tavsif": "Turkiya pidjagi, 570.000 so'm.",
+   "turkum": "Пиджак",
+   "rasm": "img/13068.jpg"
+  },
+  {
+   "id": "13050",
+   "nom": "Тренч",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Тренч, Туркия маҳсулоти, 85$.",
+   "turkum": "Тренч",
+   "rasm": "img/13050.jpg"
+  },
+  {
+   "id": "13065",
+   "nom": "Костюм кора ва антрацит рангда",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Кора ва антрацит ранги бор, Туркия, 78$.",
+   "turkum": "Костюм",
+   "rasm": "img/13065.jpg"
+  },
+  {
+   "id": "13102",
+   "nom": "Хб астарли Двойка",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Скидкада, айвори, пушти ва хаворанг рангларда, 50$.",
+   "turkum": "Костюм",
+   "rasm": "img/13102.jpg"
+  },
+  {
+   "id": "13094",
+   "nom": "Тройка",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Туркия тройкаси, 68$.",
+   "turkum": "Костюм",
+   "rasm": "img/13094.jpg"
+  }
+ ]
+}
