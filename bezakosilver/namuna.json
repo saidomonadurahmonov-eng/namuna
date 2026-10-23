@@ -1,0 +1,63 @@
+{
+ "dokon": "Bezako",
+ "kanal": "bezakouz",
+ "ava": "img/ava.jpg",
+ "accent": "#8318A9",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "7584",
+   "nom": "Kumush 925 marjon, yurakcha",
+   "narx": "450 000 so'm",
+   "narx_son": 450000,
+   "tavsif": "Kumush 925, rodiy bilan qoplangan, vazni 2.54 gr, O'zbekiston bo'ylab yetkazib berish bor.",
+   "turkum": "Marjon",
+   "rasm": "img/7584.jpg"
+  },
+  {
+   "id": "7567",
+   "nom": "Kumush 925 uzuk, pushti sirkon",
+   "narx": "370 000 so'm",
+   "narx_son": 370000,
+   "tavsif": "1.75 karat 8A sirkon, rodiy bilan qoplangan, 16.5, 17.25 va 18 razmerlar bor.",
+   "turkum": "Uzuk",
+   "rasm": "img/7567.jpg"
+  },
+  {
+   "id": "7547",
+   "nom": "Kumush 925 uzuk, gul shaklida",
+   "narx": "350 000 so'm",
+   "narx_son": 350000,
+   "tavsif": "5A sirkonli, rodiy bilan qoplangan, 16.5, 17.25 va 18 razmerlar bor.",
+   "turkum": "Uzuk",
+   "rasm": "img/7547.jpg"
+  },
+  {
+   "id": "7527",
+   "nom": "Kumush 925 uzuk, oval sirkonli",
+   "narx": "500 000 so'm",
+   "narx_son": 500000,
+   "tavsif": "5A sirkon 3mm*5mm, rodiy bilan qoplangan, 16.5, 17.25 va 18 razmerlar bor.",
+   "turkum": "Uzuk",
+   "rasm": "img/7527.jpg"
+  },
+  {
+   "id": "7517",
+   "nom": "Kumush 925 uzuk, radiant kesim",
+   "narx": "450 000 so'm",
+   "narx_son": 450000,
+   "tavsif": "4 karat, radiant kesim, 8A sirkon, rodiy bilan qoplangan, 16.5, 17.25 va 18 razmerlar.",
+   "turkum": "Uzuk",
+   "rasm": "img/7517.jpg"
+  },
+  {
+   "id": "7487",
+   "nom": "Kumush 925 marjon, toj va yurak",
+   "narx": "400 000 so'm",
+   "narx_son": 400000,
+   "tavsif": "Kumush 925, zanjir uzunligi 45 sm, rodiy bilan qoplangan, upakovka bepul.",
+   "turkum": "Marjon",
+   "rasm": "img/7487.jpg"
+  }
+ ]
+}
