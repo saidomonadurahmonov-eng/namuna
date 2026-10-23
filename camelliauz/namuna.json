@@ -1,0 +1,54 @@
+{
+ "dokon": "Camellia",
+ "kanal": "camellia_lingerie",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "46266",
+   "nom": "Комплект чёрно-белый",
+   "narx": "150 000 so'm",
+   "narx_son": 150000,
+   "tavsif": "Комплект, размер Стандарт.",
+   "turkum": "Комплект",
+   "rasm": "img/46266.jpg"
+  },
+  {
+   "id": "46267",
+   "nom": "Комплект платье",
+   "narx": "150 000 so'm",
+   "narx_son": 150000,
+   "tavsif": "Комплект, размер Стандарт.",
+   "turkum": "Комплект",
+   "rasm": "img/46267.jpg"
+  },
+  {
+   "id": "46264",
+   "nom": "Стринги",
+   "narx": "45 000 so'm",
+   "narx_son": 45000,
+   "tavsif": "Стринги, размер XL.",
+   "turkum": "Стринги",
+   "rasm": "img/46264.jpg"
+  },
+  {
+   "id": "46262",
+   "nom": "Стринги Victoria's Secret",
+   "narx": "45 000 so'm",
+   "narx_son": 45000,
+   "tavsif": "Стринги Victoria's Secret, размер Стандарт.",
+   "turkum": "Стринги",
+   "rasm": "img/46262.jpg"
+  },
+  {
+   "id": "46261",
+   "nom": "Стринги Calvin Klein",
+   "narx": "45 000 so'm",
+   "narx_son": 45000,
+   "tavsif": "Стринги Calvin Klein, размер Стандарт.",
+   "turkum": "Стринги",
+   "rasm": "img/46261.jpg"
+  }
+ ]
+}
