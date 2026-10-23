@@ -1,0 +1,63 @@
+{
+ "dokon": "PollyShop",
+ "kanal": "pollyshop_by_polina",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "4154",
+   "nom": "Платье ROZALI",
+   "narx": "655 000 so'm",
+   "narx_son": 655000,
+   "tavsif": "Размеры S / M / L, цвета: чёрный и айвори.",
+   "turkum": "Платье",
+   "rasm": "img/4154.jpg"
+  },
+  {
+   "id": "4146",
+   "nom": "Платье ISIDA",
+   "narx": "585 000 so'm",
+   "narx_son": 585000,
+   "tavsif": "Плотный турецкий бифлекс, размеры S / M / L, цвета: чёрный и бордо.",
+   "turkum": "Платье",
+   "rasm": "img/4146.jpg"
+  },
+  {
+   "id": "4140",
+   "nom": "Платье MONIKA",
+   "narx": "515 000 so'm",
+   "narx_son": 515000,
+   "tavsif": "Размеры S / M, цвета: чёрный и белый.",
+   "turkum": "Платье",
+   "rasm": "img/4140.jpg"
+  },
+  {
+   "id": "4131",
+   "nom": "Двойка MIA",
+   "narx": "495 000 so'm",
+   "narx_son": 495000,
+   "tavsif": "Размеры S / M, цвета: чёрный и белый.",
+   "turkum": "Комплект",
+   "rasm": "img/4131.jpg"
+  },
+  {
+   "id": "4126",
+   "nom": "Платье SELESTIYA",
+   "narx": "545 000 so'm",
+   "narx_son": 545000,
+   "tavsif": "Размеры S / M, цвета: чёрный и розовый.",
+   "turkum": "Платье",
+   "rasm": "img/4126.jpg"
+  },
+  {
+   "id": "4119",
+   "nom": "Тройка DIANA",
+   "narx": "545 000 so'm",
+   "narx_son": 545000,
+   "tavsif": "Размеры S / M, цвета: чёрный и карамельный.",
+   "turkum": "Комплект",
+   "rasm": "img/4119.jpg"
+  }
+ ]
+}
