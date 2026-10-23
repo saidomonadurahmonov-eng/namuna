@@ -1,0 +1,54 @@
+{
+ "dokon": "Fralina_women",
+ "kanal": "fralinawomen",
+ "ava": "img/ava.jpg",
+ "accent": "#A9A418",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "19102",
+   "nom": "Premium Chanel etik",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Orginali kevoti, Premium sifat.",
+   "turkum": "Poyabzal",
+   "rasm": "img/19102.jpg"
+  },
+  {
+   "id": "19059",
+   "nom": "Zamsha loferlar",
+   "narx": "200 000 so'm",
+   "narx_son": 200000,
+   "tavsif": "Eski narxi 350.000 edi, endi 200.000 so'm.",
+   "turkum": "Poyabzal",
+   "rasm": "img/19059.jpg"
+  },
+  {
+   "id": "19058",
+   "nom": "Xitoy zamsha shippak",
+   "narx": "170 000 so'm",
+   "narx_son": 170000,
+   "tavsif": "Xitoy mahsuloti, eski narxi 250.000 edi, endi 170.000 so'm.",
+   "turkum": "Poyabzal",
+   "rasm": "img/19058.jpg"
+  },
+  {
+   "id": "19122",
+   "nom": "Xitoydan kelgan sumkalar",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Xitoydan kargo bilan kelgan yangi sumkalar, 2 kunda sotuvga chiqadi.",
+   "turkum": "Sumka",
+   "rasm": "img/19122.jpg"
+  },
+  {
+   "id": "19057",
+   "nom": "Zamsha loferlar to'plami",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Tez ulguring, povtor bo'lmaydi.",
+   "turkum": "Poyabzal",
+   "rasm": "img/19057.jpg"
+  }
+ ]
+}
