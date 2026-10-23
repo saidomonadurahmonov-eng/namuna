@@ -1,0 +1,54 @@
+{
+ "dokon": "⚜️B A B i L O N⚜️",
+ "kanal": "babilon_luxury_boutique",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "5572",
+   "nom": "Qora gipyurli kostyum (jilet va yubka)",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Qora gipyur naqshli jilet va yubkadan iborat ayollar kostyumi.",
+   "turkum": null,
+   "rasm": "img/5572.jpg"
+  },
+  {
+   "id": "5571",
+   "nom": "Yashil yaltiroq kechki ko'ylak",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Yashil yaltiroq to'rli, belida bezakli kechki ko'ylak.",
+   "turkum": null,
+   "rasm": "img/5571.jpg"
+  },
+  {
+   "id": "5567",
+   "nom": "Jigarrang ko'ylak, qo'lida bezak",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Jigarrang uzun ko'ylak, old qismi va yenglari tosh bilan bezatilgan.",
+   "turkum": null,
+   "rasm": "img/5567.jpg"
+  },
+  {
+   "id": "5563",
+   "nom": "Qora baxmal kurtka atirgul bezakli",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Zamokli qora baxmal kurtka, atirgul va tosh bezaklari bilan.",
+   "turkum": null,
+   "rasm": "img/5563.jpg"
+  },
+  {
+   "id": "5559",
+   "nom": "Katak kofta guldor bezak bilan",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Katakli jigarrang kofta, old qismida guldor bezak va zamok.",
+   "turkum": null,
+   "rasm": "img/5559.jpg"
+  }
+ ]
+}
