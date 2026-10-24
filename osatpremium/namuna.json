@@ -1,0 +1,63 @@
+{
+ "dokon": "OSAT Premium",
+ "kanal": "osat_uz",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "1757",
+   "nom": "RMS Zeitmeister Ag1643",
+   "narx": "1 610 000 so'm",
+   "narx_son": 1610000,
+   "tavsif": "Zanglamas po'lat korpus, 5ATM, Yaponiya kvarts mexanizmi, rezina remishok, 44mm.",
+   "turkum": null,
+   "rasm": "img/1757.jpg"
+  },
+  {
+   "id": "1747",
+   "nom": "Orient Auto",
+   "narx": "2 600 000 so'm",
+   "narx_son": 2600000,
+   "tavsif": "Original Orient avtomatik soati.",
+   "turkum": null,
+   "rasm": "img/1747.jpg"
+  },
+  {
+   "id": "1741",
+   "nom": "RMS Zeitmeister Ag1595",
+   "narx": "2 050 000 so'm",
+   "narx_son": 2050000,
+   "tavsif": "Sapphire oyna, SWSS kvarts mexanizm, zanglamas po'lat remishok, 41mm.",
+   "turkum": null,
+   "rasm": "img/1741.jpg"
+  },
+  {
+   "id": "1726",
+   "nom": "Casio Edifice erkaklar soati",
+   "narx": "2 250 000 so'm",
+   "narx_son": 2250000,
+   "tavsif": "Original Casio Edifice, kvarts mexanizm, Sapphire shisha, sana ko'rsatkichi.",
+   "turkum": null,
+   "rasm": "img/1726.jpg"
+  },
+  {
+   "id": "1720",
+   "nom": "RMS Zeitmeister Ag2091",
+   "narx": "3 430 000 so'm",
+   "narx_son": 3430000,
+   "tavsif": "Yaponiya Miyota 24 toshli mexanika, Sapphire oyna, tabiiy teri remishok, 40mm.",
+   "turkum": null,
+   "rasm": "img/1720.jpg"
+  },
+  {
+   "id": "1751",
+   "nom": "Orient Automatic",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Original Orient automatic soati, korpus 38 mm.",
+   "turkum": null,
+   "rasm": "img/1751.jpg"
+  }
+ ]
+}
