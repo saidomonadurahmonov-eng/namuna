@@ -1,0 +1,63 @@
+{
+ "dokon": "Game Pro",
+ "kanal": "game_prouz",
+ "ava": "img/ava.jpg",
+ "accent": "#A92718",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "2542",
+   "nom": "Igravoy sborka i5-14400F + RTX 2060",
+   "narx": "675$",
+   "narx_son": null,
+   "tavsif": "Gigabyte B760M H, 16GB DDR4, 512GB NVMe, RTX 2060 6GB, Huntkey 650W, RGB korpus.",
+   "turkum": null,
+   "rasm": "img/2542.jpg"
+  },
+  {
+   "id": "2540",
+   "nom": "Igravoy sborka i5-12400F + GTX 1660 Super",
+   "narx": "575$",
+   "narx_son": null,
+   "tavsif": "Gigabyte H610M, 16GB DDR4, 512GB NVMe, MSI GTX 1660 Super 6GB, oq RGB korpus.",
+   "turkum": null,
+   "rasm": "img/2540.jpg"
+  },
+  {
+   "id": "2529",
+   "nom": "Igravoy sborka i7-12700F + RTX 4060 Ti",
+   "narx": "1025$",
+   "narx_son": null,
+   "tavsif": "Gigabyte B760M, Zotac RTX 4060 Ti 8GB, 16GB DDR4, 240 argb suv sovutgich, Ocypus korpus.",
+   "turkum": null,
+   "rasm": "img/2529.jpg"
+  },
+  {
+   "id": "2526",
+   "nom": "Igravoy sborka i5-10400 + RTX 2070",
+   "narx": "645$",
+   "narx_son": null,
+   "tavsif": "Gigabyte Z490 UD, Galax RTX 2070 8GB, Crucial 32GB, 256GB SSD, Xtech gaming korpus.",
+   "turkum": null,
+   "rasm": "img/2526.jpg"
+  },
+  {
+   "id": "2518",
+   "nom": "Moshniy sborka i7-13700K + RTX 3070",
+   "narx": "1675$",
+   "narx_son": null,
+   "tavsif": "Gigabyte Aorus Z690, 64GB 3600MHz, Palit RTX 3070, WD Black 1TB, Deepcool LT360.",
+   "turkum": null,
+   "rasm": "img/2518.jpg"
+  },
+  {
+   "id": "2506",
+   "nom": "Igravoy sborka Ryzen 5 7500F + RTX 5060",
+   "narx": "1065$",
+   "narx_son": null,
+   "tavsif": "Gigabyte B650M, Palit RTX 5060 8GB, 16GB DDR5, Zalman korpus, holati deyarli yangi.",
+   "turkum": null,
+   "rasm": "img/2506.jpg"
+  }
+ ]
+}
