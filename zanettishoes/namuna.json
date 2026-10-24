@@ -1,0 +1,63 @@
+{
+ "dokon": "ZANETTI SHOES 👟",
+ "kanal": "zanetti_shoes",
+ "ava": "img/ava.jpg",
+ "accent": "#A88219",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "492",
+   "nom": "Cloudvista 3",
+   "narx": "580 000 so'm",
+   "narx_son": 580000,
+   "tavsif": "Кроссовки, размеры 36–45.",
+   "turkum": null,
+   "rasm": "img/492.jpg"
+  },
+  {
+   "id": "484",
+   "nom": "Cloudtilt RED",
+   "narx": "580 000 so'm",
+   "narx_son": 580000,
+   "tavsif": "Кроссовки, пришли повторно, размеры 36–40.",
+   "turkum": null,
+   "rasm": "img/484.jpg"
+  },
+  {
+   "id": "482",
+   "nom": "Cloud 6 WATERPROOF",
+   "narx": "580 000 so'm",
+   "narx_son": 580000,
+   "tavsif": "Водонепроницаемые кроссовки КУЗ-ҚИШ, размеры 36–45.",
+   "turkum": null,
+   "rasm": "img/482.jpg"
+  },
+  {
+   "id": "480",
+   "nom": "Cloudtilt",
+   "narx": "580 000 so'm",
+   "narx_son": 580000,
+   "tavsif": "Кроссовки КУЗ-ҚИШ, размеры 36–45.",
+   "turkum": null,
+   "rasm": "img/480.jpg"
+  },
+  {
+   "id": "479",
+   "nom": "Oncoloud / Loawe",
+   "narx": "580 000 so'm",
+   "narx_son": 580000,
+   "tavsif": "Кроссовки КУЗ-ҚИШ, размеры 36–45.",
+   "turkum": null,
+   "rasm": "img/479.jpg"
+  },
+  {
+   "id": "481",
+   "nom": "Cloudtilt White",
+   "narx": "580 000 so'm",
+   "narx_son": 580000,
+   "tavsif": "Белые кроссовки КУЗ-ҚИШ, размеры 36–45.",
+   "turkum": null,
+   "rasm": "img/481.jpg"
+  }
+ ]
+}
