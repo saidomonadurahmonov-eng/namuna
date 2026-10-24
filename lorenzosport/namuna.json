@@ -1,0 +1,36 @@
+{
+ "dokon": "Lorenzo Sport",
+ "kanal": "lorenzosport_uz",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "14858",
+   "nom": "LI-NING",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Original Li-Ning kapyushonli qora kurtka, kargo narxga kiritilgan.",
+   "turkum": "Kurtka",
+   "rasm": "img/14858.jpg"
+  },
+  {
+   "id": "14850",
+   "nom": "Skechers",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Original Skechers to'q ko'k jilet, kargo narxga kiritilgan.",
+   "turkum": "Jilet",
+   "rasm": "img/14850.jpg"
+  },
+  {
+   "id": "14832",
+   "nom": "Anta",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Original Anta to'q ko'k trikotaj shapka, kargo narxga kiritilgan.",
+   "turkum": "Shapka",
+   "rasm": "img/14832.jpg"
+  }
+ ]
+}
