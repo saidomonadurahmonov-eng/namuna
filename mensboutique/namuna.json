@@ -1,0 +1,54 @@
+{
+ "dokon": "MEN'S BOUTIQUE",
+ "kanal": "mens_boutique_uz",
+ "ava": "img/ava.jpg",
+ "accent": "#A9181D",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "8600",
+   "nom": "New collection kardigan",
+   "narx": "420 000 so'm",
+   "narx_son": 420000,
+   "tavsif": "Yangi kolleksiya, fermuarli to'qima kardigan, M dan XXXL gacha o'lchamlar.",
+   "turkum": "Kardigan",
+   "rasm": "img/8600.jpg"
+  },
+  {
+   "id": "8610",
+   "nom": "Жилетка Men's",
+   "narx": "1 650 000 so'm",
+   "narx_son": 1650000,
+   "tavsif": "Новая коллекция: жилетка с меховым воротником, размеры 48–58.",
+   "turkum": "Jilet",
+   "rasm": "img/8610.jpg"
+  },
+  {
+   "id": "8562",
+   "nom": "Kurtka",
+   "narx": "2 400 000 so'm",
+   "narx_son": 2400000,
+   "tavsif": "Mo'ynali yoqali kurtka, post narxlari: kurtka 2.400.000 so'm.",
+   "turkum": "Kurtka",
+   "rasm": "img/8562.jpg"
+  },
+  {
+   "id": "8582",
+   "nom": "Dvoyka",
+   "narx": "850 000 so'm",
+   "narx_son": 850000,
+   "tavsif": "Qoramtir ko'k to'qima dvoyka, M dan 3XL gacha o'lchamlar.",
+   "turkum": "Dvoyka",
+   "rasm": "img/8582.jpg"
+  },
+  {
+   "id": "8591",
+   "nom": "Jinsi dvoyka",
+   "narx": "1 150 000 so'm",
+   "narx_son": 1150000,
+   "tavsif": "Jinsi ko'ylak va shim to'plami, M dan XXL gacha o'lchamlar.",
+   "turkum": "Dvoyka",
+   "rasm": "img/8591.jpg"
+  }
+ ]
+}
