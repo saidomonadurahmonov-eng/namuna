@@ -1,0 +1,63 @@
+{
+ "dokon": "🌸My ♌ SHoP🌸 [TASHKENT]",
+ "kanal": "my_shopmadina",
+ "ava": "img/ava.jpg",
+ "accent": "#80148F",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "113987",
+   "nom": "Gornitsa choygum",
+   "narx": "145 000 so'm",
+   "narx_son": 145000,
+   "tavsif": "Hushtak chaladigan, zanglamas po'latdan ishlangan 3 litrli choygum, Rossiya mahsuloti.",
+   "turkum": "Oshxona",
+   "rasm": "img/113987.jpg"
+  },
+  {
+   "id": "114016",
+   "nom": "Olma urug'ini tozalash pichog'i",
+   "narx": "15 000 so'm",
+   "narx_son": 15000,
+   "tavsif": "Olma urug'ini tozalash uchun maxsus pichoq.",
+   "turkum": "Oshxona",
+   "rasm": "img/114016.jpg"
+  },
+  {
+   "id": "113994",
+   "nom": "Don va un saqlash konteyneri",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Don, un, shakar saqlash uchun plastik konteyner, 5, 7.5 va 10 litrli.",
+   "turkum": "Oshxona",
+   "rasm": "img/113994.jpg"
+  },
+  {
+   "id": "114020",
+   "nom": "Don saqlash konteyneri 2,5 L",
+   "narx": "58 000 so'm",
+   "narx_son": 58000,
+   "tavsif": "Guruch, mosh va boshqa donlar uchun shaffof konteyner, Xitoy mahsuloti.",
+   "turkum": "Oshxona",
+   "rasm": "img/114020.jpg"
+  },
+  {
+   "id": "114013",
+   "nom": "Dazmol doskasi uchun chexol",
+   "narx": "48 000 so'm",
+   "narx_son": 48000,
+   "tavsif": "Qalin, ipi bor, o'lchamini tortib sozlasa bo'ladigan dazmol doskasi chexoli.",
+   "turkum": "Uy buyumlari",
+   "rasm": "img/114013.jpg"
+  },
+  {
+   "id": "114006",
+   "nom": "Marmar ko'rinishli yopishqoq ilgak",
+   "narx": "10 000 so'm",
+   "narx_son": 10000,
+   "tavsif": "Yaxshi yopishadigan marmar ko'rinishli ilgaklar, pochkasida 2 dona bo'ladi.",
+   "turkum": "Uy buyumlari",
+   "rasm": "img/114006.jpg"
+  }
+ ]
+}
