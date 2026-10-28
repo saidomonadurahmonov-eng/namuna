@@ -1,0 +1,63 @@
+{
+ "dokon": "BALIQCHI MARKET FARGʻONA 🎣🎣",
+ "kanal": "baliqchimarketfargona",
+ "ava": "img/ava.jpg",
+ "accent": "#A9A018",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "6470",
+   "nom": "WPE Legend 3.90 m 3.5 LB",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "WPE Legend qarmoq, uzunligi 3.90 m, testi 3.5 LB.",
+   "turkum": "Qarmoq",
+   "rasm": "img/6470.jpg"
+  },
+  {
+   "id": "6473",
+   "nom": "Qizil yem",
+   "narx": "75 000 so'm",
+   "narx_son": 75000,
+   "tavsif": "Baliq ovi uchun qizil granulali yem, 1 kg narxi 75 000 so'm.",
+   "turkum": "Yem",
+   "rasm": "img/6473.jpg"
+  },
+  {
+   "id": "6481",
+   "nom": "Sadok",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Ovlangan baliqni saqlash uchun yashil to'rli sadok.",
+   "turkum": "Sadok",
+   "rasm": "img/6481.jpg"
+  },
+  {
+   "id": "6464",
+   "nom": "Misina",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Baliq ovi uchun turli xil g'altakdagi misinalar.",
+   "turkum": "Misina",
+   "rasm": "img/6464.jpg"
+  },
+  {
+   "id": "6467",
+   "nom": "Yem briketlari",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Baliq ovi uchun presslangan yem briketlari.",
+   "turkum": "Yem",
+   "rasm": "img/6467.jpg"
+  },
+  {
+   "id": "6462",
+   "nom": "Yig'ma stul",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Baliqchilar uchun yig'iladigan ixcham stullar.",
+   "turkum": "Stul",
+   "rasm": "img/6462.jpg"
+  }
+ ]
+}
