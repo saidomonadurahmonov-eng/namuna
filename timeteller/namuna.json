@@ -1,0 +1,63 @@
+{
+ "dokon": "Time Teller",
+ "kanal": "timetelleruz",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "2063",
+   "nom": "Часы Kenneth Cole",
+   "narx": "1 980 000 so'm",
+   "narx_son": 1980000,
+   "tavsif": "Корпус 34 мм из нержавеющей стали с PVD покрытием, японский кварцевый механизм.",
+   "turkum": null,
+   "rasm": "img/2063.jpg"
+  },
+  {
+   "id": "2059",
+   "nom": "Часы Just Cavalli",
+   "narx": "2 500 000 so'm",
+   "narx_son": 2500000,
+   "tavsif": "Итальянские часы 30 мм из нержавеющей стали с PVD покрытием и кристаллами.",
+   "turkum": null,
+   "rasm": "img/2059.jpg"
+  },
+  {
+   "id": "2055",
+   "nom": "Часы Kenneth Cole с кристаллами",
+   "narx": "2 200 000 so'm",
+   "narx_son": 2200000,
+   "tavsif": "Корпус 32 мм из нержавеющей стали с PVD покрытием, кристаллы, японский кварц.",
+   "turkum": null,
+   "rasm": "img/2055.jpg"
+  },
+  {
+   "id": "2040",
+   "nom": "Часы Anne Klein + браслет",
+   "narx": "1 400 000 so'm",
+   "narx_son": 1400000,
+   "tavsif": "Комплект: часы и браслет, корпус 32 мм из нержавеющей стали с PVD покрытием.",
+   "turkum": null,
+   "rasm": "img/2040.jpg"
+  },
+  {
+   "id": "2037",
+   "nom": "Часы Anne Klein из океанического пластика",
+   "narx": "1 800 000 so'm",
+   "narx_son": 1800000,
+   "tavsif": "Корпус 38 мм из океанического пластика и стали, механизм на солнечной батарее.",
+   "turkum": null,
+   "rasm": "img/2037.jpg"
+  },
+  {
+   "id": "2029",
+   "nom": "Часы Anne Klein с бриллиантом",
+   "narx": "1 600 000 so'm",
+   "narx_son": 1600000,
+   "tavsif": "Корпус 30 мм, бриллиант, ремешок из керамики и стали с PVD покрытием.",
+   "turkum": null,
+   "rasm": "img/2029.jpg"
+  }
+ ]
+}
