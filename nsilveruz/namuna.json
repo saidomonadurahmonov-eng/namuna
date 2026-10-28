@@ -1,0 +1,63 @@
+{
+ "dokon": "N | silver",
+ "kanal": "nsilveruz",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "170",
+   "nom": "Кольцо с solitaire, 3.23 г, размер 18",
+   "narx": "306 000 сум",
+   "narx_son": 306000,
+   "tavsif": "Грамм 3.23, размер 18. Для заказа в директ @Nsilver_uz.",
+   "turkum": null,
+   "rasm": "img/170.jpg"
+  },
+  {
+   "id": "160",
+   "nom": "Кольцо с зелёным камнем, 2.07 г",
+   "narx": "196 000 сум",
+   "narx_son": 196000,
+   "tavsif": "Грамм 2.07, размер 18. Для заказа в директ @Nsilver_uz.",
+   "turkum": null,
+   "rasm": "img/160.jpg"
+  },
+  {
+   "id": "162",
+   "nom": "Кольцо с синими камнями, 4.44 г",
+   "narx": "421 000 сум",
+   "narx_son": 421000,
+   "tavsif": "Грамм 4.44, размер 18. Для заказа в директ @Nsilver_uz.",
+   "turkum": null,
+   "rasm": "img/162.jpg"
+  },
+  {
+   "id": "161",
+   "nom": "Двойное кольцо с камнем, 4.46 г",
+   "narx": "423 000 сум",
+   "narx_son": 423000,
+   "tavsif": "Грамм 4.46, размер 18. Для заказа в директ @Nsilver_uz.",
+   "turkum": null,
+   "rasm": "img/161.jpg"
+  },
+  {
+   "id": "167",
+   "nom": "Кольцо с камнем, 3.11 г",
+   "narx": "295 000 сум",
+   "narx_son": 295000,
+   "tavsif": "Грамм 3.11, размер 18. Для заказа в директ @Nsilver_uz.",
+   "turkum": null,
+   "rasm": "img/167.jpg"
+  },
+  {
+   "id": "158",
+   "nom": "Кольцо с бантиком, 2.16 г",
+   "narx": "205 000 сум",
+   "narx_son": 205000,
+   "tavsif": "Грамм 2.16, размер 18. Для заказа в директ @Nsilver_uz.",
+   "turkum": null,
+   "rasm": "img/158.jpg"
+  }
+ ]
+}
