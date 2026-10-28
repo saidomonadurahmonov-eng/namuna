@@ -1,0 +1,63 @@
+{
+ "dokon": "Selective",
+ "kanal": "selectiveuzb",
+ "ava": "img/ava.jpg",
+ "accent": "#1D4310",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "793",
+   "nom": "Boadicea the Victorious Heroine",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Смелый, роскошный и чувственный аромат с выразительным шлейфом для уверенной женщины.",
+   "turkum": null,
+   "rasm": "img/793.jpg"
+  },
+  {
+   "id": "792",
+   "nom": "Avanguardia — Xerjoff",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Тёмная вишня, мандарин, пачули и бальзамические ноты — сладко-древесный аромат с кожаным оттенком.",
+   "turkum": null,
+   "rasm": "img/792.jpg"
+  },
+  {
+   "id": "789",
+   "nom": "Imagination — Louis Vuitton",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Imagination — аромат больших возможностей и безупречного вкуса.",
+   "turkum": null,
+   "rasm": "img/789.jpg"
+  },
+  {
+   "id": "788",
+   "nom": "Louis Vuitton Moon Tale",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Загадочный и утончённый аромат, как магия лунной ночи, с изысканным шлейфом.",
+   "turkum": null,
+   "rasm": "img/788.jpg"
+  },
+  {
+   "id": "783",
+   "nom": "Morgans",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Настоящий мужской уход, где стиль, качество и характер звучат в каждом штрихе.",
+   "turkum": null,
+   "rasm": "img/783.jpg"
+  },
+  {
+   "id": "777",
+   "nom": "Matsukita",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Утончённый древесно-пряный аромат с тёплым и благородным характером.",
+   "turkum": null,
+   "rasm": "img/777.jpg"
+  }
+ ]
+}
