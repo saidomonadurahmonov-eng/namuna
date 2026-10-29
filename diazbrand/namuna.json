@@ -1,0 +1,63 @@
+{
+ "dokon": "DIAZ__BRAND (Расмий канал)",
+ "kanal": "diaz_brand",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "6058",
+   "nom": "Hoop Model One smart soat",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Hoop Model One smart soat qutisida, do'kon vitrinasida ko'rsatilgan.",
+   "turkum": "Aksessuar",
+   "rasm": "img/6058.jpg"
+  },
+  {
+   "id": "6057",
+   "nom": "Och kulrang sport kostyum",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Yengil, och kulrang rangdagi ikki qismli erkaklar sport kostyumi.",
+   "turkum": "Kiyim",
+   "rasm": "img/6057.jpg"
+  },
+  {
+   "id": "6054",
+   "nom": "Bordo futbolka",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Yupqa to'qilgan, qisqa yengli bordo rangli erkaklar futbolkasi.",
+   "turkum": "Kiyim",
+   "rasm": "img/6054.jpg"
+  },
+  {
+   "id": "6047",
+   "nom": "Oq zamokli polo futbolka",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Yoqali, ko'krak qismida zamoki bor oq rangli erkaklar polo futbolkasi.",
+   "turkum": "Kiyim",
+   "rasm": "img/6047.jpg"
+  },
+  {
+   "id": "6045",
+   "nom": "Havorang polo futbolka",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Tugmali yoqali, havorang erkaklar polo futbolkasi.",
+   "turkum": "Kiyim",
+   "rasm": "img/6045.jpg"
+  },
+  {
+   "id": "6043",
+   "nom": "Kulrang klassik shim",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Kulrang rangdagi erkaklar klassik shimi, askida ko'rsatilgan.",
+   "turkum": "Kiyim",
+   "rasm": "img/6043.jpg"
+  }
+ ]
+}
