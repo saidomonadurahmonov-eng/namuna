@@ -1,0 +1,63 @@
+{
+ "dokon": "𝐈𝐧𝐟𝐢𝐧𝐢𝐭𝐲 𝐁𝐨𝐮𝐭𝐢𝐪𝐮𝐞 🛍 | 𝐎𝐧𝐥𝐢𝐧𝐞 𝐌𝐚𝐠𝐚𝐳𝐢𝐧",
+ "kanal": "infinity_boutiquee",
+ "ava": "img/ava.jpg",
+ "accent": "#82633E",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "68976",
+   "nom": "Спорт костюм",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Бу йил топ сотилган рангларда келди: бардо, джинс голубой, лимонный.",
+   "turkum": null,
+   "rasm": "img/68976.jpg"
+  },
+  {
+   "id": "68913",
+   "nom": "Rubashka+yubka+kostyum",
+   "narx": "190 000 so'm",
+   "narx_son": 190000,
+   "tavsif": "New collection: rubashka, yubka va kostyum, razmer standart (44-54).",
+   "turkum": null,
+   "rasm": "img/68913.jpg"
+  },
+  {
+   "id": "68911",
+   "nom": "Sportivka+yubka",
+   "narx": "215 000 so'm",
+   "narx_son": 215000,
+   "tavsif": "New collection: sportivka va yubka, material 2ip, razmer standart (44-54).",
+   "turkum": null,
+   "rasm": "img/68911.jpg"
+  },
+  {
+   "id": "69001",
+   "nom": "Свитер на молнии",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Чёрный, серый, бардо, синий, коричневый ва изумруд рангларда бор.",
+   "turkum": null,
+   "rasm": "img/69001.jpg"
+  },
+  {
+   "id": "68987",
+   "nom": "Юбкали спорт костюм",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Бежевый, розовый, коричневый ва синий ранглар қайта келди.",
+   "turkum": null,
+   "rasm": "img/68987.jpg"
+  },
+  {
+   "id": "68910",
+   "nom": "Sportivka+yubka (pushti)",
+   "narx": "215 000 so'm",
+   "narx_son": 215000,
+   "tavsif": "New collection: pushti sportivka va yubka, material 2ip, razmer 44-54.",
+   "turkum": null,
+   "rasm": "img/68910.jpg"
+  }
+ ]
+}
