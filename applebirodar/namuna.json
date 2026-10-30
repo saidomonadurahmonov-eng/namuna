@@ -1,0 +1,63 @@
+{
+ "dokon": "Apple Birodar",
+ "kanal": "applebirodar",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "1420",
+   "nom": "iPhone 16 Pro 256GB Desert",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Ideal holat, batareya 87%, 90 kun garantiya, nasiya va Trade In mavjud.",
+   "turkum": null,
+   "rasm": "img/1420.jpg"
+  },
+  {
+   "id": "1415",
+   "nom": "iPhone 17 Pro Max 256GB Orange",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Sim+esim, batareya 93%, qutisi ideal, 90 kun garantiya.",
+   "turkum": null,
+   "rasm": "img/1415.jpg"
+  },
+  {
+   "id": "1404",
+   "nom": "iPhone 15 Pro 256GB Natural",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Идеальный холат, батарея 86%, қути ва ҳужжатлари бор, муддатли тўлов мавжуд.",
+   "turkum": null,
+   "rasm": "img/1404.jpg"
+  },
+  {
+   "id": "1402",
+   "nom": "iPhone 14 Plus 128GB Purple",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Идеальный холат, батарея 79%, қути ва ҳужжатлари бор, муддатли тўлов мавжуд.",
+   "turkum": null,
+   "rasm": "img/1402.jpg"
+  },
+  {
+   "id": "1408",
+   "nom": "Samsung S25 Ultra 256GB Natural",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Samsung S25 Ultra 256GB, natural rangda, Malika bozori B1 do'konida sotuvda.",
+   "turkum": null,
+   "rasm": "img/1408.jpg"
+  },
+  {
+   "id": "1422",
+   "nom": "iPhone 13 Pro 128GB Blue",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Batareya 72%, ideal holat, boshlang'ich to'lov bilan sotuvda.",
+   "turkum": null,
+   "rasm": "img/1422.jpg"
+  }
+ ]
+}
