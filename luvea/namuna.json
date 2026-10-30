@@ -1,0 +1,45 @@
+{
+ "dokon": "ʟᴜᴠéᴀ ʙᴏᴜᴛɪǫᴜᴇ🦢",
+ "kanal": "luvea_boutique",
+ "ava": "img/ava.jpg",
+ "accent": "#440910",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "712",
+   "nom": "Платье Amor",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Нежное платье Amor, премиум качество, размер S/M.",
+   "turkum": "Платье",
+   "rasm": "img/712.jpg"
+  },
+  {
+   "id": "706",
+   "nom": "Платье SP",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Элегантное и нежное платье SP вновь в наличии, размер S/M/L.",
+   "turkum": "Платье",
+   "rasm": "img/706.jpg"
+  },
+  {
+   "id": "710",
+   "nom": "Пиджак",
+   "narx": "435 000 сум",
+   "narx_son": 435000,
+   "tavsif": "Идеальный пиджак на все случаи жизни, наш бестселлер, размер S/M.",
+   "turkum": "Пиджак",
+   "rasm": "img/710.jpg"
+  },
+  {
+   "id": "764",
+   "nom": "Твидовая жилетка под Zara",
+   "narx": "350 000 сум",
+   "narx_son": 350000,
+   "tavsif": "Твидовая жилетка под Zara со скидкой, сумочка Zara в подарок.",
+   "turkum": "Жилетка",
+   "rasm": "img/764.jpg"
+  }
+ ]
+}
