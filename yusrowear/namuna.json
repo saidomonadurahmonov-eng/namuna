@@ -1,0 +1,36 @@
+{
+ "dokon": "Yusro_wear",
+ "kanal": "yusro_wearr",
+ "ava": "img/ava.jpg",
+ "accent": "#A91834",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "19733",
+   "nom": "Shifon ko'ylak",
+   "narx": "135 000 so'm",
+   "narx_son": 135000,
+   "tavsif": "Shifon matodan ko'ylak, o'lchami standart 44, 46, 48.",
+   "turkum": null,
+   "rasm": "img/19733.jpg"
+  },
+  {
+   "id": "19838",
+   "nom": "Красное платье",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Платье, размеры м л хл ххл, производство Китай, код товара 0400.",
+   "turkum": null,
+   "rasm": "img/19838.jpg"
+  },
+  {
+   "id": "19819",
+   "nom": "Голубое платье",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Платье, размеры м л хл, производство Китай, код товара 0400.",
+   "turkum": null,
+   "rasm": "img/19819.jpg"
+  }
+ ]
+}
