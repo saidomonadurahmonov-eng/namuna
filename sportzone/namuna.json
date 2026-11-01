@@ -1,0 +1,63 @@
+{
+ "dokon": "SPORT ZONE",
+ "kanal": "sportzoneuz",
+ "ava": "img/ava.jpg",
+ "accent": "#A89018",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "13471",
+   "nom": "Nike futbol butsasi",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Qizil-oq rangdagi Nike futbol butsasi, sun'iy maysa uchun.",
+   "turkum": "Butsa",
+   "rasm": "img/13471.jpg"
+  },
+  {
+   "id": "13472",
+   "nom": "Futbol butsa yashil-qora",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Yashil naqshli qora futbol butsasi, sun'iy maysa uchun.",
+   "turkum": "Butsa",
+   "rasm": "img/13472.jpg"
+  },
+  {
+   "id": "13468",
+   "nom": "Mizuno futbol butsasi",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Pushti-binafsha rangdagi Mizuno futbol butsasi.",
+   "turkum": "Butsa",
+   "rasm": "img/13468.jpg"
+  },
+  {
+   "id": "13470",
+   "nom": "Futbol butsa limon rang",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Yorqin limon rangdagi futbol butsasi.",
+   "turkum": "Butsa",
+   "rasm": "img/13470.jpg"
+  },
+  {
+   "id": "13463",
+   "nom": "Sport kiyimlari",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Sportda ham, kundalik hayotda ham qulay va zamonaviy kiyimlar.",
+   "turkum": "Kiyim",
+   "rasm": "img/13463.jpg"
+  },
+  {
+   "id": "13473",
+   "nom": "Лапы для тренировок",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Лапы для эффективных занятий и отработки ударов.",
+   "turkum": "Sport anjomi",
+   "rasm": "img/13473.jpg"
+  }
+ ]
+}
