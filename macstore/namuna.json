@@ -1,0 +1,63 @@
+{
+ "dokon": "MacStore.UZ",
+ "kanal": "macstore_uz",
+ "ava": "img/ava.jpg",
+ "accent": "#0B1551",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "4941",
+   "nom": "iPad Pro 2024 13-inch M4 256GB WiFi",
+   "narx": "999$",
+   "narx_son": null,
+   "tavsif": "Holati ideal, Space black, batareya 100%, qutisi va zaryadkasi bor, 7 oy kafolat.",
+   "turkum": "Planshet",
+   "rasm": "img/4941.jpg"
+  },
+  {
+   "id": "4934",
+   "nom": "MacBook 2026 13 inch Neo 8/512GB",
+   "narx": "690$",
+   "narx_son": null,
+   "tavsif": "Holati ideal, Citrus rangi, batareya 100%, 8-12 soatga yetadi, qutisi bor.",
+   "turkum": "Noutbuk",
+   "rasm": "img/4934.jpg"
+  },
+  {
+   "id": "4923",
+   "nom": "MacBook Air 2022 13.6 inch M2 16/256GB",
+   "narx": "620$",
+   "narx_son": null,
+   "tavsif": "Holati ideal, Midnight rangi, 16/256GB, zaryadkasi bor, 7 oy kafolat.",
+   "turkum": "Noutbuk",
+   "rasm": "img/4923.jpg"
+  },
+  {
+   "id": "4916",
+   "nom": "MacBook Air 2020 13.3 inch M1 8/256GB",
+   "narx": "400$",
+   "narx_son": null,
+   "tavsif": "Holati ideal, Space gray, M1, qutisi va zaryadkasi bor, 7 oy kafolat.",
+   "turkum": "Noutbuk",
+   "rasm": "img/4916.jpg"
+  },
+  {
+   "id": "4912",
+   "nom": "MacBook Pro 2026 14 inch M5 16/512GB",
+   "narx": "1430$",
+   "narx_son": null,
+   "tavsif": "Holati ideal, Space black, batareya 100%, 14-16 soatga yetadi, qutisi bor.",
+   "turkum": "Noutbuk",
+   "rasm": "img/4912.jpg"
+  },
+  {
+   "id": "4892",
+   "nom": "MacBook Air 2025 13.6 inch M4 16/256GB",
+   "narx": "850$",
+   "narx_son": null,
+   "tavsif": "Holati ideal, silver, batareya 100%, 10-12 soatga yetadi, qutisi bor.",
+   "turkum": "Noutbuk",
+   "rasm": "img/4892.jpg"
+  }
+ ]
+}
