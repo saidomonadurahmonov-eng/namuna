@@ -1,0 +1,36 @@
+{
+ "dokon": "Bella Rose",
+ "kanal": "bellarose_uz",
+ "ava": null,
+ "accent": "#8F1419",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "3952",
+   "nom": "To'y bop sumkalar",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "To'y bop sumkalarimiz.",
+   "turkum": "Sumka",
+   "rasm": "img/3952.jpg"
+  },
+  {
+   "id": "3958",
+   "nom": "To'y uchun ko'ylak",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Yana bir klentimizga chiroyli to'yga look qiberdik.",
+   "turkum": "Ko'ylak",
+   "rasm": "img/3958.jpg"
+  },
+  {
+   "id": "3962",
+   "nom": "Munchoqli uzun ko'ylak",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Siz Asali klentlarimiz uchun.",
+   "turkum": "Ko'ylak",
+   "rasm": "img/3962.jpg"
+  }
+ ]
+}
