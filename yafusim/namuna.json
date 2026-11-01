@@ -1,0 +1,63 @@
+{
+ "dokon": "𝐘𝐀𝐅𝐔𝐒𝐈𝐌 | 𝐰𝐨𝐦𝐞𝐧 𝐛𝐨𝐮𝐭𝐢𝐪𝐮𝐞🪽",
+ "kanal": "yafusim_boutique",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "76066",
+   "nom": "The Ordinary — Mini Skincare Set",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Muammoli va yog'li teri uchun kundalik parvarish: tozalagich, salitsil kislota va namlagich.",
+   "turkum": null,
+   "rasm": "img/76066.jpg"
+  },
+  {
+   "id": "76100",
+   "nom": "YSL Iconic Pink Lip Gloss & Blush Gift Set",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Shundanam shunaqangi ishlatgim keldi, narxi 65$ + kargo.",
+   "turkum": null,
+   "rasm": "img/76100.jpg"
+  },
+  {
+   "id": "76099",
+   "nom": "Clarins Lip Comfort Hydrating Oil Set",
+   "narx": "135 000 so'm",
+   "narx_son": 135000,
+   "tavsif": "Sheriklikda olinadigan Clarins lab moyi to'plami, kargosi bilan 135.000 dan tushadi.",
+   "turkum": null,
+   "rasm": "img/76099.jpg"
+  },
+  {
+   "id": "76093",
+   "nom": "OUAI Mini Hair & Body Mist Set",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Sayt narxi + faqat kargo.",
+   "turkum": null,
+   "rasm": "img/76093.jpg"
+  },
+  {
+   "id": "76075",
+   "nom": "GrandeLASH-MD Lash Enhancing Serum",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Sayt narxi + faqat kargo.",
+   "turkum": null,
+   "rasm": "img/76075.jpg"
+  },
+  {
+   "id": "76083",
+   "nom": "Emi Jay Hair Brush",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Sayt narxi + faqat kargo.",
+   "turkum": null,
+   "rasm": "img/76083.jpg"
+  }
+ ]
+}
