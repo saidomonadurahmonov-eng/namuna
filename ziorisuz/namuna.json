@@ -1,0 +1,63 @@
+{
+ "dokon": "ZIORIS..®️",
+ "kanal": "zioris",
+ "ava": "img/ava.jpg",
+ "accent": "#A97D18",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "18155",
+   "nom": "Original Micro Vilvet",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Original Xitoy Micro Vilvet erkaklar ko'ylagi, 2XL–6XL o'lchamlari.",
+   "turkum": "Ko'ylak",
+   "rasm": "img/18155.jpg"
+  },
+  {
+   "id": "18144",
+   "nom": "Drab",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Drab matosidan erkaklar ko'ylagi, 2XL–6XL o'lchamlari, Xitoy.",
+   "turkum": "Ko'ylak",
+   "rasm": "img/18144.jpg"
+  },
+  {
+   "id": "18139",
+   "nom": "Erkaklar ko'ylak-kurtkasi",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Cho'ntakli, tugmali erkaklar ko'ylak-kurtkasi, Xitoy.",
+   "turkum": "Ko'ylak",
+   "rasm": "img/18139.jpg"
+  },
+  {
+   "id": "18120",
+   "nom": "Yarim zamokli kofta",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Yarim zamokli erkaklar koftasi, Xitoy.",
+   "turkum": "Kofta",
+   "rasm": "img/18120.jpg"
+  },
+  {
+   "id": "18114",
+   "nom": "On cloud",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Kapyushonli erkaklar qishki puxovigi, Xitoy.",
+   "turkum": "Kurtka",
+   "rasm": "img/18114.jpg"
+  },
+  {
+   "id": "18127",
+   "nom": "Loro piano",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Yoqali erkaklar polo koftasi, uzun yengli, Xitoy.",
+   "turkum": "Kofta",
+   "rasm": "img/18127.jpg"
+  }
+ ]
+}
