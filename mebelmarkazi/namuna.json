@@ -1,0 +1,63 @@
+{
+ "dokon": "Mebellar Markazi| Rasmiy Kanal",
+ "kanal": "mebellarmarkazi",
+ "ava": "img/ava.jpg",
+ "accent": "#A99718",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "9950",
+   "nom": "Betakror uslubda ishlangan stullar",
+   "narx": "439 000 so'm",
+   "narx_son": 439000,
+   "tavsif": "Chinor yog'ochi va Xitoy 3D matosidan ishlangan stullar, 1 yil kafolat bilan.",
+   "turkum": "Stullar",
+   "rasm": "img/9950.jpg"
+  },
+  {
+   "id": "9967",
+   "nom": "Betakror uslubda ishlangan stol-stullar",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Yong'oq yog'ochi, Turkiya matosi va MDF mramor stolli stol-stullar, 2 yil kafolat.",
+   "turkum": "Stol-stullar",
+   "rasm": "img/9967.jpg"
+  },
+  {
+   "id": "9966",
+   "nom": "Oshxona mebellar to'plami",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "100% MDF va GTV Polsha mexanizmli oshxona mebeli, istalgan dizayn va rangda buyurtmaga tayyorlanadi.",
+   "turkum": "Oshxona mebeli",
+   "rasm": "img/9966.jpg"
+  },
+  {
+   "id": "9956",
+   "nom": "Yotoqxona to'plami \"BESIM\"",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Yotoqxona to'plami, 1 yil kafolat, to'lov MB kursi bo'yicha so'mda.",
+   "turkum": "Yotoqxona",
+   "rasm": "img/9956.jpg"
+  },
+  {
+   "id": "9955",
+   "nom": "Yumshoq mebellar to'plami",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Burchakli yumshoq mebellar to'plami, 4 yil kafolat bilan.",
+   "turkum": "Yumshoq mebel",
+   "rasm": "img/9955.jpg"
+  },
+  {
+   "id": "9952",
+   "nom": "Yotoqxona to'plami \"MILANA\"",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Yotoqxona to'plami, 1 yil kafolat, to'lov MB kursi bo'yicha so'mda.",
+   "turkum": "Yotoqxona",
+   "rasm": "img/9952.jpg"
+  }
+ ]
+}
