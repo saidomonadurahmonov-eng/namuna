@@ -1,0 +1,63 @@
+{
+ "dokon": "Прокат детских костюмов👗",
+ "kanal": "prokatdetskixkostyumov",
+ "ava": "img/ava.jpg",
+ "accent": "#A98218",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "4697",
+   "nom": "Костюм «Осень»",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Нарядный осенний костюм с плащом, шляпой и листьями, напрокат.",
+   "turkum": null,
+   "rasm": "img/4697.jpg"
+  },
+  {
+   "id": "4686",
+   "nom": "Платье «Хлопок»",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Детское пышное платье с принтом хлопка и белыми помпонами.",
+   "turkum": null,
+   "rasm": "img/4686.jpg"
+  },
+  {
+   "id": "4685",
+   "nom": "Платье «Колос»",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Детское золотистое платье с колосьями и пышной юбкой.",
+   "turkum": null,
+   "rasm": "img/4685.jpg"
+  },
+  {
+   "id": "4684",
+   "nom": "Костюм «Грибок»",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Детский зелёный костюм с мухоморами: кепка, жилет и брюки.",
+   "turkum": null,
+   "rasm": "img/4684.jpg"
+  },
+  {
+   "id": "4673",
+   "nom": "Восточный костюм «Осень»",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Оранжевый детский восточный костюм с листьями и украшением на голову.",
+   "turkum": null,
+   "rasm": "img/4673.jpg"
+  },
+  {
+   "id": "4687",
+   "nom": "Костюм «Пчёлка»",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Жёлто-чёрный костюм пчёлки с пышной многоярусной юбкой.",
+   "turkum": null,
+   "rasm": "img/4687.jpg"
+  }
+ ]
+}
