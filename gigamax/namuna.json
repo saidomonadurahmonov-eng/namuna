@@ -1,0 +1,63 @@
+{
+ "dokon": "Gigamax Store",
+ "kanal": "gigamax_uz",
+ "ava": "img/ava.jpg",
+ "accent": "#1857A9",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "526",
+   "nom": "2E Gaming zashitnik ochki",
+   "narx": "300 000 so'm",
+   "narx_son": 300000,
+   "tavsif": "2E Gaming zashitnik ochki, soni cheklanmagan.",
+   "turkum": "Aksessuar",
+   "rasm": "img/526.jpg"
+  },
+  {
+   "id": "524",
+   "nom": "NB A5 monitor kronshteyni",
+   "narx": "220 000 so'm",
+   "narx_son": 220000,
+   "tavsif": "Kronshteynlar keldi: NB A5 220.000 so'm, NB A5 Dual 420.000 so'm.",
+   "turkum": "Aksessuar",
+   "rasm": "img/524.jpg"
+  },
+  {
+   "id": "438",
+   "nom": "GravaStar Mercury M2 – Transparent Black",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Shaffof dizaynli yengil 79 g gaming sichqoncha, PAW3395 sensor, 26 000 DPI.",
+   "turkum": "Sichqoncha",
+   "rasm": "img/438.jpg"
+  },
+  {
+   "id": "552",
+   "nom": "Thermalright A70 White",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Thermalright A70 White case, to'liq shisha, 5 ta ARGB fan.",
+   "turkum": "Korpus",
+   "rasm": "img/552.jpg"
+  },
+  {
+   "id": "525",
+   "nom": "2E UPS",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "UPS lar kolichestvoda keldi: 850W / 1200W / 1500W / 2000W.",
+   "turkum": "UPS",
+   "rasm": "img/525.jpg"
+  },
+  {
+   "id": "508",
+   "nom": "GravaStar Mercury V75 Lite – Transparent Black",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Hall Effect switchli, 8000Hz polling rate'li shaffof gaming klaviatura.",
+   "turkum": "Klaviatura",
+   "rasm": "img/508.jpg"
+  }
+ ]
+}
