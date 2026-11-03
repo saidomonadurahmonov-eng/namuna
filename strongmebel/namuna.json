@@ -1,0 +1,63 @@
+{
+ "dokon": "Mebel_uz",
+ "kanal": "strong_mebel",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "2523",
+   "nom": "Pufik",
+   "narx": "150 000 so'm",
+   "narx_son": 150000,
+   "tavsif": "Oltin rangli oyoqlarga o'rnatilgan kulrang baxmal pufik.",
+   "turkum": "Pufik",
+   "rasm": "img/2523.jpg"
+  },
+  {
+   "id": "2564",
+   "nom": "Stol 07 va Davinchi stul",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Naqshli, zarhal bezakli Stol 07 va Davinchi stullari to'plami.",
+   "turkum": "Stol-stul",
+   "rasm": "img/2564.jpg"
+  },
+  {
+   "id": "2563",
+   "nom": "136 penal va komod",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Model 136: oynali komod va ikkita vitrinali penal.",
+   "turkum": "Vitrina",
+   "rasm": "img/2563.jpg"
+  },
+  {
+   "id": "2560",
+   "nom": "Bella yotoqxona",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Model: Bella — oltin bezakli yotoqxona mebel to'plami.",
+   "turkum": "Yotoqxona",
+   "rasm": "img/2560.jpg"
+  },
+  {
+   "id": "2557",
+   "nom": "Yumshoq mebel 01",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Yumshoq mebel 01 — divan, ikkita kreslo va jurnal stoli.",
+   "turkum": "Yumshoq mebel",
+   "rasm": "img/2557.jpg"
+  },
+  {
+   "id": "2551",
+   "nom": "Konsol",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Xitoyda ishlab chiqarilgan konsollar.",
+   "turkum": "Konsol",
+   "rasm": "img/2551.jpg"
+  }
+ ]
+}
