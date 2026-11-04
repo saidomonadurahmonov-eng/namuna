@@ -1,0 +1,63 @@
+{
+ "dokon": "Uy uchun XORAZIMLIK og’a",
+ "kanal": "uy_uchunuz",
+ "ava": "img/ava.jpg",
+ "accent": "#A97918",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "9838",
+   "nom": "Arshia Dubai go'sht qiymalagich",
+   "narx": "573 000 so'm",
+   "narx_son": 573000,
+   "tavsif": "Zanglamas po'lat pichoqli, kuchli dvigatelli original go'sht qiymalagich.",
+   "turkum": "Maishiy texnika",
+   "rasm": "img/9838.jpg"
+  },
+  {
+   "id": "9831",
+   "nom": "GIPFEL chopper 3L / 4L",
+   "narx": "299 000 so'm",
+   "narx_son": 299000,
+   "tavsif": "6 pichoqli, sensorli boshqaruvli chopper, 3L va 4L hajmda mavjud.",
+   "turkum": "Maishiy texnika",
+   "rasm": "img/9831.jpg"
+  },
+  {
+   "id": "9825",
+   "nom": "Kukmara pichoqlari to'plami",
+   "narx": "365 000 so'm",
+   "narx_son": 365000,
+   "tavsif": "Zanglamaydigan po'latdan yasalgan, ergonomik tutqichli o'tkir pichoqlar.",
+   "turkum": "Oshxona anjomlari",
+   "rasm": "img/9825.jpg"
+  },
+  {
+   "id": "9955",
+   "nom": "Kiyim ilgich javoni g'ildirakli",
+   "narx": "287 000 so'm",
+   "narx_son": 287000,
+   "tavsif": "Uy uchun g'ildirakli, ikki qavatli kiyim ilgich, javonli.",
+   "turkum": "Uy jihozlari",
+   "rasm": "img/9955.jpg"
+  },
+  {
+   "id": "9915",
+   "nom": "Iftorlik va saxarlik duoli bakal ESB-0016",
+   "narx": "31 000 so'm",
+   "narx_son": 31000,
+   "tavsif": "Ramazon uchun iftorlik va saxarlik duolari yozilgan, ichki qismi ham rangli bakal.",
+   "turkum": "Oshxona anjomlari",
+   "rasm": "img/9915.jpg"
+  },
+  {
+   "id": "9953",
+   "nom": "Mickey Mouse termos",
+   "narx": "745 000 so'm",
+   "narx_son": 745000,
+   "tavsif": "O'zbekiston bo'ylab yetkazib berish va kafolat bilan sotiladigan Mickey Mouse uslubidagi mahsulot.",
+   "turkum": "Uy jihozlari",
+   "rasm": "img/9953.jpg"
+  }
+ ]
+}
