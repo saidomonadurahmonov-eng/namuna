@@ -1,0 +1,63 @@
+{
+ "dokon": "SVETAFOR UZ",
+ "kanal": "svetaforuz1",
+ "ava": "img/ava.jpg",
+ "accent": "#1AA918",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "5641",
+   "nom": "Svetafor avtomobil yuvish to'plami",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Svetafor nabo'rlarimiz keldi.",
+   "turkum": "Avto parvarish",
+   "rasm": "img/5641.jpg"
+  },
+  {
+   "id": "5639",
+   "nom": "Aozoom H4 Mini Bi Led",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Aozoom H4 Mini Bi Ledlarimiz keldi.",
+   "turkum": "Bi Led",
+   "rasm": "img/5639.jpg"
+  },
+  {
+   "id": "5632",
+   "nom": "Aozoom Black King Kong",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Aozoom Black King Kong keldi.",
+   "turkum": "Bi Led",
+   "rasm": "img/5632.jpg"
+  },
+  {
+   "id": "5626",
+   "nom": "GTR ES6",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "GTR ES6 keldi.",
+   "turkum": "Bi Led",
+   "rasm": "img/5626.jpg"
+  },
+  {
+   "id": "5625",
+   "nom": "Vahid E20",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Vahid E20 keldi.",
+   "turkum": "Bi Led",
+   "rasm": "img/5625.jpg"
+  },
+  {
+   "id": "5630",
+   "nom": "Aozoom Truck 24V",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Aozoom Truck 24V keldi.",
+   "turkum": "Bi Led",
+   "rasm": "img/5630.jpg"
+  }
+ ]
+}
