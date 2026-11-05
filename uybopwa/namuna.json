@@ -1,0 +1,82 @@
+{
+ "dokon": "UYBOP",
+ "kanal": "uybopuz",
+ "ava": "img/ava.jpg",
+ "accent": "#A96418",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "bz7bc7e095fdbe",
+   "nom": "Garderob",
+   "narx": null,
+   "narx_son": 200000,
+   "tavsif": "",
+   "turkum": null,
+   "rasm": "img/bz7bc7e095fdbe.jpg"
+  },
+  {
+   "id": "bzae9dabb9f412",
+   "nom": "Temir veshilka",
+   "narx": null,
+   "narx_son": 250000,
+   "tavsif": "",
+   "turkum": null,
+   "rasm": "img/bzae9dabb9f412.jpg"
+  },
+  {
+   "id": "3814443",
+   "nom": "Termos 506 01-30-01-0506",
+   "narx": null,
+   "narx_son": 50000,
+   "tavsif": "",
+   "turkum": null,
+   "rasm": "img/3814443.jpg"
+  },
+  {
+   "id": "bz90336f93276f",
+   "nom": "Veshilka 811-11",
+   "narx": null,
+   "narx_son": 200000,
+   "tavsif": "",
+   "turkum": null,
+   "rasm": "img/bz90336f93276f.jpg"
+  },
+  {
+   "id": "3633270",
+   "nom": "Veshilka MJ-25272",
+   "narx": null,
+   "narx_son": 325000,
+   "tavsif": "",
+   "turkum": null,
+   "rasm": "img/3633270.jpg"
+  },
+  {
+   "id": "3633298",
+   "nom": "Veshilka MJ-25274",
+   "narx": null,
+   "narx_son": 300000,
+   "tavsif": "",
+   "turkum": null,
+   "rasm": "img/3633298.jpg"
+  },
+  {
+   "id": "3633297",
+   "nom": "Veshilka MJ11066",
+   "narx": null,
+   "narx_son": 390000,
+   "tavsif": "",
+   "turkum": null,
+   "rasm": "img/3633297.jpg"
+  },
+  {
+   "id": "3633288",
+   "nom": "Veshilka shoxcha",
+   "narx": null,
+   "narx_son": 300000,
+   "tavsif": "",
+   "turkum": null,
+   "rasm": "img/3633288.jpg"
+  }
+ ],
+ "wa": ""
+}
