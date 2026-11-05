@@ -1,0 +1,63 @@
+{
+ "dokon": "Milat Hali",
+ "kanal": "milathali",
+ "ava": "img/ava.jpg",
+ "accent": "#1C3048",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "1836",
+   "nom": "FIRA Collection",
+   "narx": "7 200 000 so'm",
+   "narx_son": 7200000,
+   "tavsif": "Изысканный турецкий ковёр 3×5 м, ворс 100% акрил, основа хлопок.",
+   "turkum": null,
+   "rasm": "img/1836.jpg"
+  },
+  {
+   "id": "1839",
+   "nom": "SANAT COVER",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Турецкий ковёр из акрила, вискозы и полиэстера, размеры 1x2, 120×180 см и 2х3 м.",
+   "turkum": null,
+   "rasm": "img/1839.jpg"
+  },
+  {
+   "id": "1738",
+   "nom": "Sanat Ascension",
+   "narx": "9 000 000 so'm",
+   "narx_son": 9000000,
+   "tavsif": "Премиальный турецкий ковёр 2,5×4 м, акрил и вискоза, петлевой ворс 7 мм.",
+   "turkum": null,
+   "rasm": "img/1738.jpg"
+  },
+  {
+   "id": "1735",
+   "nom": "ANGEL",
+   "narx": "1 035 000 so'm",
+   "narx_son": 1035000,
+   "tavsif": "Элегантный турецкий ковёр 1,5×2,30 м, 100% полиэстер, ворс 12 мм.",
+   "turkum": null,
+   "rasm": "img/1735.jpg"
+  },
+  {
+   "id": "1827",
+   "nom": "VICTORIA COLLECTION",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Ковёр из акрила и вискозы с элегантным дизайном, размеры от 1х2 до 4х6 м.",
+   "turkum": null,
+   "rasm": "img/1827.jpg"
+  },
+  {
+   "id": "1822",
+   "nom": "SANAT COVER 120×180 / 2х3",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Турецкий ковёр из акрила, вискозы и полиэстера, размеры 120×180 см и 2х3 м.",
+   "turkum": null,
+   "rasm": "img/1822.jpg"
+  }
+ ]
+}
