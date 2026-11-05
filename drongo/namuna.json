@@ -1,0 +1,63 @@
+{
+ "dokon": "DRONGO",
+ "kanal": "drongo_uz",
+ "ava": "img/ava.jpg",
+ "accent": "#184DA9",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "608",
+   "nom": "ADV 180",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "180 sm³ dvigatel, 130 km/soat tezlik, 3 ta bagajnik va Bluetooth-kolonka.",
+   "turkum": null,
+   "rasm": "img/608.jpg"
+  },
+  {
+   "id": "614",
+   "nom": "E039 skuteri",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Uchta bagajli skuter: 60V/32Ah akkumulyator, bir zaryadda 50–60 km.",
+   "turkum": null,
+   "rasm": "img/614.jpg"
+  },
+  {
+   "id": "613",
+   "nom": "E040",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Qulay va tejamkor skuter: 240 W, bir quvvatda 50–60 km, shamolga qarshi tent.",
+   "turkum": null,
+   "rasm": "img/613.jpg"
+  },
+  {
+   "id": "620",
+   "nom": "Ro'zg'or Bob Y041",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Uch g'ildirakli skuter: 250 W motor, katta tom bagaji va bonus yomg'ir tenti.",
+   "turkum": null,
+   "rasm": "img/620.jpg"
+  },
+  {
+   "id": "605",
+   "nom": "Chuntak R14",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Ixcham skuter: 48V/20Ah, 40–50 km yurish, kruiz-kontrol, old savat va keng bagaj.",
+   "turkum": null,
+   "rasm": "img/605.jpg"
+  },
+  {
+   "id": "624",
+   "nom": "Drongo V6",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Orqa suyanchiq va keng bagajli skuter, bitta zaryadda 100 km yuradi.",
+   "turkum": null,
+   "rasm": "img/624.jpg"
+  }
+ ]
+}
