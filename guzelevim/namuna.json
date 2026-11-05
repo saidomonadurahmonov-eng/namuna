@@ -1,0 +1,63 @@
+{
+ "dokon": "🌸Güzel Evim🌸",
+ "kanal": "guzelevimuz",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "20027",
+   "nom": "Чайная пара с розовым узором",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Осень - прекрасная пара для горячего чая",
+   "turkum": null,
+   "rasm": "img/20027.jpg"
+  },
+  {
+   "id": "20019",
+   "nom": "Ажурные фарфоровые вазочки",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "вазочки трех размеров",
+   "turkum": null,
+   "rasm": "img/20019.jpg"
+  },
+  {
+   "id": "20012",
+   "nom": "Сервиз с бабочками для завтрака",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Для завтрака",
+   "turkum": null,
+   "rasm": "img/20012.jpg"
+  },
+  {
+   "id": "20011",
+   "nom": "Сервиз с цветочками для завтрака",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "для завтрака",
+   "turkum": null,
+   "rasm": "img/20011.jpg"
+  },
+  {
+   "id": "20002",
+   "nom": "Столовые приборы с золотыми ручками",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Новые модели",
+   "turkum": null,
+   "rasm": "img/20002.jpg"
+  },
+  {
+   "id": "20068",
+   "nom": "Тарелка с десертом pip studio",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Встречайте осень с pip studio",
+   "turkum": null,
+   "rasm": "img/20068.jpg"
+  }
+ ]
+}
