@@ -1,0 +1,63 @@
+{
+ "dokon": "Seoul Cosmetics",
+ "kanal": "seoul_korean_cosmetics",
+ "ava": "img/ava.jpg",
+ "accent": "#A91855",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "9050",
+   "nom": "Argan yog'li shampun Confume",
+   "narx": "95 000 so'm",
+   "narx_son": 95000,
+   "tavsif": "Argan yog'i quruq va shikastlangan sochlarni namlantirib, yumshoq va ipakdek qiladi.",
+   "turkum": "Soch parvarishi",
+   "rasm": "img/9050.jpg"
+  },
+  {
+   "id": "9090",
+   "nom": "Ayollar parfyumi 10 ml",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Jenskiy mashhur duhilarning 10 ml variantlari.",
+   "turkum": "Parfyumeriya",
+   "rasm": "img/9090.jpg"
+  },
+  {
+   "id": "9086",
+   "nom": "Dr.G Red-Blemish Moisture Cleansing Foam",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Sezgir teri uchun terini quritmaydigan yumshoq tozalovchi ko'pik.",
+   "turkum": "Teri parvarishi",
+   "rasm": "img/9086.jpg"
+  },
+  {
+   "id": "9081",
+   "nom": "Celimax Dual Barrier Toner",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Sezgir va quruq teri uchun himoya qatlamini tiklovchi, chuqur namlovchi toner.",
+   "turkum": "Teri parvarishi",
+   "rasm": "img/9081.jpg"
+  },
+  {
+   "id": "9079",
+   "nom": "Celimax Dual Barrier Mild Gel Cleanser",
+   "narx": "145 000 so'm",
+   "narx_son": 145000,
+   "tavsif": "Yuzni muloyim tozalaydigan, terini quritmaydigan gel cleanser, hajmi 200 ml.",
+   "turkum": "Teri parvarishi",
+   "rasm": "img/9079.jpg"
+  },
+  {
+   "id": "9056",
+   "nom": "Anua Azelaic Acid 10 + Hyaluron Serum",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Qizarishni kamaytiradi, teri rangini tekislaydi va chuqur namlaydi.",
+   "turkum": "Teri parvarishi",
+   "rasm": "img/9056.jpg"
+  }
+ ]
+}
