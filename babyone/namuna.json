@@ -1,0 +1,36 @@
+{
+ "dokon": "Babyone_andijon",
+ "kanal": "babyone_andijon",
+ "ava": "img/ava.jpg",
+ "accent": "#A91C18",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "23760",
+   "nom": "Двойка",
+   "narx": "400 000 so'm",
+   "narx_son": 400000,
+   "tavsif": "Двойка, размер 5 йошга, Минни Маус расмли.",
+   "turkum": "Двойка",
+   "rasm": "img/23760.jpg"
+  },
+  {
+   "id": "23753",
+   "nom": "Без рукавка",
+   "narx": "350 000 so'm",
+   "narx_son": 350000,
+   "tavsif": "Без рукавка, размер 9 йош.",
+   "turkum": "Жилет",
+   "rasm": "img/23753.jpg"
+  },
+  {
+   "id": "23750",
+   "nom": "Без рукавка кизларга",
+   "narx": "160 000 so'm",
+   "narx_son": 160000,
+   "tavsif": "Без рукавка кизларга, размер 120.",
+   "turkum": "Жилет",
+   "rasm": "img/23750.jpg"
+  }
+ ]
+}
