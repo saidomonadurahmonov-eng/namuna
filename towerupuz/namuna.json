@@ -1,0 +1,63 @@
+{
+ "dokon": "Towerup - qurilish kompaniyasi",
+ "kanal": "towerupuz",
+ "ava": "img/ava.jpg",
+ "accent": "#106E38",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "428",
+   "nom": "TOWERUP massividagi xonadonlar",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Har bir oilaning yangi uyga ega bo‘lishi, quvonchi va mamnunligi — biz uchun katta motivatsiya!",
+   "turkum": "Xonadonlar",
+   "rasm": "img/428.jpg"
+  },
+  {
+   "id": "427",
+   "nom": "TAQSIM TOWERUP xonadonlari",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Xonadonlarga bo‘lgan talab kundan-kunga ortib, mavjud xonadonlar soni esa tobora kamayib bormoqda.",
+   "turkum": "Xonadonlar",
+   "rasm": "img/427.jpg"
+  },
+  {
+   "id": "426",
+   "nom": "TOWERUP zamonaviy xonadonlari",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Qulay reja, zamonaviy dizayn va shinam muhit — bularning barchasi yangi xonadoningizda mujassam!",
+   "turkum": "Xonadonlar",
+   "rasm": "img/426.jpg"
+  },
+  {
+   "id": "422",
+   "nom": "B TECH biznes markazi",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Zamonaviy arxitektura, qulay biznes muhiti va puxta qurilish yechimlarini o‘zida mujassam etgan B TECH.",
+   "turkum": "Biznes markazi",
+   "rasm": "img/422.jpg"
+  },
+  {
+   "id": "409",
+   "nom": "Yangi O‘zbekiston massividagi uylar",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Bu yerda shunchaki uylar emas, yangi hayot boshlanmoqda.",
+   "turkum": "Xonadonlar",
+   "rasm": "img/409.jpg"
+  },
+  {
+   "id": "408",
+   "nom": "Yangi O‘zbekiston 9, 10 va 11-uylari",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Yangi O‘zbekiston massivida 9, 10 va 11-uylar xonadonlari o‘z egalariga topshirilmoqda.",
+   "turkum": "Xonadonlar",
+   "rasm": "img/408.jpg"
+  }
+ ]
+}
