@@ -1,0 +1,36 @@
+{
+ "dokon": "OmadTech.Uz",
+ "kanal": "omadtech_uz",
+ "ava": "img/ava.jpg",
+ "accent": "#0C445A",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "6434",
+   "nom": "Honor X9D chixollar",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Honor X9D uchun chixollar, bir necha rangda.",
+   "turkum": "Chixol",
+   "rasm": "img/6434.jpg"
+  },
+  {
+   "id": "6433",
+   "nom": "Honor X7D chixollar",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Honor X7D uchun chixollar, bir necha rangda.",
+   "turkum": "Chixol",
+   "rasm": "img/6433.jpg"
+  },
+  {
+   "id": "6426",
+   "nom": "Honor X9d 5G",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Optom narxda ertadan sotuvda, Buxoroda eng arzoni Omadtech da.",
+   "turkum": "Telefon",
+   "rasm": "img/6426.jpg"
+  }
+ ]
+}
