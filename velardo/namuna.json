@@ -1,0 +1,63 @@
+{
+ "dokon": "VELARDO Luxury",
+ "kanal": "velardo_boutique",
+ "ava": "img/ava.jpg",
+ "accent": "#8A6836",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "772",
+   "nom": "Capobianco kostyumi va Eleventy poyabzali",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Italyancha nafislik va zamonaviy uslub — yangi F/W kolleksiyasidan garderob uchun tanlov.",
+   "turkum": null,
+   "rasm": "img/772.jpg"
+  },
+  {
+   "id": "765",
+   "nom": "Jigarrang kurtka va shim to'plami",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Italiya moda olamining eng sara namunalari — yangi kolleksiyadan.",
+   "turkum": null,
+   "rasm": "img/765.jpg"
+  },
+  {
+   "id": "760",
+   "nom": "Kulrang blazer va shim — F/W 2026/2027",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Nafis bichimlar va zamonaviy uslub uyg'unligi — yangi kuz-qish kolleksiyasi.",
+   "turkum": null,
+   "rasm": "img/760.jpg"
+  },
+  {
+   "id": "753",
+   "nom": "Qora kurtka va shim — F/W 2026/2027",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Zamonaviy klassika, nafis bichim va har bir siluetda namoyon bo'ladigan yuksak did.",
+   "turkum": null,
+   "rasm": "img/753.jpg"
+  },
+  {
+   "id": "746",
+   "nom": "Bej trikotaj kofta, futbolka va kepka",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Velardo Luxury yangi F/W 2026-2027 kolleksiyasi — klassika yangi talqinda.",
+   "turkum": null,
+   "rasm": "img/746.jpg"
+  },
+  {
+   "id": "741",
+   "nom": "Kulrang ikki qatorli kostyum — FW 26/27",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Nafis bichim, sifatli matolar va puxta ishlangan detallar — zamonaviy klassika.",
+   "turkum": null,
+   "rasm": "img/741.jpg"
+  }
+ ]
+}
