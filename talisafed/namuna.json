@@ -1,0 +1,63 @@
+{
+ "dokon": "Talisafed kiyim kechak do'koni👗👔👠👟",
+ "kanal": "talisafed_kiyim_kechak",
+ "ava": "img/ava.jpg",
+ "accent": "#A96C18",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "20874",
+   "nom": "Mujskoy kurtka",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Mujskoy kurtka, razmer 50-58, Xitoy mahsuloti.",
+   "turkum": "Kiyim",
+   "rasm": "img/20874.jpg"
+  },
+  {
+   "id": "20888",
+   "nom": "Padraskoviy krassovka",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Padraskoviy krassovka, razmer 35-39.",
+   "turkum": "Poyabzal",
+   "rasm": "img/20888.jpg"
+  },
+  {
+   "id": "20885",
+   "nom": "Detski-padraskoviy sapogcha",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Detski-padraskoviy sapogcha, razmer 32-36 va 36-40, Xitoy.",
+   "turkum": "Poyabzal",
+   "rasm": "img/20885.jpg"
+  },
+  {
+   "id": "20882",
+   "nom": "Qiz sapogcha",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Qiz bolalar uchun sapogcha, razmer 32-37, Xitoy.",
+   "turkum": "Poyabzal",
+   "rasm": "img/20882.jpg"
+  },
+  {
+   "id": "20877",
+   "nom": "Detski sapogcha",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Detski sapogcha, razmer 22-26 va 27-31.",
+   "turkum": "Poyabzal",
+   "rasm": "img/20877.jpg"
+  },
+  {
+   "id": "20893",
+   "nom": "Oversize jinsilar",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Oversize jinsilar keldi.",
+   "turkum": "Kiyim",
+   "rasm": "img/20893.jpg"
+  }
+ ]
+}
