@@ -1,0 +1,63 @@
+{
+ "dokon": "ISKANDER BOUTIQUE-ERKAKLAR KIYIMLARI PREMIUM",
+ "kanal": "erkaklarkiyimlaripremium",
+ "ava": "img/ava.jpg",
+ "accent": "#996F28",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "4545",
+   "nom": "Pufakli jilet (kulrang-bej)",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Premium sifatdagi kiyim — Iskander Boutique, 15 yillik mahalliy brend.",
+   "turkum": null,
+   "rasm": "img/4545.jpg"
+  },
+  {
+   "id": "4512",
+   "nom": "Pufakli jilet (to'q ko'k)",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Premium sifatdagi kiyim faqat siz uchun.",
+   "turkum": null,
+   "rasm": "img/4512.jpg"
+  },
+  {
+   "id": "4508",
+   "nom": "Pal Zileri kurtka (kulrang)",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Premium look: sifatli erkaklar kurtkasi.",
+   "turkum": null,
+   "rasm": "img/4508.jpg"
+  },
+  {
+   "id": "4522",
+   "nom": "Cruciani sviter (to'q binafsha)",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Premium sifatdagi kiyimlarimiz faqat siz uchun.",
+   "turkum": null,
+   "rasm": "img/4522.jpg"
+  },
+  {
+   "id": "4527",
+   "nom": "Cruciani sviter (jigarrang)",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Premium look: Iskander Boutique kolleksiyasidan.",
+   "turkum": null,
+   "rasm": "img/4527.jpg"
+  },
+  {
+   "id": "4520",
+   "nom": "Cruciani sviterlar to'plami",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Premium sifatdagi sviterlar turli ranglarda.",
+   "turkum": null,
+   "rasm": "img/4520.jpg"
+  }
+ ]
+}
