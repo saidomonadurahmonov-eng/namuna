@@ -1,0 +1,63 @@
+{
+ "dokon": "MEBEL PLuS.UZ",
+ "kanal": "mebel_plus_uzb",
+ "ava": "img/ava.jpg",
+ "accent": "#A95518",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "6667",
+   "nom": "Bagamol",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Bagamol modelidagi oval stol va beshta yumshoq stul.",
+   "turkum": "Stol-stul",
+   "rasm": "img/6667.jpg"
+  },
+  {
+   "id": "6663",
+   "nom": "Pekin",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Pekin modelidagi oq stol va yumshoq stullar to'plami.",
+   "turkum": "Stol-stul",
+   "rasm": "img/6663.jpg"
+  },
+  {
+   "id": "6655",
+   "nom": "Nova 2 pufigi bilan",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Nova divani ikkita pufi bilan birga.",
+   "turkum": "Divan",
+   "rasm": "img/6655.jpg"
+  },
+  {
+   "id": "6605",
+   "nom": "Tesla Armaniy",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Tesla Armaniy stol va stullar to'plami.",
+   "turkum": "Stol-stul",
+   "rasm": "img/6605.jpg"
+  },
+  {
+   "id": "6628",
+   "nom": "Nova",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Янги модел — Nova divani.",
+   "turkum": "Divan",
+   "rasm": "img/6628.jpg"
+  },
+  {
+   "id": "6627",
+   "nom": "Vero",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Янги модел — Vero divani.",
+   "turkum": "Divan",
+   "rasm": "img/6627.jpg"
+  }
+ ]
+}
