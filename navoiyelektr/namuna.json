@@ -1,0 +1,63 @@
+{
+ "dokon": "ELEKTRONIKA Navoiy",
+ "kanal": "navoiy_elektronika",
+ "ava": "img/ava.jpg",
+ "accent": "#1861A9",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "3094",
+   "nom": "ARCTIC VB ARCSIM2AW18HE",
+   "narx": "5 873 000 so'm",
+   "narx_son": 5873000,
+   "tavsif": "Issiq kunlar uchun sifatli va arzon konditsioner, 12 oyga bo'lib to'lash mumkin.",
+   "turkum": "Konditsioner",
+   "rasm": "img/3094.jpg"
+  },
+  {
+   "id": "3069",
+   "nom": "SAMSUNG RT47CG6442S9 WT",
+   "narx": "13 000 000 so'm",
+   "narx_son": 13000000,
+   "tavsif": "Sig'imi 460 litr, shovqini 39 dB bo'lgan sifatli Samsung muzlatgichi.",
+   "turkum": "Muzlatgich",
+   "rasm": "img/3069.jpg"
+  },
+  {
+   "id": "3097",
+   "nom": "SAMSUNG WW70AG5S21EELD",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "7 kg sig'imli, 1200 aylanish tezligidagi kafolatli Samsung kir yuvish mashinasi.",
+   "turkum": "Kir yuvish mashinasi",
+   "rasm": "img/3097.jpg"
+  },
+  {
+   "id": "3081",
+   "nom": "SAMSUNG VCC5241C33/UZ",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Kuchli motorli, jim ishlaydigan va ixcham Samsung changyutgichi.",
+   "turkum": "Pilesos",
+   "rasm": "img/3081.jpg"
+  },
+  {
+   "id": "3076",
+   "nom": "COUGAR ARMOR PRO BLACK",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Ish va o'yin uchun mos, 120 kg gacha yukka chidaydigan o'yin kreslosi.",
+   "turkum": "Kreslo",
+   "rasm": "img/3076.jpg"
+  },
+  {
+   "id": "3063",
+   "nom": "VIVO P55+",
+   "narx": "2 600 000 so'm",
+   "narx_son": 2600000,
+   "tavsif": "8 GB xotira, 90 Hz ekran, 5000 mAh batareya va 50 MP kamerali telefon.",
+   "turkum": "Telefon",
+   "rasm": "img/3063.jpg"
+  }
+ ]
+}
