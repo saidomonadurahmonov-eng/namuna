@@ -1,0 +1,63 @@
+{
+ "dokon": "💎\"MILAN GOLD\"💎",
+ "kanal": "milan_gold2017",
+ "ava": "img/ava.jpg",
+ "accent": "#481F0A",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "74461",
+   "nom": "Graff серьги",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Graff серьги в наличии.",
+   "turkum": "Серьги",
+   "rasm": "img/74461.jpg"
+  },
+  {
+   "id": "74408",
+   "nom": "Бриллиантовые серьги Van Cleef",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Бриллиантовые серьги Van Cleef — безупречная симфония света, производитель Гонконг.",
+   "turkum": "Серьги",
+   "rasm": "img/74408.jpg"
+  },
+  {
+   "id": "74406",
+   "nom": "Браслет Van Cleef",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Изысканный браслет в стиле Van Cleef — гонконгская реплика премиум-класса.",
+   "turkum": "Браслет",
+   "rasm": "img/74406.jpg"
+  },
+  {
+   "id": "74387",
+   "nom": "Кольцо Bvlgari",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "На фото — оригинал BVLGARI и наше изделие.",
+   "turkum": "Кольцо",
+   "rasm": "img/74387.jpg"
+  },
+  {
+   "id": "74379",
+   "nom": "Серьги с жемчугом",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Серьги с жемчугом.",
+   "turkum": "Серьги",
+   "rasm": "img/74379.jpg"
+  },
+  {
+   "id": "74377",
+   "nom": "Подвеска Bvlgari",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Bvlgari 1:1 с оригиналом, камни — бриллиант, 750 проба.",
+   "turkum": "Подвеска",
+   "rasm": "img/74377.jpg"
+  }
+ ]
+}
