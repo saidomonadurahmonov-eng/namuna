@@ -1,0 +1,63 @@
+{
+ "dokon": "Indigo.uz",
+ "kanal": "indigostoreuz",
+ "ava": "img/ava.jpg",
+ "accent": "#0D0C54",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "1801",
+   "nom": "40/1 PN-FULL LYC SUPREM",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Yumshoq, elastik mato bolalar kiyimlari va futbolkalar uchun, eni 190–192 sm.",
+   "turkum": null,
+   "rasm": "img/1801.jpg"
+  },
+  {
+   "id": "1806",
+   "nom": "40/1 Lycra Interlok, yurakchali print",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Kichik qizil yurakchali nafis printli, yumshoq va elastik interlok mato, eni 180 sm.",
+   "turkum": null,
+   "rasm": "img/1806.jpg"
+  },
+  {
+   "id": "1803",
+   "nom": "Panda printli Interlok",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Bolalar va kattalar kiyimlari uchun juda yumshoq 30/1 PN interlok mato.",
+   "turkum": null,
+   "rasm": "img/1803.jpg"
+  },
+  {
+   "id": "1797",
+   "nom": "OYSHO Premium Fabric — Ko'fe",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Ko'fe rangli, havo o'tkazuvchi premium mato ko'ylak, kostyum va bluzka uchun.",
+   "turkum": null,
+   "rasm": "img/1797.jpg"
+  },
+  {
+   "id": "1798",
+   "nom": "Ayiqchali suprem mato",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Chaqaloqlar uchun ko'rpa, yostiq jildi va bolalar kiyimiga mos, 220 gr/m².",
+   "turkum": null,
+   "rasm": "img/1798.jpg"
+  },
+  {
+   "id": "1800",
+   "nom": "Bordo Lycra Kashkorse",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Zich, cho'ziluvchan qovurg'ali bordo mato, 370 gr/m², eni 120 sm.",
+   "turkum": null,
+   "rasm": "img/1800.jpg"
+  }
+ ]
+}
