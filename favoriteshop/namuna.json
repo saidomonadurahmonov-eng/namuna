@@ -1,0 +1,63 @@
+{
+ "dokon": "Favorite_shop_uz01",
+ "kanal": "favorite_shop_uz",
+ "ava": "img/ava.jpg",
+ "accent": "#A91818",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "5995",
+   "nom": "Drap hudiy retro naqshli",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Xitoydan keltirilgan sifatli drap matodan tayyorlangan hudiy, rangi sinij katak, retro naqshli.",
+   "turkum": null,
+   "rasm": "img/5995.jpg"
+  },
+  {
+   "id": "5990",
+   "nom": "Kuzgi nimcha",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Kuzgi mavsumiy to'plamdan nimcha, ikki ipli likra matodan, kakao va aranjiviy ranglarda.",
+   "turkum": null,
+   "rasm": "img/5990.jpg"
+  },
+  {
+   "id": "5981",
+   "nom": "Sho'rtik Lion matosidan",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Lion matosidan tikilgan sho'rtiklar, S dan XXL gacha o'lchamlarda, ranglari bor.",
+   "turkum": null,
+   "rasm": "img/5981.jpg"
+  },
+  {
+   "id": "5989",
+   "nom": "Kuzgi triko shim",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Kuzgi maxsulotlarning yangi to'plamidan triko, Uchtepa Outlet do'konlarida.",
+   "turkum": null,
+   "rasm": "img/5989.jpg"
+  },
+  {
+   "id": "5975",
+   "nom": "Sho'rtik + krossovka aksiyasi",
+   "narx": "99 000 so'm",
+   "narx_son": 99000,
+   "tavsif": "99 000 so'mga sho'rtik xarid qilsangiz, krossovka sovg'a sifatida bepul beriladi.",
+   "turkum": null,
+   "rasm": "img/5975.jpg"
+  },
+  {
+   "id": "5940",
+   "nom": "Bolalar kamplekti Favorite",
+   "narx": "65 000 so'm",
+   "narx_son": 65000,
+   "tavsif": "1 yoshdan 7 yoshgacha bolalar uchun komplekt, aranjiviy, yashil va kakao ranglarda.",
+   "turkum": null,
+   "rasm": "img/5940.jpg"
+  }
+ ]
+}
