@@ -1,0 +1,36 @@
+{
+ "dokon": "ALVON KIDS internet magazin",
+ "kanal": "alvonuz",
+ "ava": "img/ava.jpg",
+ "accent": "#A91818",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "4306",
+   "nom": "Krossovka 38/39/40 razmer",
+   "narx": "105 000 so'm",
+   "narx_son": 105000,
+   "tavsif": "38/39/40 razmerlar, chegirmada 105.000 so'm (-50%).",
+   "turkum": "Poyabzal",
+   "rasm": "img/4306.jpg"
+  },
+  {
+   "id": "4301",
+   "nom": "Erkaklar kostyumi",
+   "narx": "330 000 so'm",
+   "narx_son": 330000,
+   "tavsif": "Qora uch qismli kostyum, 660.000 so'mdan 50% chegirmada.",
+   "turkum": "Kostyum",
+   "rasm": "img/4301.jpg"
+  },
+  {
+   "id": "4359",
+   "nom": "Maniken Turkiya",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Mebel, veshilka va selfi maniken sotiladi, Turkiya maniken 150 $ 1 donasi.",
+   "turkum": "Maniken",
+   "rasm": "img/4359.jpg"
+  }
+ ]
+}
