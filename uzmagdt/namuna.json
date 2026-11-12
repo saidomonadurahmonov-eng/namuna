@@ -1,0 +1,63 @@
+{
+ "dokon": "Uzmag_Dtdostavka",
+ "kanal": "uzmag_dtdostavka",
+ "ava": "img/ava.jpg",
+ "accent": "#A91854",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "14004",
+   "nom": "On Running Cloud 6",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "На сайте On Running идут скидки на обувь, одежду и аксессуары",
+   "turkum": "Poyabzal",
+   "rasm": "img/14004.jpg"
+  },
+  {
+   "id": "14020",
+   "nom": "Michael Kors Outlet sumkalari",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "На сайте Michael Kors OUTLET акция -20% дополнительно + -11% по промо коду",
+   "turkum": "Sumka",
+   "rasm": "img/14020.jpg"
+  },
+  {
+   "id": "14000",
+   "nom": "Charlotte Tilbury 2 by 1",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Акция 2 по цене 1 на сайте Charlotte Tilbury",
+   "turkum": "Kosmetika",
+   "rasm": "img/14000.jpg"
+  },
+  {
+   "id": "14008",
+   "nom": "Nike Air Max Muse",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "На сайте Nike сегодня также классные скидки",
+   "turkum": "Kiyim",
+   "rasm": "img/14008.jpg"
+  },
+  {
+   "id": "13975",
+   "nom": "Lindt Advent kalendar",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Сегодня буду выкупать Адвэнт календари и конфеты от Lindt",
+   "turkum": "Shirinlik",
+   "rasm": "img/13975.jpg"
+  },
+  {
+   "id": "14001",
+   "nom": "Jomashop soatlari",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Собираю заказы с сайта Jomashop",
+   "turkum": "Soat",
+   "rasm": "img/14001.jpg"
+  }
+ ]
+}
