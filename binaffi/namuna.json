@@ -1,0 +1,54 @@
+{
+ "dokon": "Binaffi_fashion",
+ "kanal": "binaffi_fashion",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "12544",
+   "nom": "Charm sumka",
+   "narx": "250 000 so'm",
+   "narx_son": 250000,
+   "tavsif": "Yana boshqa ranglari bor, narxi kargo bilan alohida (kargosi taxminan 40-50 ming).",
+   "turkum": "Sumka",
+   "rasm": "img/12544.jpg"
+  },
+  {
+   "id": "12528",
+   "nom": "Krem vegan",
+   "narx": "30 000 so'm",
+   "narx_son": 30000,
+   "tavsif": "Vegan krem: kichigi 20ml 30 000, kattasi 250ml 150 000 so'm.",
+   "turkum": "Kosmetika",
+   "rasm": "img/12528.jpg"
+  },
+  {
+   "id": "12536",
+   "nom": "Katak ko'ylak",
+   "narx": "700 000 so'm",
+   "narx_son": 700000,
+   "tavsif": "Razmerlari: s-m, l-xl.",
+   "turkum": "Kiyim",
+   "rasm": "img/12536.jpg"
+  },
+  {
+   "id": "12560",
+   "nom": "Dvoyka",
+   "narx": "690 000 so'm",
+   "narx_son": 690000,
+   "tavsif": "Turkiyadan dvoyka, narxi kargo bilan alohida.",
+   "turkum": "Kiyim",
+   "rasm": "img/12560.jpg"
+  },
+  {
+   "id": "12510",
+   "nom": "Yashil va choco to'plam",
+   "narx": "650 000 so'm",
+   "narx_son": 650000,
+   "tavsif": "Yashil va choco ranglarda, material OYSHO, razmer s-m, l-xl.",
+   "turkum": "Kiyim",
+   "rasm": "img/12510.jpg"
+  }
+ ]
+}
