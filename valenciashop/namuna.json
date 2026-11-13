@@ -1,0 +1,63 @@
+{
+ "dokon": "Valencia shop",
+ "kanal": "valenciashop",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "11814",
+   "nom": "SATOSHI NAKAMOTO",
+   "narx": "750 000 so'm",
+   "narx_son": 750000,
+   "tavsif": "Два цвета — чёрный и белый, размеры S—XL.",
+   "turkum": "Longsliv",
+   "rasm": "img/11814.jpg"
+  },
+  {
+   "id": "11877",
+   "nom": "G.STONES IVORY ZIP JACKET",
+   "narx": "950 000 so'm",
+   "narx_son": 950000,
+   "tavsif": "Куртка на молнии цвета ivory, размеры 2XL—3XL.",
+   "turkum": "Kurtka",
+   "rasm": "img/11877.jpg"
+  },
+  {
+   "id": "11874",
+   "nom": "G.STONES Faux Leather Jacket",
+   "narx": "1 200 000 so'm",
+   "narx_son": 1200000,
+   "tavsif": "Чёрная куртка из экокожи, размеры M—2XL.",
+   "turkum": "Kurtka",
+   "rasm": "img/11874.jpg"
+  },
+  {
+   "id": "11871",
+   "nom": "G.STONES Textured Wool Zip-Up Jacket",
+   "narx": "1 200 000 so'm",
+   "narx_son": 1200000,
+   "tavsif": "Чёрная куртка на молнии из фактурной шерсти, размеры M—2XL.",
+   "turkum": "Kurtka",
+   "rasm": "img/11871.jpg"
+  },
+  {
+   "id": "11821",
+   "nom": "GOODESS SHADOW",
+   "narx": "450 000 so'm",
+   "narx_son": 450000,
+   "tavsif": "Чёрный цвет, размеры S—XL.",
+   "turkum": "Futbolka",
+   "rasm": "img/11821.jpg"
+  },
+  {
+   "id": "11818",
+   "nom": "PORTERVILLE",
+   "narx": "850 000 so'm",
+   "narx_son": 850000,
+   "tavsif": "Цвет ivory, размеры S—XL.",
+   "turkum": "Futbolka",
+   "rasm": "img/11818.jpg"
+  }
+ ]
+}
