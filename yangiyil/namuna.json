@@ -1,0 +1,63 @@
+{
+ "dokon": "Yangi yil tovarlari",
+ "kanal": "yangiyil_tovarla_optim",
+ "ava": "img/ava.jpg",
+ "accent": "#0F5A3E",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "a120",
+   "nom": "Yangi yil archasi — 1.20 m",
+   "narx": "720 000 so'm",
+   "narx_son": 720000,
+   "tavsif": "Balandligi 1.20 m — bolalar xonasi, ofis yoki kichik burchak uchun.\n100% Gelviy · tabiiy ko‘rinish · uzoq muddatli",
+   "turkum": "Kichik",
+   "rasm": "img/archa_120.jpg"
+  },
+  {
+   "id": "a150",
+   "nom": "Yangi yil archasi — 1.50 m",
+   "narx": "1 080 000 so'm",
+   "narx_son": 1080000,
+   "tavsif": "Balandligi 1.50 m — kichik xona uchun ixcham o‘lcham.\n100% Gelviy · tabiiy ko‘rinish · uzoq muddatli",
+   "turkum": "Kichik",
+   "rasm": "img/archa_150.jpg"
+  },
+  {
+   "id": "a180",
+   "nom": "Yangi yil archasi — 1.80 m",
+   "narx": "1 620 000 so'm",
+   "narx_son": 1620000,
+   "tavsif": "Balandligi 1.80 m — uy mehmonxonasi uchun.\n100% Gelviy · tabiiy ko‘rinish · uzoq muddatli",
+   "turkum": "O‘rta",
+   "rasm": "img/archa_180.jpg"
+  },
+  {
+   "id": "a210",
+   "nom": "Yangi yil archasi — 2.10 m",
+   "narx": "2 220 000 so'm",
+   "narx_son": 2220000,
+   "tavsif": "Balandligi 2.10 m — keng xona uchun, shift balandligi 2.5 m dan.\n100% Gelviy · tabiiy ko‘rinish · uzoq muddatli",
+   "turkum": "O‘rta",
+   "rasm": "img/archa_210.jpg"
+  },
+  {
+   "id": "a240",
+   "nom": "Yangi yil archasi — 2.40 m",
+   "narx": "2 880 000 so'm",
+   "narx_son": 2880000,
+   "tavsif": "Balandligi 2.40 m — baland shiftli xona uchun (2.7 m dan).\n100% Gelviy · tabiiy ko‘rinish · uzoq muddatli",
+   "turkum": "Katta",
+   "rasm": "img/archa_240.jpg"
+  },
+  {
+   "id": "a270",
+   "nom": "Yangi yil archasi — 2.70 m",
+   "narx": "3 840 000 so'm",
+   "narx_son": 3840000,
+   "tavsif": "Balandligi 2.70 m — zal, do‘kon va restoran uchun.\n100% Gelviy · tabiiy ko‘rinish · uzoq muddatli",
+   "turkum": "Katta",
+   "rasm": "img/archa_270.jpg"
+  }
+ ]
+}
