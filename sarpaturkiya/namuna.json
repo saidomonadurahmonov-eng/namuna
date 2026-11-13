@@ -1,0 +1,63 @@
+{
+ "dokon": "Sarpaturkiya.uz",
+ "kanal": "sarpaturkiyauz",
+ "ava": "img/ava.jpg",
+ "accent": "#A98E18",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "24297",
+   "nom": "CLASY Ludi",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Оригинал, 100% пахта, 1 кишилик пододеяльник, простыня ва наволочка комплекти.",
+   "turkum": "Yotoq to'plami",
+   "rasm": "img/24297.jpg"
+  },
+  {
+   "id": "24254",
+   "nom": "Ranner, salfetka va kolsa to'plami",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "180*350 m стол учун Раннер 1 шт, 12 шт салфетка ва 12 шт кольца.",
+   "turkum": "Dasturxon",
+   "rasm": "img/24254.jpg"
+  },
+  {
+   "id": "24241",
+   "nom": "MADAM CASA Yozgi pled",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Подарочной каробкада 100% хлопок летний плед, 220х240, Туркия ишлаб чиқарган.",
+   "turkum": "Pled",
+   "rasm": "img/24241.jpg"
+  },
+  {
+   "id": "24229",
+   "nom": "Pupilla Heaven bambuk xalat to'plami",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Bamboo банный халат, 2 лицо ва 2 сауна полотенцеси билан, Туркия.",
+   "turkum": "Xalat",
+   "rasm": "img/24229.jpg"
+  },
+  {
+   "id": "24205",
+   "nom": "ZEBRA CASA Vera",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Одеяло, наматрасник ва 2 подушкадан иборат 6 предметли набор, Туркия.",
+   "turkum": "Yotoq to'plami",
+   "rasm": "img/24205.jpg"
+  },
+  {
+   "id": "24196",
+   "nom": "MADAM CASA Hanzade",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Келинлар учун приданный набор: покрывало, пододеяльник, простыня, одеяло ва наволочкалар.",
+   "turkum": "Yotoq to'plami",
+   "rasm": "img/24196.jpg"
+  }
+ ]
+}
