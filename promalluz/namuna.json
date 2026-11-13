@@ -1,0 +1,63 @@
+{
+ "dokon": "ProMall",
+ "kanal": "ProMall",
+ "ava": "img/ava.jpg",
+ "accent": "#A97218",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "2455",
+   "nom": "iPhone 17 Pro Max 256Gb Cosmic Orange",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "256Gb, Z/AA, Cosmic Orange, batareya 99%, muddatli to'lov va 1 oy kafolat bor.",
+   "turkum": null,
+   "rasm": "img/2455.jpg"
+  },
+  {
+   "id": "2456",
+   "nom": "iPhone 17 Pro Max 256Gb Deep Blue",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "256Gb, X/A, Deep Blue, batareya 95%, quti va hujjatlari bilan, 1 oy kafolat.",
+   "turkum": null,
+   "rasm": "img/2456.jpg"
+  },
+  {
+   "id": "2453",
+   "nom": "iPhone 18 Pro 256Gb Black",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "256Gb, Z/AA, Black, batareya 100% (8 sikl), muddatli to'lov va dastavka bor.",
+   "turkum": null,
+   "rasm": "img/2453.jpg"
+  },
+  {
+   "id": "2448",
+   "nom": "iPhone 17 Pro 256Gb Deep Blue",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "256Gb, Ch/AA, Deep Blue, batareya 91%, muddatli to'lov va 1 oy kafolat bor.",
+   "turkum": null,
+   "rasm": "img/2448.jpg"
+  },
+  {
+   "id": "2457",
+   "nom": "iPhone 17 Pro 256Gb Silver",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "256Gb, Z/AA, Silver, batareya 100%, quti va hujjatlari bilan, 1 oy kafolat.",
+   "turkum": null,
+   "rasm": "img/2457.jpg"
+  },
+  {
+   "id": "2450",
+   "nom": "iPhone 17 Air 256Gb Silver, Blue",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "256Gb, Silver va Blue ranglarda, batareya 94% va 100%, muddatli to'lov bor.",
+   "turkum": null,
+   "rasm": "img/2450.jpg"
+  }
+ ]
+}
