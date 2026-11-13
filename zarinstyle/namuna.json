@@ -1,0 +1,36 @@
+{
+ "dokon": "Zarin_style🤍",
+ "kanal": "zarin_stylee",
+ "ava": "img/ava.jpg",
+ "accent": "#9C7F16",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "2522",
+   "nom": "Qora jinsi shim",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Nalichi, M razmer.",
+   "turkum": null,
+   "rasm": "img/2522.jpg"
+  },
+  {
+   "id": "2459",
+   "nom": "Kastyum shim",
+   "narx": "150 000 so'm",
+   "narx_son": 150000,
+   "tavsif": "Kastyum shim, narxi 150 ming, kargo yo'q.",
+   "turkum": null,
+   "rasm": "img/2459.jpg"
+  },
+  {
+   "id": "2462",
+   "nom": "Ayollar kompleti",
+   "narx": "135 000 so'm",
+   "narx_son": 135000,
+   "tavsif": "Narxi 135 ming, kargo yo'q.",
+   "turkum": null,
+   "rasm": "img/2462.jpg"
+  }
+ ]
+}
