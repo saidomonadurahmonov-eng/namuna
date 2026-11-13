@@ -1,0 +1,63 @@
+{
+ "dokon": "Krasovki uzz",
+ "kanal": "krasovka_krasofka_oyoqkiyim_uzz",
+ "ava": "img/ava.jpg",
+ "accent": "#3B8670",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "9198",
+   "nom": "Crocs LiteRide",
+   "narx": "300 000 so'm",
+   "narx_son": 300000,
+   "tavsif": "Бренд Crocs, размеры 40–44, быстрая доставка.",
+   "turkum": null,
+   "rasm": "img/9198.jpg"
+  },
+  {
+   "id": "9208",
+   "nom": "HUMTTO",
+   "narx": "650 000 so'm",
+   "narx_son": 650000,
+   "tavsif": "Бренд HUMTTO, размеры 41–45, производство Вьетнам.",
+   "turkum": null,
+   "rasm": "img/9208.jpg"
+  },
+  {
+   "id": "9194",
+   "nom": "GORNORNIE TERMO",
+   "narx": "700 000 so'm",
+   "narx_son": 700000,
+   "tavsif": "Термо-обувь GORNORNIE, размеры 36–40, производство Вьетнам.",
+   "turkum": null,
+   "rasm": "img/9194.jpg"
+  },
+  {
+   "id": "9191",
+   "nom": "Columbia GORE-TEX",
+   "narx": "530 000 so'm",
+   "narx_son": 530000,
+   "tavsif": "Бренд Columbia GORE-TEX, размеры 40–45, быстрая доставка.",
+   "turkum": null,
+   "rasm": "img/9191.jpg"
+  },
+  {
+   "id": "9188",
+   "nom": "Nike Air Jordan 5",
+   "narx": "500 000 so'm",
+   "narx_son": 500000,
+   "tavsif": "Nike Air Jordan 5, размеры 36–40, производство Вьетнам.",
+   "turkum": null,
+   "rasm": "img/9188.jpg"
+  },
+  {
+   "id": "9160",
+   "nom": "New Balance 574",
+   "narx": "550 000 so'm",
+   "narx_son": 550000,
+   "tavsif": "New Balance 574, размеры 36–45, быстрая доставка.",
+   "turkum": null,
+   "rasm": "img/9160.jpg"
+  }
+ ]
+}
