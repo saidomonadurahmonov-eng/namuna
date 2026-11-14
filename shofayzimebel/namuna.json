@@ -1,0 +1,63 @@
+{
+ "dokon": "SHOFAYZI MEBEL",
+ "kanal": "shofayzi_mebel",
+ "ava": "img/ava.jpg",
+ "accent": "#5F320D",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "5997",
+   "nom": "Комплект С.П стиль",
+   "narx": "15 360 000 so'm",
+   "narx_son": 15360000,
+   "tavsif": "Ортопедик матрасли ётоқхона мебели, Тошкент ичида доставка бепул.",
+   "turkum": null,
+   "rasm": "img/5997.jpg"
+  },
+  {
+   "id": "5993",
+   "nom": "Бурчакли диван",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Yahshilikka xizmat qilsin — zakaz asosida tayyorlangan divan.",
+   "turkum": null,
+   "rasm": "img/5993.jpg"
+  },
+  {
+   "id": "5938",
+   "nom": "Трюмо С.П стиль",
+   "narx": "11 450 000 so'm",
+   "narx_son": 11450000,
+   "tavsif": "Ортопедик матрасли мебель модели С.П стиль, доставка Тошкент ичида бепул.",
+   "turkum": null,
+   "rasm": "img/5938.jpg"
+  },
+  {
+   "id": "5934",
+   "nom": "Кровать С.П стиль",
+   "narx": "13 300 000 so'm",
+   "narx_son": 13300000,
+   "tavsif": "Ортопедик матрасли мебель модели С.П стиль, доставка Тошкент ичида бепул.",
+   "turkum": null,
+   "rasm": "img/5934.jpg"
+  },
+  {
+   "id": "5924",
+   "nom": "Ётоқхона С.П стиль",
+   "narx": "13 300 000 so'm",
+   "narx_son": 13300000,
+   "tavsif": "Ортопедик матрасли мебель модели С.П стиль, доставка Тошкент ичида бепул.",
+   "turkum": null,
+   "rasm": "img/5924.jpg"
+  },
+  {
+   "id": "5917",
+   "nom": "Модель С.П стиль",
+   "narx": "10 800 000 so'm",
+   "narx_son": 10800000,
+   "tavsif": "Ортопедик матрасли мебель модели С.П стиль, доставка Тошкент ичида бепул.",
+   "turkum": null,
+   "rasm": "img/5917.jpg"
+  }
+ ]
+}
