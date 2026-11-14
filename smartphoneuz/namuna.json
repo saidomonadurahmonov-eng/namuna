@@ -1,0 +1,63 @@
+{
+ "dokon": "SmartphoneUz",
+ "kanal": "smartphoneuz",
+ "ava": "img/ava.jpg",
+ "accent": "#A99318",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "984",
+   "nom": "Pixel 8 128 Obsidian",
+   "narx": "540 $",
+   "narx_son": null,
+   "tavsif": "Yangi, Sim + eSim, IMEI ro'yxatdan o'tgan.",
+   "turkum": null,
+   "rasm": "img/984.jpg"
+  },
+  {
+   "id": "983",
+   "nom": "Pixel 11 Pro Fold 512 Obsidian",
+   "narx": "2120 $",
+   "narx_son": null,
+   "tavsif": "Yangi, Sim + eSim, IMEI ro'yxatdan o'tgan.",
+   "turkum": null,
+   "rasm": "img/983.jpg"
+  },
+  {
+   "id": "973",
+   "nom": "Pixel 11 Pro 256 Fog",
+   "narx": "1230 $",
+   "narx_son": null,
+   "tavsif": "Holati a'lo, batareya sikli 24, 256GB, eSim + eSim.",
+   "turkum": null,
+   "rasm": "img/973.jpg"
+  },
+  {
+   "id": "967",
+   "nom": "Pixel 11 512 Hibiscus",
+   "narx": "1200 $",
+   "narx_son": null,
+   "tavsif": "Yangi, eSim + eSim.",
+   "turkum": null,
+   "rasm": "img/967.jpg"
+  },
+  {
+   "id": "961",
+   "nom": "Pixel 11 Pro 256 Canyon",
+   "narx": "1450 $",
+   "narx_son": null,
+   "tavsif": "Yangi, 2ta eSim.",
+   "turkum": null,
+   "rasm": "img/961.jpg"
+  },
+  {
+   "id": "955",
+   "nom": "Pixel 11 256 Obsidian",
+   "narx": "1100 $",
+   "narx_son": null,
+   "tavsif": "Yangi, 2ta eSim, IMEI ro'yxatdan o'tgan.",
+   "turkum": null,
+   "rasm": "img/955.jpg"
+  }
+ ]
+}
