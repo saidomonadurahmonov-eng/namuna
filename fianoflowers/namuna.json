@@ -1,0 +1,63 @@
+{
+ "dokon": "FIANOFLOWERS",
+ "kanal": "fionaflowersuz",
+ "ava": "img/ava.jpg",
+ "accent": "#41150C",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "463",
+   "nom": "Pushti atirgulli buket",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "FIANOFLOWERS: pushti o'ramdagi nafis gul buketi, zakaz uchun @fianoflowers1.",
+   "turkum": null,
+   "rasm": "img/463.jpg"
+  },
+  {
+   "id": "465",
+   "nom": "Dumaloq gul kompozitsiyasi",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "FIANOFLOWERS: pushti va oq gullardan yig'ilgan dumaloq buket, zakaz uchun @fianoflowers1.",
+   "turkum": null,
+   "rasm": "img/465.jpg"
+  },
+  {
+   "id": "466",
+   "nom": "Shaffof qadoqdagi atirgullar",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "FIANOFLOWERS: shaffof qadoqdagi pushti, qizil va oq atirgullar, zakaz uchun @fianoflowers1.",
+   "turkum": null,
+   "rasm": "img/466.jpg"
+  },
+  {
+   "id": "454",
+   "nom": "Pushti buta atirgullar buketi",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "FIANOFLOWERS: yirik pushti buta atirgullardan yig'ilgan buket, zakaz uchun @fianoflowers1.",
+   "turkum": null,
+   "rasm": "img/454.jpg"
+  },
+  {
+   "id": "449",
+   "nom": "Shaftoli rangli atirgullar buketi",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "FIANOFLOWERS: shaftoli va pushti atirgullardan katta buket, zakaz uchun @fianoflowers1.",
+   "turkum": null,
+   "rasm": "img/449.jpg"
+  },
+  {
+   "id": "460",
+   "nom": "Savatdagi gul kompozitsiyasi",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "FIANOFLOWERS: o'rilgan savatga joylangan rang-barang gullar, zakaz uchun @fianoflowers1.",
+   "turkum": null,
+   "rasm": "img/460.jpg"
+  }
+ ]
+}
