@@ -1,0 +1,45 @@
+{
+ "dokon": "SterlingStore_uz",
+ "kanal": "sterlingstore_uz",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "740",
+   "nom": "Браслеты ручной работы из серебра 925°",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Эксклюзивные качественные браслеты ручной работы из серебра 925° пробы.",
+   "turkum": null,
+   "rasm": "img/740.jpg"
+  },
+  {
+   "id": "813",
+   "nom": "Женские цепочки с подвесками",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "В наличии нежные женские цепочки с подвесками.",
+   "turkum": null,
+   "rasm": "img/813.jpg"
+  },
+  {
+   "id": "739",
+   "nom": "Нежные браслеты из серебра 925°",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "В наличии нежные браслеты из серебра 925° пробы.",
+   "turkum": null,
+   "rasm": "img/739.jpg"
+  },
+  {
+   "id": "741",
+   "nom": "Серебряные браслеты 925° по весу",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Эксклюзивные браслеты ручной работы из серебра 925°, цена зависит от веса.",
+   "turkum": null,
+   "rasm": "img/741.jpg"
+  }
+ ]
+}
