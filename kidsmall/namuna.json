@@ -1,0 +1,63 @@
+{
+ "dokon": "✨𝑲𝑰𝑫𝑺 𝑴𝑨𝑳𝑳 ✨",
+ "kanal": "kids_mall_optim",
+ "ava": "img/ava.jpg",
+ "accent": "#A97C18",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "23702",
+   "nom": "Merfen bolalar uy poyabzali",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Yumshoq mo'ynali ayiqchali bolalar uy poyabzali, kichigi 65 ming, kattasi 75 ming.",
+   "turkum": "Poyabzal",
+   "rasm": "img/23702.jpg"
+  },
+  {
+   "id": "23644",
+   "nom": "Max Mara qizlar kurtkasi",
+   "narx": "220 000 so'm",
+   "narx_son": 220000,
+   "tavsif": "Qizlar uchun 7-14 yoshgacha Max Mara kurtkalar keldi, 3 xil rangi bor.",
+   "turkum": "Kurtka",
+   "rasm": "img/23644.jpg"
+  },
+  {
+   "id": "23656",
+   "nom": "Bolalar mo'ynali nimchasi",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "2-3-4-5-6 yoshgacha bolalar uchun yumshoq nimcha.",
+   "turkum": "Kiyim",
+   "rasm": "img/23656.jpg"
+  },
+  {
+   "id": "23635",
+   "nom": "Mo'ynali uy shippagi",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "36-40 razmer mo'ynali uy shippagi, qora rangi ham bor.",
+   "turkum": "Poyabzal",
+   "rasm": "img/23635.jpg"
+  },
+  {
+   "id": "23630",
+   "nom": "Bolalar yo'l-yo'l pijama to'plami",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Bolalar to'plami, 66-73-80 razmeri 39 ming, kattalariga 65 minggacha, hamma ranglari keldi.",
+   "turkum": "Kiyim",
+   "rasm": "img/23630.jpg"
+  },
+  {
+   "id": "23691",
+   "nom": "Min Min uy poyabzali",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "36-41 razmergacha tilla to'qali, ichi mo'ynali uy poyabzali.",
+   "turkum": "Poyabzal",
+   "rasm": "img/23691.jpg"
+  }
+ ]
+}
