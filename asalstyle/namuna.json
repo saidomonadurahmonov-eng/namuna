@@ -1,0 +1,54 @@
+{
+ "dokon": "ASALSTYLE🖤",
+ "kanal": "styleluxx",
+ "ava": "img/ava.jpg",
+ "accent": "#965315",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "32505",
+   "nom": "Lasagra kostyum",
+   "narx": "270 000 so'm",
+   "narx_son": 270000,
+   "tavsif": "Lasagrada primoy variantdagi kostyum, narxi 270.000.",
+   "turkum": "Kiyim",
+   "rasm": "img/32505.jpg"
+  },
+  {
+   "id": "32497",
+   "nom": "Dvoyka",
+   "narx": "230 000 so'm",
+   "narx_son": 230000,
+   "tavsif": "Dvoykalar 230.000 so'mdan.",
+   "turkum": "Kiyim",
+   "rasm": "img/32497.jpg"
+  },
+  {
+   "id": "32492",
+   "nom": "New Collection kostyum",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "New Collection, yangi kolleksiya kiyimlari.",
+   "turkum": "Kiyim",
+   "rasm": "img/32492.jpg"
+  },
+  {
+   "id": "32488",
+   "nom": "Kulrang kostyum",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Asal Style garderobidan kulrang kostyum.",
+   "turkum": "Kiyim",
+   "rasm": "img/32488.jpg"
+  },
+  {
+   "id": "32493",
+   "nom": "Yumshoq shippak",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Popooogim qaleeee.",
+   "turkum": "Oyoq kiyim",
+   "rasm": "img/32493.jpg"
+  }
+ ]
+}
