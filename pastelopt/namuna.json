@@ -1,0 +1,63 @@
+{
+ "dokon": "OPTOM PASTEL N 1❤️👍",
+ "kanal": "pastelopt1",
+ "ava": "img/ava.jpg",
+ "accent": "#A9181D",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "160632",
+   "nom": "Asal tigr zimniy nabor",
+   "narx": "370 000 so'm",
+   "narx_son": 370000,
+   "tavsif": "Podadyalnik, prostina, 2 ta navlochka, Xitoy original, sifati juda zo'r.",
+   "turkum": null,
+   "rasm": "img/160632.jpg"
+  },
+  {
+   "id": "160628",
+   "nom": "Qulpinoy nabor",
+   "narx": "220 000 so'm",
+   "narx_son": 220000,
+   "tavsif": "Podadyalnik, prostina, 2 ta navlochka, Xitoy original, sifati zo'r.",
+   "turkum": null,
+   "rasm": "img/160628.jpg"
+  },
+  {
+   "id": "160593",
+   "nom": "Zimniy nabor 2 kishilik",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "2 kishilik zimniy nabor.",
+   "turkum": null,
+   "rasm": "img/160593.jpg"
+  },
+  {
+   "id": "160574",
+   "nom": "Pastel nabor",
+   "narx": "290 000 so'm",
+   "narx_son": 290000,
+   "tavsif": "Podadyalnik, prostina, 2 ta navlochka, Xitoy original, chiroyli pastel komplekt.",
+   "turkum": null,
+   "rasm": "img/160574.jpg"
+  },
+  {
+   "id": "160623",
+   "nom": "Qulpinoy nabor oq",
+   "narx": "220 000 so'm",
+   "narx_son": 220000,
+   "tavsif": "Podadyalnik, prostina, 2 ta navlochka, Xitoy original, sifati zo'r.",
+   "turkum": null,
+   "rasm": "img/160623.jpg"
+  },
+  {
+   "id": "160657",
+   "nom": "2 kishilik Xitoy nabor",
+   "narx": "290 000 so'm",
+   "narx_son": 290000,
+   "tavsif": "Xitoy argenal momiq 2 kishilik nabor: podadyalnik, prostina, 2 ta navlochka.",
+   "turkum": null,
+   "rasm": "img/160657.jpg"
+  }
+ ]
+}
