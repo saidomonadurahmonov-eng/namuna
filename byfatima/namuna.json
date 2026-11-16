@@ -1,0 +1,63 @@
+{
+ "dokon": "BY FATIMA | Khimar va Hijob",
+ "kanal": "byfatimacollection",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "12619",
+   "nom": "Gulli xijob-libos",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Umra va haj uchun qulay gulli libos, Gulzor plazadan, dostavka mavjud.",
+   "turkum": null,
+   "rasm": "img/12619.jpg"
+  },
+  {
+   "id": "12617",
+   "nom": "Yashil xijob-libos",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Yashil libos va xijob to'plami, Gulzor plazadan, dostavka mavjud.",
+   "turkum": null,
+   "rasm": "img/12617.jpg"
+  },
+  {
+   "id": "12611",
+   "nom": "Ko'k yopinchiqli libos",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Ko'k rangli keng libos, Gulzor plazadan, dostavka mavjud.",
+   "turkum": null,
+   "rasm": "img/12611.jpg"
+  },
+  {
+   "id": "12605",
+   "nom": "Qo'ng'ir xijob-libos",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Qo'ng'ir xijobli libos, nalichieda bor, dostavka mavjud.",
+   "turkum": null,
+   "rasm": "img/12605.jpg"
+  },
+  {
+   "id": "12610",
+   "nom": "Dvoyka",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Gulli va qora ikki qismli libos, Gulzor plazadan, dostavka mavjud.",
+   "turkum": null,
+   "rasm": "img/12610.jpg"
+  },
+  {
+   "id": "12602",
+   "nom": "Kuzgi kolleksiya to'plami",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Kuzgi kolleksiyadan oq ust va kulrang shim, nalichieda bor.",
+   "turkum": null,
+   "rasm": "img/12602.jpg"
+  }
+ ]
+}
