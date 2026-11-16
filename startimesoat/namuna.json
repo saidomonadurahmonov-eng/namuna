@@ -1,0 +1,63 @@
+{
+ "dokon": "Часы Оригинал \"STAR TIME\" 🇺🇿",
+ "kanal": "originalsoat",
+ "ava": "img/ava.jpg",
+ "accent": "#6D100F",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "9768",
+   "nom": "RAYMOND WEIL MAESTRO Open Heart Automatic",
+   "narx": "18 600 000 so'm",
+   "narx_son": 18600000,
+   "tavsif": "Швейцарские механические часы с автоподзаводом, сапфировое стекло, кожаный ремешок, 40 мм.",
+   "turkum": null,
+   "rasm": "img/9768.jpg"
+  },
+  {
+   "id": "9770",
+   "nom": "MIDO BARONCELLI BIG DATE Automatic",
+   "narx": "10 500 000 so'm",
+   "narx_son": 10500000,
+   "tavsif": "Swiss made, автоподзавод с запасом хода до 80 часов, стальной браслет, сапфир, 40 мм.",
+   "turkum": null,
+   "rasm": "img/9770.jpg"
+  },
+  {
+   "id": "9771",
+   "nom": "SEIKO SPORT AUTOMATIC",
+   "narx": "4 000 000 so'm",
+   "narx_son": 4000000,
+   "tavsif": "Японские механические часы с автоподзаводом, нейлоновый ремешок, 100 м водозащиты, 42,5 мм.",
+   "turkum": null,
+   "rasm": "img/9771.jpg"
+  },
+  {
+   "id": "9759",
+   "nom": "TISSOT SEASTAR Powermatic 80",
+   "narx": "9 600 000 so'm",
+   "narx_son": 9600000,
+   "tavsif": "Дайверские часы Swiss made, запас хода 80 часов, каучуковый ремешок, водозащита 300 м.",
+   "turkum": null,
+   "rasm": "img/9759.jpg"
+  },
+  {
+   "id": "9774",
+   "nom": "CERTINA DS-CAIMANO",
+   "narx": "3 900 000 so'm",
+   "narx_son": 3900000,
+   "tavsif": "Швейцарские кварцевые часы, стальной браслет, сапфировое стекло, водозащита 100 м, 38 мм.",
+   "turkum": null,
+   "rasm": "img/9774.jpg"
+  },
+  {
+   "id": "9772",
+   "nom": "FREDERIQUE CONSTANT Moon & Stars DIAMOND",
+   "narx": "22 500 000 so'm",
+   "narx_son": 22500000,
+   "tavsif": "Женские кварцевые часы Swiss made с 48 натуральными бриллиантами на безеле и циферблате.",
+   "turkum": null,
+   "rasm": "img/9772.jpg"
+  }
+ ]
+}
