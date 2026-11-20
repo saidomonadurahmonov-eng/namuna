@@ -1,0 +1,63 @@
+{
+ "dokon": "TUK-TUK Fashion",
+ "kanal": "tuktuk_fashion",
+ "ava": "img/ava.jpg",
+ "accent": "#A91862",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "14687",
+   "nom": "CHANEL etigi",
+   "narx": "600 000 so'm",
+   "narx_son": 600000,
+   "tavsif": "CHANEL, lux kopiya, 36/40 razmerlar.",
+   "turkum": "Poyabzal",
+   "rasm": "img/14687.jpg"
+  },
+  {
+   "id": "14714",
+   "nom": "Bottega Veneta sumkasi",
+   "narx": "250 000 so'm",
+   "narx_son": 250000,
+   "tavsif": "Yana ranglari bor, battega narxi 250.000.",
+   "turkum": "Sumka",
+   "rasm": "img/14714.jpg"
+  },
+  {
+   "id": "14724",
+   "nom": "GUCCI shopper sumkasi",
+   "narx": "250 000 so'm",
+   "narx_son": 250000,
+   "tavsif": "Kotta shopper sumkasi, premium sifat.",
+   "turkum": "Sumka",
+   "rasm": "img/14724.jpg"
+  },
+  {
+   "id": "14699",
+   "nom": "Louis Vuitton sumkasi",
+   "narx": "180 000 so'm",
+   "narx_son": 180000,
+   "tavsif": "Louis Vuitton sumkasi, eski narxi 250.000, hozir 180.000.",
+   "turkum": "Sumka",
+   "rasm": "img/14699.jpg"
+  },
+  {
+   "id": "14696",
+   "nom": "HERMES sumkasi",
+   "narx": "250 000 so'm",
+   "narx_son": 250000,
+   "tavsif": "22 sm, premium sifat, hamma rangi bor.",
+   "turkum": "Sumka",
+   "rasm": "img/14696.jpg"
+  },
+  {
+   "id": "14697",
+   "nom": "Mastonchalari sumkasi",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Hammaning sevimli mastonchalari sumkasi.",
+   "turkum": "Sumka",
+   "rasm": "img/14697.jpg"
+  }
+ ]
+}
