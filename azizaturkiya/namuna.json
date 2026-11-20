@@ -1,0 +1,63 @@
+{
+ "dokon": "Aziza Turkiya Nalichi",
+ "kanal": "aziza_turkiya_nalichi",
+ "ava": "img/ava.jpg",
+ "accent": "#A2171D",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "45369",
+   "nom": "Bobdog bolalar etigi",
+   "narx": "185 000 so'm",
+   "narx_son": 185000,
+   "tavsif": "Xitoy Original, qora, 26 va 29 razmer, nalichida.",
+   "turkum": "Poyabzal",
+   "rasm": "img/45369.jpg"
+  },
+  {
+   "id": "45359",
+   "nom": "Bolalar uzun etigi JPD",
+   "narx": "250 000 so'm",
+   "narx_son": 250000,
+   "tavsif": "Xitoy Original, 34 razmer, nalichida.",
+   "turkum": "Poyabzal",
+   "rasm": "img/45359.jpg"
+  },
+  {
+   "id": "45366",
+   "nom": "Bolalar qishki botinkasi Loud Jingle",
+   "narx": "220 000 so'm",
+   "narx_son": 220000,
+   "tavsif": "Xitoy Original, 31 razmer, 2 ta nalichida.",
+   "turkum": "Poyabzal",
+   "rasm": "img/45366.jpg"
+  },
+  {
+   "id": "45349",
+   "nom": "Qiz bolalar jinsisi kamarli",
+   "narx": "145 000 so'm",
+   "narx_son": 145000,
+   "tavsif": "Xitoy Nachos, qiz bolaniki, 3 yoshdan 6 yoshgacha.",
+   "turkum": "Kiyim",
+   "rasm": "img/45349.jpg"
+  },
+  {
+   "id": "45330",
+   "nom": "Bolalar troyka to'plami",
+   "narx": "285 000 so'm",
+   "narx_son": 285000,
+   "tavsif": "Xitoy Troyka, 3-4, 4-5 va 5-6 yosh uchun.",
+   "turkum": "Kiyim",
+   "rasm": "img/45330.jpg"
+  },
+  {
+   "id": "45322",
+   "nom": "Bolalar dvoyka to'plami",
+   "narx": "320 000 so'm",
+   "narx_son": 320000,
+   "tavsif": "Kurtkasi ichi mexli, shimi nachosli va beli rezinkali.",
+   "turkum": "Kiyim",
+   "rasm": "img/45322.jpg"
+  }
+ ]
+}
