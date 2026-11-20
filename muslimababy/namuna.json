@@ -1,0 +1,63 @@
+{
+ "dokon": "💖 MUSLIMA BABY💖🥇🏆",
+ "kanal": "muslima_babyy",
+ "ava": "img/ava.jpg",
+ "accent": "#8A3F37",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "219354",
+   "nom": "Qalin mexlik troyka",
+   "narx": "200 000 so'm",
+   "narx_son": 200000,
+   "tavsif": "Xitoy troyka, qalin mexlik, 2-3 yoshgacha bolalar uchun.",
+   "turkum": "Bolalar kiyimi",
+   "rasm": "img/219354.jpg"
+  },
+  {
+   "id": "219352",
+   "nom": "Xitoy bambuq",
+   "narx": "210 000 so'm",
+   "narx_son": 210000,
+   "tavsif": "Xitoy bambuq to'plami, 7-10 yosh uchun.",
+   "turkum": "Bolalar kiyimi",
+   "rasm": "img/219352.jpg"
+  },
+  {
+   "id": "219345",
+   "nom": "Troyka villur",
+   "narx": "80 000 so'm",
+   "narx_son": 80000,
+   "tavsif": "Troyka villur, 6 oylikdan 18 oylikkacha bolalar uchun.",
+   "turkum": "Bolalar kiyimi",
+   "rasm": "img/219345.jpg"
+  },
+  {
+   "id": "219339",
+   "nom": "Villur komplekt jijilarga",
+   "narx": "70 000 so'm",
+   "narx_son": 70000,
+   "tavsif": "Jijilarga villurlik, yumshoqqina va issiqina.",
+   "turkum": "Bolalar kiyimi",
+   "rasm": "img/219339.jpg"
+  },
+  {
+   "id": "219335",
+   "nom": "Villur komplekt oylik",
+   "narx": "65 000 so'm",
+   "narx_son": 65000,
+   "tavsif": "Issiqina yumshoqqina, 6 oylikdan 12 oylikkacha.",
+   "turkum": "Bolalar kiyimi",
+   "rasm": "img/219335.jpg"
+  },
+  {
+   "id": "219356",
+   "nom": "Bolish",
+   "narx": "15 000 so'm",
+   "narx_son": 15000,
+   "tavsif": "Bolish, 15 000 so'm.",
+   "turkum": "Uy buyumi",
+   "rasm": "img/219356.jpg"
+  }
+ ]
+}
