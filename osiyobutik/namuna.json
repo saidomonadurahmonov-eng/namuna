@@ -1,0 +1,63 @@
+{
+ "dokon": "Osiyo butik",
+ "kanal": "osiyo_boutiquee",
+ "ava": "img/ava.jpg",
+ "accent": "#A6A918",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "87616",
+   "nom": "Yves Saint Laurent Mon Paris",
+   "narx": "90 000 so'm",
+   "narx_son": 90000,
+   "tavsif": "Xitoy kachestvasidagi parfyum, shahar ichida 1 kunda yetkaziladi.",
+   "turkum": "Parfyum",
+   "rasm": "img/87616.jpg"
+  },
+  {
+   "id": "87614",
+   "nom": "Gucci Flora Gorgeous Gardenia",
+   "narx": "90 000 so'm",
+   "narx_son": 90000,
+   "tavsif": "Xitoy kachestvasidagi parfyum, viloyatga 3-5 kunda yetkaziladi.",
+   "turkum": "Parfyum",
+   "rasm": "img/87614.jpg"
+  },
+  {
+   "id": "87618",
+   "nom": "Feramon sprey",
+   "narx": "90 000 so'm",
+   "narx_son": 90000,
+   "tavsif": "Feramon sprey, shahar ichida 1 kunda yetkaziladi.",
+   "turkum": "Parfyum",
+   "rasm": "img/87618.jpg"
+  },
+  {
+   "id": "87609",
+   "nom": "Nimcha",
+   "narx": "150 000 so'm",
+   "narx_son": 150000,
+   "tavsif": "Kachestvasi zo'r nimchalar skidka narxda keldi.",
+   "turkum": "Kiyim",
+   "rasm": "img/87609.jpg"
+  },
+  {
+   "id": "87608",
+   "nom": "Kurtka",
+   "narx": "150 000 so'm",
+   "narx_son": 150000,
+   "tavsif": "Skidka narxda, kachestvasi zo'r.",
+   "turkum": "Kiyim",
+   "rasm": "img/87608.jpg"
+  },
+  {
+   "id": "87612",
+   "nom": "Dush gel",
+   "narx": "35 000 so'm",
+   "narx_son": 35000,
+   "tavsif": "Dush gel, shahar ichida 1 kunda yetkaziladi.",
+   "turkum": "Kosmetika",
+   "rasm": "img/87612.jpg"
+  }
+ ]
+}
