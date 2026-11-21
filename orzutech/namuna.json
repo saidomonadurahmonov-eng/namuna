@@ -1,0 +1,63 @@
+{
+ "dokon": "Orzutech Mobile",
+ "kanal": "Orzutech_Mobile",
+ "ava": "img/ava.jpg",
+ "accent": "#A95818",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "7783",
+   "nom": "Philips Multigroom 7000 MG7940",
+   "narx": "900 000 so'm",
+   "narx_son": 900000,
+   "tavsif": "Триммер Philips 14 в 1 для ухода за лицом, волосами и телом.",
+   "turkum": "Trimmer",
+   "rasm": "img/7783.jpg"
+  },
+  {
+   "id": "7750",
+   "nom": "OZCT 18 MAX",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Универсальный планшет с большим экраном в комплекте с клавиатурой, мышью и стилусом.",
+   "turkum": "Planshet",
+   "rasm": "img/7750.jpg"
+  },
+  {
+   "id": "7662",
+   "nom": "Oscal Flat 3C",
+   "narx": "1 420 000 so'm",
+   "narx_son": 1420000,
+   "tavsif": "Katta ekran, kuchli batareya, hamyonbop narx.",
+   "turkum": "Telefon",
+   "rasm": "img/7662.jpg"
+  },
+  {
+   "id": "7636",
+   "nom": "Hollyland Lark M3",
+   "narx": "1 250 000 so'm",
+   "narx_son": 1250000,
+   "tavsif": "Kontent yaratuvchilar uchun professional simsiz mikrofon, 2 ta transmitter va 1 ta receiver.",
+   "turkum": "Mikrofon",
+   "rasm": "img/7636.jpg"
+  },
+  {
+   "id": "7693",
+   "nom": "Mi Band 11 Global",
+   "narx": "720 000 so'm",
+   "narx_son": 720000,
+   "tavsif": "Xiaomi'ning yangi fitnes-bilaguzugi: yorqin AMOLED ekran va 21 kungacha ishlaydigan batareya.",
+   "turkum": "Bilaguzuk",
+   "rasm": "img/7693.jpg"
+  },
+  {
+   "id": "7745",
+   "nom": "Redmi Buds 8 Pro",
+   "narx": "870 000 so'm",
+   "narx_son": 870000,
+   "tavsif": "Qulay dizayn, toza tovush va kun bo'yi ishlaydigan simsiz quloqchinlar.",
+   "turkum": "Quloqchin",
+   "rasm": "img/7745.jpg"
+  }
+ ]
+}
