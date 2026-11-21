@@ -1,0 +1,63 @@
+{
+ "dokon": "HED electronix",
+ "kanal": "Hedelectronix",
+ "ava": "img/ava.jpg",
+ "accent": "#189BA9",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "8494",
+   "nom": "HKC CG343U Pro",
+   "narx": "265$",
+   "narx_son": null,
+   "tavsif": "34 dyuymli egri ultrawide monitor, 3440×1440, 200 Hz, 1 ms, VA panel.",
+   "turkum": "Monitor",
+   "rasm": "img/8494.jpg"
+  },
+  {
+   "id": "8480",
+   "nom": "Full Setup i5 12400F + RTX 2060 Super",
+   "narx": "640$",
+   "narx_son": null,
+   "tavsif": "To'liq geymerlik komplekt: monitor, klaviatura, sichqoncha, 6 oy garantiya.",
+   "turkum": "Kompyuter",
+   "rasm": "img/8480.jpg"
+  },
+  {
+   "id": "8466",
+   "nom": "FURYCUBE RX75",
+   "narx": "420 000 so'm",
+   "narx_son": 420000,
+   "tavsif": "Geymerlar uchun ixcham mexanik klaviatura, boshqaruv knobi va lotin/kirill harflari.",
+   "turkum": "Klaviatura",
+   "rasm": "img/8466.jpg"
+  },
+  {
+   "id": "8458",
+   "nom": "FURYCUBE R78",
+   "narx": "299 000 so'm",
+   "narx_son": 299000,
+   "tavsif": "Professional esports uchun mexanik klaviatura, rainbow yoritgich, anti-ghosting.",
+   "turkum": "Klaviatura",
+   "rasm": "img/8458.jpg"
+  },
+  {
+   "id": "8443",
+   "nom": "PALIT DUAL BOX RTX 3060TI 8GB",
+   "narx": "370$",
+   "narx_son": null,
+   "tavsif": "Ideal holatdagi videokarta, kafolati bor.",
+   "turkum": "Videokarta",
+   "rasm": "img/8443.jpg"
+  },
+  {
+   "id": "8437",
+   "nom": "UNIKA RTX 3060 12GB",
+   "narx": "360$",
+   "narx_son": null,
+   "tavsif": "Ideal holatdagi videokarta, kafolati bor.",
+   "turkum": "Videokarta",
+   "rasm": "img/8437.jpg"
+  }
+ ]
+}
