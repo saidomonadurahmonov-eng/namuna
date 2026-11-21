@@ -1,0 +1,63 @@
+{
+ "dokon": "🔴inGame",
+ "kanal": "ingameuz",
+ "ava": "img/ava.jpg",
+ "accent": "#187EA9",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "8747",
+   "nom": "Logitech G Pro X 2 Lightspeed Pink",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Graphene drayverli va Blue VO!CE mikrofonli professional simsiz gaming quloqchin.",
+   "turkum": "Quloqchin",
+   "rasm": "img/8747.jpg"
+  },
+  {
+   "id": "8742",
+   "nom": "Logitech G Pro X Superlight 2 Pink",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "HERO 2 sensorli, ~60 g ultra-yengil esports simsiz sichqoncha.",
+   "turkum": "Sichqoncha",
+   "rasm": "img/8742.jpg"
+  },
+  {
+   "id": "8708",
+   "nom": "2E Cleaning Kit",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Monitor, noutbuk va smartfon ekranlari uchun tozalovchi sprey va mikrofibra to'plami.",
+   "turkum": "Tozalash vositasi",
+   "rasm": "img/8708.jpg"
+  },
+  {
+   "id": "8806",
+   "nom": "Cougar CFV235 Mesh Vision Gaming Case",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "O'rnatilgan 15.6\" IPS ekranli, mesh old panelli va shisha yon panelli gaming korpus.",
+   "turkum": "Korpus",
+   "rasm": "img/8806.jpg"
+  },
+  {
+   "id": "8803",
+   "nom": "Cougar Polar 1200W Power Supply",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "80 PLUS Platinum sertifikatli, to'liq modulli 1200W quvvat bloki.",
+   "turkum": "Quvvat bloki",
+   "rasm": "img/8803.jpg"
+  },
+  {
+   "id": "8794",
+   "nom": "MCHOSE V9 Pro Wireless Gaming Headset",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "53mm drayverli, 7.1 surround va Tri-Mode ulanishli simsiz gaming quloqchin.",
+   "turkum": "Quloqchin",
+   "rasm": "img/8794.jpg"
+  }
+ ]
+}
