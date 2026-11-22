@@ -1,0 +1,54 @@
+{
+ "dokon": "Wifi ups",
+ "kanal": "upsquva",
+ "ava": "img/ava.jpg",
+ "accent": "#1876A9",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "195",
+   "nom": "12v 13000 mAh аккумлятор",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "12v 13000 mAh аккумлятор.",
+   "turkum": "Аккумлятор",
+   "rasm": "img/195.jpg"
+  },
+  {
+   "id": "203",
+   "nom": "24V 8A аккумлятор",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Мошиначалар учун 24V 8A аккумлятор.",
+   "turkum": "Аккумлятор",
+   "rasm": "img/203.jpg"
+  },
+  {
+   "id": "198",
+   "nom": "Детский электро мотоцикл аккумлятори",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Детский электро мотоциклга аккумлятор.",
+   "turkum": "Аккумлятор",
+   "rasm": "img/198.jpg"
+  },
+  {
+   "id": "213",
+   "nom": "Wifi UPS 12v 1.5a",
+   "narx": "180 000 so'm",
+   "narx_son": 180000,
+   "tavsif": "12v 1.5a wifi routerlar uchun, 180 mingga 3 soat ishlaydi.",
+   "turkum": "Wifi UPS",
+   "rasm": "img/213.jpg"
+  },
+  {
+   "id": "208",
+   "nom": "Wifi UPS 12v 1a",
+   "narx": "180 000 so'm",
+   "narx_son": 180000,
+   "tavsif": "12v 1a wifi routerlar uchun, 180 mingga 6 soat ishlaydi.",
+   "turkum": "Wifi UPS",
+   "rasm": "img/208.jpg"
+  }
+ ]
+}
