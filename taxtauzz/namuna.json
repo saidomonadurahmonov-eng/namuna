@@ -1,0 +1,45 @@
+{
+ "dokon": "MUHAMMADAMIN TAXTA OPTOM",
+ "kanal": "taxta_uzz",
+ "ava": "img/ava.jpg",
+ "accent": "#A96318",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "15477",
+   "nom": "Доска сосна 31-108-6 / 31-138-6",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Вагон 60348174: 31*108*6 — 3270 та, 31*138*6 — 10 та.",
+   "turkum": null,
+   "rasm": "img/15477.jpg"
+  },
+  {
+   "id": "15447",
+   "nom": "Доска 1,5-75-6 некондиция",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "1,5-75-6 некондиция доска.",
+   "turkum": null,
+   "rasm": "img/15447.jpg"
+  },
+  {
+   "id": "15433",
+   "nom": "Доска 35-103-4",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "35*103*4 — 2340 та, 33,743 куб, таййор, фура водийга юради.",
+   "turkum": null,
+   "rasm": "img/15433.jpg"
+  },
+  {
+   "id": "15428",
+   "nom": "Доска 35-85-4",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "35-85-4 доска, 65 куб.",
+   "turkum": null,
+   "rasm": "img/15428.jpg"
+  }
+ ]
+}
