@@ -1,0 +1,63 @@
+{
+ "dokon": "𝐀𝐑𝐓𝐇𝐎𝐔𝐒𝐄_𝐃𝐀𝐕𝐑𝐎𝐍",
+ "kanal": "arthouse_davron",
+ "ava": "img/ava.jpg",
+ "accent": "#0B4236",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "2504",
+   "nom": "2 xona (3 xona qilingan) 73,44 kvm",
+   "narx": "89 500$",
+   "narx_son": null,
+   "tavsif": "Yangi ta'mirdan chiqqan, 11-blok 6-qavat (skvaznoy), Kokcha Oqtepa (literaturniy).",
+   "turkum": null,
+   "rasm": "img/2504.jpg"
+  },
+  {
+   "id": "2492",
+   "nom": "2 xona tayyor remont 57 kv",
+   "narx": "78 000$",
+   "narx_son": null,
+   "tavsif": "57 kv, 8-qavat, manzil Kokcha Oqtepa (Literaturniy).",
+   "turkum": null,
+   "rasm": "img/2492.jpg"
+  },
+  {
+   "id": "2483",
+   "nom": "2 xona (3 xona qilingan) 67 kvm",
+   "narx": "83 900$",
+   "narx_son": null,
+   "tavsif": "Tayyor remont mebellari bilan, 10-qavat, xamma narsa qoladi, kadastr tayyor.",
+   "turkum": null,
+   "rasm": "img/2483.jpg"
+  },
+  {
+   "id": "2447",
+   "nom": "2 xona tayyor tamirlangan 64.88 kv m",
+   "narx": "81 500$",
+   "narx_son": null,
+   "tavsif": "6-qavat, Kokcha oqtepa, kadastr tayyor.",
+   "turkum": null,
+   "rasm": "img/2447.jpg"
+  },
+  {
+   "id": "2438",
+   "nom": "9-blok 2 xona 61.3 kv m",
+   "narx": "84 000$",
+   "narx_son": null,
+   "tavsif": "Yangi tamirlangan, 7-qavat, Kokcha oqtepa, kadastr tayyor.",
+   "turkum": null,
+   "rasm": "img/2438.jpg"
+  },
+  {
+   "id": "2434",
+   "nom": "1 xona 40 kv",
+   "narx": "40 000$",
+   "narx_son": null,
+   "tavsif": "Qavat 7/16, bitish muddati 2027 1-chorak, topshirish xolati oq suvoq.",
+   "turkum": null,
+   "rasm": "img/2434.jpg"
+  }
+ ]
+}
