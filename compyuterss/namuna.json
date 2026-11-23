@@ -1,0 +1,63 @@
+{
+ "dokon": "RTX Laptop Shop",
+ "kanal": "compyuterss",
+ "ava": "img/ava.jpg",
+ "accent": "#A91818",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "9787",
+   "nom": "Lenovo LOQ Gaming",
+   "narx": "780$",
+   "narx_son": null,
+   "tavsif": "Intel Core i5-13450HX, RTX 4050, 16GB RAM, 1TB SSD, original zaryadkasi va 1 yil kafolat bilan.",
+   "turkum": null,
+   "rasm": "img/9787.jpg"
+  },
+  {
+   "id": "9782",
+   "nom": "ASUS Vivobook 15",
+   "narx": "600$",
+   "narx_son": null,
+   "tavsif": "AMD Ryzen 7 170, 8GB DDR5, 512GB SSD, holati ideal, korobka va hujjatlari bor.",
+   "turkum": null,
+   "rasm": "img/9782.jpg"
+  },
+  {
+   "id": "9775",
+   "nom": "ASUS TUF A15",
+   "narx": "1 250$",
+   "narx_son": null,
+   "tavsif": "Ryzen 9 7940HS, RTX 4060 8GB, 32GB DDR5, 1TB SSD, 2K 165Hz ekran, holati ideal.",
+   "turkum": null,
+   "rasm": "img/9775.jpg"
+  },
+  {
+   "id": "9707",
+   "nom": "Asus Zenbook 15",
+   "narx": "620$",
+   "narx_son": null,
+   "tavsif": "Ryzen 5 7535U, 16GB DDR5, 512GB SSD, 15.6 2.8K 120Hz ekran, 1 yil kafolat.",
+   "turkum": null,
+   "rasm": "img/9707.jpg"
+  },
+  {
+   "id": "9703",
+   "nom": "HP ProBook",
+   "narx": "320$",
+   "narx_son": null,
+   "tavsif": "Intel Core i5 (11-avlod), 8GB DDR4, 256GB SSD, 15.6\" IPS ekran, holati ideal.",
+   "turkum": null,
+   "rasm": "img/9703.jpg"
+  },
+  {
+   "id": "9700",
+   "nom": "HP EliteBook",
+   "narx": "360$",
+   "narx_son": null,
+   "tavsif": "Intel Core i5 (12-avlod), 8GB DDR5, 256GB SSD, 14\" IPS ekran, 1 yil kafolat.",
+   "turkum": null,
+   "rasm": "img/9700.jpg"
+  }
+ ]
+}
