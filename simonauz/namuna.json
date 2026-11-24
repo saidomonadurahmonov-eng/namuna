@@ -1,0 +1,63 @@
+{
+ "dokon": "Simona.uz",
+ "kanal": "simonauzb",
+ "ava": "img/ava.jpg",
+ "accent": "#460A15",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "9730",
+   "nom": "Bobbi Brown Lip Oil Gloss",
+   "narx": "459 900 so'm",
+   "narx_son": 459900,
+   "tavsif": "Намлантиради, епишқоқ эмас",
+   "turkum": "Lab upasi",
+   "rasm": "img/9730.jpg"
+  },
+  {
+   "id": "9703",
+   "nom": "Milani румяна",
+   "narx": "259 900 so'm",
+   "narx_son": 259900,
+   "tavsif": "Хаменбоб бўлса хам, сифати кучли, жуда чиройли етади",
+   "turkum": "Rumyana",
+   "rasm": "img/9703.jpg"
+  },
+  {
+   "id": "9697",
+   "nom": "Guerlain Perfumed Body Lotion 200мл",
+   "narx": "929 900 so'm",
+   "narx_son": 929900,
+   "tavsif": "Guerlain парфюмли тана лосьони, 200 мл",
+   "turkum": "Tana losyoni",
+   "rasm": "img/9697.jpg"
+  },
+  {
+   "id": "9774",
+   "nom": "Emi Jay Чемодан косметичка",
+   "narx": "1 129 900 so'm",
+   "narx_son": 1129900,
+   "tavsif": "Формаси қаттиқ, ичи сифатли ва чиройли ишланган, умуман оғир эмас",
+   "turkum": "Kosmetichka",
+   "rasm": "img/9774.jpg"
+  },
+  {
+   "id": "9719",
+   "nom": "Tory Burch Sublime",
+   "narx": "1 829 900 so'm",
+   "narx_son": 1829900,
+   "tavsif": "Комплект 100мл+15мл+10мл, жуда нежный хушбуй",
+   "turkum": "Parfyum",
+   "rasm": "img/9719.jpg"
+  },
+  {
+   "id": "9783",
+   "nom": "Makeup by Mario",
+   "narx": "669 900 so'm",
+   "narx_son": 669900,
+   "tavsif": "2 та катта суюқ тени, жойидан қимирламайди ва қуритмайди",
+   "turkum": "Ko'z soyasi",
+   "rasm": "img/9783.jpg"
+  }
+ ]
+}
