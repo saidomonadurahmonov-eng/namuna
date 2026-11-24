@@ -1,0 +1,63 @@
+{
+ "dokon": "АНЯ БУРАНОВА ГУЛЛАРИ АНДИЖОН КУРГОНТЕПА",
+ "kanal": "anyaburanova",
+ "ava": "img/ava.jpg",
+ "accent": "#8B1339",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "13047",
+   "nom": "Пион Уват Шарим",
+   "narx": "120 000 so'm",
+   "narx_son": 120000,
+   "tavsif": "Пион Уват Шарим — 120 минг",
+   "turkum": null,
+   "rasm": "img/13047.jpg"
+  },
+  {
+   "id": "13037",
+   "nom": "Азалия",
+   "narx": "220 000 so'm",
+   "narx_son": 220000,
+   "tavsif": "Азалия — 220 минг",
+   "turkum": null,
+   "rasm": "img/13037.jpg"
+  },
+  {
+   "id": "13035",
+   "nom": "Арната",
+   "narx": "110 000 so'm",
+   "narx_son": 110000,
+   "tavsif": "Арната — 110 минг",
+   "turkum": null,
+   "rasm": "img/13035.jpg"
+  },
+  {
+   "id": "13031",
+   "nom": "Антуриум",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Антуриум — 60 минг",
+   "turkum": null,
+   "rasm": "img/13031.jpg"
+  },
+  {
+   "id": "13018",
+   "nom": "Бамбук 40см",
+   "narx": "130 000 so'm",
+   "narx_son": 130000,
+   "tavsif": "Бамбук 40см — 130 минг",
+   "turkum": null,
+   "rasm": "img/13018.jpg"
+  },
+  {
+   "id": "13014",
+   "nom": "Кофе 2в1",
+   "narx": "210 000 so'm",
+   "narx_son": 210000,
+   "tavsif": "Кофе 2в1 — 210 минг",
+   "turkum": null,
+   "rasm": "img/13014.jpg"
+  }
+ ]
+}
