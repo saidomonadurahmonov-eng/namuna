@@ -1,0 +1,63 @@
+{
+ "dokon": "Camille_style",
+ "kanal": "camillekhan_lichniy_kanal",
+ "ava": "img/ava.jpg",
+ "accent": "#A91875",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "191704",
+   "nom": "Dior sharfli palto",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "2 ta qoldi, M razmer.",
+   "turkum": "Kiyim",
+   "rasm": "img/191704.jpg"
+  },
+  {
+   "id": "191702",
+   "nom": "Pufakli jilet",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Shu rang qoldi.",
+   "turkum": "Kiyim",
+   "rasm": "img/191702.jpg"
+  },
+  {
+   "id": "191663",
+   "nom": "Miu Miu kepka",
+   "narx": "85 000 so'm",
+   "narx_son": 85000,
+   "tavsif": "Kebkala 85.000",
+   "turkum": "Aksessuar",
+   "rasm": "img/191663.jpg"
+  },
+  {
+   "id": "191661",
+   "nom": "Fendi botinka",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "36/37/38/39/40 razmerlar mavjud.",
+   "turkum": "Poyabzal",
+   "rasm": "img/191661.jpg"
+  },
+  {
+   "id": "191658",
+   "nom": "Hermes etik",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "36/37/38/39/40 razmerlar mavjud.",
+   "turkum": "Poyabzal",
+   "rasm": "img/191658.jpg"
+  },
+  {
+   "id": "191652",
+   "nom": "D&G mo'ynali krossovka",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "36/37/38/39/40 razmerlar mavjud.",
+   "turkum": "Poyabzal",
+   "rasm": "img/191652.jpg"
+  }
+ ]
+}
