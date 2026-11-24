@@ -1,0 +1,63 @@
+{
+ "dokon": "CHASI.UZ",
+ "kanal": "chasiuz",
+ "ava": "img/ava.jpg",
+ "accent": "#A93918",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "19984",
+   "nom": "Seiko Chronograph",
+   "narx": "300$",
+   "narx_son": null,
+   "tavsif": "Японские кварцевые часы, 41 мм, стальной корпус, гарантия 2 года.",
+   "turkum": null,
+   "rasm": "img/19984.jpg"
+  },
+  {
+   "id": "19982",
+   "nom": "Raymond Weil Toccata Heritage",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Швейцарские механические часы с ручным заводом, сапфировое стекло, ремешок из телячьей кожи.",
+   "turkum": null,
+   "rasm": "img/19982.jpg"
+  },
+  {
+   "id": "19980",
+   "nom": "Breitling Chronomat B01 44 Titanium",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Швейцарский хронограф с автоподзаводом, титановый корпус, водозащита до 200 м.",
+   "turkum": null,
+   "rasm": "img/19980.jpg"
+  },
+  {
+   "id": "19933",
+   "nom": "Breitling Classic AVI Chronograph 42 Mosquito",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Швейцарский хронограф Caliber 23, 42 мм, COSC, запас хода до 50 ч.",
+   "turkum": null,
+   "rasm": "img/19933.jpg"
+  },
+  {
+   "id": "19930",
+   "nom": "Franck Dubarry Crazy Wheel CW-04-07",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Швейцарские часы с необычной индикацией времени, титановый корпус, безель из кованого карбона.",
+   "turkum": null,
+   "rasm": "img/19930.jpg"
+  },
+  {
+   "id": "19999",
+   "nom": "Citizen Eco-Drive",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Оригинальные японские часы, кварцевые и механические, корпус из титана и стали.",
+   "turkum": null,
+   "rasm": "img/19999.jpg"
+  }
+ ]
+}
