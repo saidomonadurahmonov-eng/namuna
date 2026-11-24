@@ -1,0 +1,63 @@
+{
+ "dokon": "iBooK.uz",
+ "kanal": "ibook_uz",
+ "ava": "img/ava.jpg",
+ "accent": "#A74919",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "11509",
+   "nom": "Bandalar hayotidagi ilohiy qonuniyatlar — Ramazon Butiy",
+   "narx": "74 000 so'm",
+   "narx_son": 74000,
+   "tavsif": "Dunyo hayoti sinov makoni ekani va ilohiy qonuniyatlar inson hayotida qanday namoyon bo'lishi yoritiladi.",
+   "turkum": "Diniy kitob",
+   "rasm": "img/11509.jpg"
+  },
+  {
+   "id": "11474",
+   "nom": "Buyuklarning sifatlari — Nasiriddin Tusiy",
+   "narx": "32 000 so'm",
+   "narx_son": 32000,
+   "tavsif": "Buyuk insonlarga xos fazilatlar, ularning axloqi va hayotiy qarashlari haqida so'z yuritiladi.",
+   "turkum": "Axloq",
+   "rasm": "img/11474.jpg"
+  },
+  {
+   "id": "11462",
+   "nom": "Payg'ambar kimni yaxshi ko'radi?",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Kitob Rasululloh ﷺ yaxshi ko'rgan inson, fazilat va amallarni yaqindan bilishga yordam beradi.",
+   "turkum": "Diniy kitob",
+   "rasm": "img/11462.jpg"
+  },
+  {
+   "id": "11458",
+   "nom": "Qur'oni Karim va sunnatda kelgan ijobat duolar",
+   "narx": "75 000 so'm",
+   "narx_son": 75000,
+   "tavsif": "Kitobda yilning har bir kuni uchun bittadan duo jamlangan.",
+   "turkum": "Diniy kitob",
+   "rasm": "img/11458.jpg"
+  },
+  {
+   "id": "11418",
+   "nom": "Qulog'im senda qizim",
+   "narx": "82 000 so'm",
+   "narx_son": 82000,
+   "tavsif": "IBooK'dagi yangi kitoblar ro'yxatida sotuvga chiqqan asar.",
+   "turkum": "Ma'naviy kitob",
+   "rasm": "img/11418.jpg"
+  },
+  {
+   "id": "11461",
+   "nom": "Muqaddima 3 — Ibn Xaldun",
+   "narx": "80 000 so'm",
+   "narx_son": 80000,
+   "tavsif": "Kuzda choy bilan o'qish uchun tavsiya etilgan kitoblar qatoridagi asar.",
+   "turkum": "Tarix",
+   "rasm": "img/11461.jpg"
+  }
+ ]
+}
