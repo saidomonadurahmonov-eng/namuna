@@ -1,0 +1,63 @@
+{
+ "dokon": "Магазин «STAR ONE»",
+ "kanal": "star_one_uz",
+ "ava": "img/ava.jpg",
+ "accent": "#A9181C",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "1642",
+   "nom": "ZVS индукцион қиздиргич",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Металл буюмларни тегмасдан, индукцион усулда тез қиздирувчи қурилма.",
+   "turkum": "Асбоб",
+   "rasm": "img/1642.jpg"
+  },
+  {
+   "id": "1632",
+   "nom": "Li-ion 18650 аккумуляторлар тестери",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "4 каналли тестер: сиғим, ички қаршилик, кучланиш ва токни ўлчайди.",
+   "turkum": "Асбоб",
+   "rasm": "img/1632.jpg"
+  },
+  {
+   "id": "1630",
+   "nom": "HOPESTAR колонкаси",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Bluetooth, ички аккумулятор, RGB ёритиш ва микрофон улаш имконияти.",
+   "turkum": "Колонка",
+   "rasm": "img/1630.jpg"
+  },
+  {
+   "id": "1628",
+   "nom": "TOMLOV BM-070 биологик микроскоп",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Катта экранли замонавий биологик микроскоп, ёритиш тизими билан.",
+   "turkum": "Асбоб",
+   "rasm": "img/1628.jpg"
+  },
+  {
+   "id": "1655",
+   "nom": "Телефонга уланадиган эндоскоп",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "3 метрлик кабель, Type-C ва Lightning уланиш, қийин жойларни кўриш учун.",
+   "turkum": "Камера",
+   "rasm": "img/1655.jpg"
+  },
+  {
+   "id": "1646",
+   "nom": "Диммерлар",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "12V–24V ва 220V моделлар, ёруғлик ва мотор тезлигини созлаш учун.",
+   "turkum": "Электроника",
+   "rasm": "img/1646.jpg"
+  }
+ ]
+}
