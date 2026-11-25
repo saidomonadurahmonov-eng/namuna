@@ -1,0 +1,63 @@
+{
+ "dokon": "GermanVit",
+ "kanal": "german_vit_beka",
+ "ava": "img/ava.jpg",
+ "accent": "#A91819",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "4173",
+   "nom": "Möller's Omega-3 Kids 250 ml",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Bolalar va o'smirlar uchun Omega 3, A, E va D vitaminli, meva ta'mli treska jigari moyi.",
+   "turkum": null,
+   "rasm": "img/4173.jpg"
+  },
+  {
+   "id": "4129",
+   "nom": "Esprico Konzentration+ 1x1",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Omega 3, magniy va sink tarkibli, bolalarda o'qish va konsentratsiyani qo'llab-quvvatlovchi vitamin.",
+   "turkum": null,
+   "rasm": "img/4129.jpg"
+  },
+  {
+   "id": "4128",
+   "nom": "Schaebens Immun-Kur Zink + C + D3 + B12",
+   "narx": "195 000 so'm",
+   "narx_son": 195000,
+   "tavsif": "Immun tizimi uchun vegan qo'shimcha, 30 kunlik kurs, 10 yoshdan boshlab hamma uchun.",
+   "turkum": null,
+   "rasm": "img/4128.jpg"
+  },
+  {
+   "id": "4110",
+   "nom": "Sunday Natural Mariendistel Komplex",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Jigarni himoya qilib tozalaydigan, hazmni yaxshilaydigan 100% tabiiy o'simlik kompleksi.",
+   "turkum": null,
+   "rasm": "img/4110.jpg"
+  },
+  {
+   "id": "4201",
+   "nom": "Sunday Natural Vitamin D3 5000 IE",
+   "narx": "380 000 so'm",
+   "narx_son": 380000,
+   "tavsif": "Kokos yog'i asosli, oson singadigan tomchili vitamin D; K2 icholmaydiganlar uchun.",
+   "turkum": null,
+   "rasm": "img/4201.jpg"
+  },
+  {
+   "id": "4200",
+   "nom": "Sunday Natural Vitamin D3 + K2 5000 IE",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Suyaklar va immunitet uchun vegan D3 + K2 tabletkalari, kuniga 1 tabletka.",
+   "turkum": null,
+   "rasm": "img/4200.jpg"
+  }
+ ]
+}
