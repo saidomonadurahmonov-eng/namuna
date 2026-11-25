@@ -1,0 +1,63 @@
+{
+ "dokon": "Mebellar Olami",
+ "kanal": "mebellarolami",
+ "ava": "img/ava.jpg",
+ "accent": "#3A2B95",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "3195",
+   "nom": "Yotoqxona to'plami ZUMRUD",
+   "narx": "28 990 000 so'm",
+   "narx_son": 28990000,
+   "tavsif": "Yotoqxona to'plami, ortoped matras bilan, Toshkent ichida yetkazish va o'rnatish bepul.",
+   "turkum": "Yotoqxona",
+   "rasm": "img/3195.jpg"
+  },
+  {
+   "id": "3185",
+   "nom": "Yotoqxona to'plami VIVALDI (Neo)",
+   "narx": "14 990 000 so'm",
+   "narx_son": 14990000,
+   "tavsif": "Yotoqxona to'plami, ortoped matras bilan, Toshkent ichida yetkazish va o'rnatish bepul.",
+   "turkum": "Yotoqxona",
+   "rasm": "img/3185.jpg"
+  },
+  {
+   "id": "3177",
+   "nom": "Stul PAPEL 070 va Stol PAPEL 060",
+   "narx": "17 290 000 so'm",
+   "narx_son": 17290000,
+   "tavsif": "Yangi kollektsiya: Papel stul va stol, Toshkent ichida yetkazib berish bepul.",
+   "turkum": "Stol-stul",
+   "rasm": "img/3177.jpg"
+  },
+  {
+   "id": "3145",
+   "nom": "Mehmonxona to'plami 033 Penal",
+   "narx": "9 599 000 so'm",
+   "narx_son": 9599000,
+   "tavsif": "Mehmonxona to'plami, Toshkent shahar ichiga yetkazish va o'rnatish bepul.",
+   "turkum": "Mehmonxona",
+   "rasm": "img/3145.jpg"
+  },
+  {
+   "id": "3143",
+   "nom": "Almaz Penal Kamodi",
+   "narx": "26 990 000 so'm",
+   "narx_son": 26990000,
+   "tavsif": "Almaz modelidagi penal kamod, Toshkent ichida yetkazish va o'rnatish bepul.",
+   "turkum": "Mehmonxona",
+   "rasm": "img/3143.jpg"
+  },
+  {
+   "id": "3121",
+   "nom": "Stol-Stul SULTAN",
+   "narx": "40 990 000 so'm",
+   "narx_son": 40990000,
+   "tavsif": "Yangi Stol-Stul kollektsiyasi, Toshkent shahar ichiga yetkazib berish bepul.",
+   "turkum": "Stol-stul",
+   "rasm": "img/3121.jpg"
+  }
+ ]
+}
