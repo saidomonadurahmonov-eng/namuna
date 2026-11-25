@@ -1,0 +1,63 @@
+{
+ "dokon": "iMobile.uz",
+ "kanal": "imobiletg",
+ "ava": "img/ava.jpg",
+ "accent": "#0E8388",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "2801",
+   "nom": "MacBook Air M5",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Macbook Air M5 13 и 15 дюймов, память от 16/512 до 24/1tb.",
+   "turkum": "Noutbuk",
+   "rasm": "img/2801.jpg"
+  },
+  {
+   "id": "2790",
+   "nom": "iPad Air 11 inch M4",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Apple iPad Air 11 inch M4, 128gb va 256gb wifi.",
+   "turkum": "Planshet",
+   "rasm": "img/2790.jpg"
+  },
+  {
+   "id": "2789",
+   "nom": "Yandex Station Mini 3",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Умная колонка с Алисой, цвета: чёрный, серый, сиреневый.",
+   "turkum": "Aqlli kolonka",
+   "rasm": "img/2789.jpg"
+  },
+  {
+   "id": "2787",
+   "nom": "iPhone Duo 256GB",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "iPhone Duo 256GB, ranglari Night Sky va Star White.",
+   "turkum": "Smartfon",
+   "rasm": "img/2787.jpg"
+  },
+  {
+   "id": "2784",
+   "nom": "iPhone 18 Pro 256GB",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "iPhone 18 Pro, SIM + E SIM, ranglari Black, Burgundy, Glacier, Silver.",
+   "turkum": "Smartfon",
+   "rasm": "img/2784.jpg"
+  },
+  {
+   "id": "2811",
+   "nom": "Dyson Airwrap ID Ceramic Pink",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "dyson airwrap id ceramic pink, yangi narxda.",
+   "turkum": "Soch uskunasi",
+   "rasm": "img/2811.jpg"
+  }
+ ]
+}
