@@ -1,0 +1,63 @@
+{
+ "dokon": "FT CARDS TAKLIFNOMALARI",
+ "kanal": "ftcards",
+ "ava": "img/ava.jpg",
+ "accent": "#0E3F31",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "2518",
+   "nom": "Marmar naqshli taklifnoma",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "To‘y-marosimlar uchun eng original ko‘rinishda, hamyonbop narxlarda taklifnoma.",
+   "turkum": null,
+   "rasm": "img/2518.jpg"
+  },
+  {
+   "id": "2517",
+   "nom": "Monogramli taklifnoma",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "To‘y, tug‘ilgan kun va yubileylar uchun original ko‘rinishdagi taklifnoma.",
+   "turkum": null,
+   "rasm": "img/2517.jpg"
+  },
+  {
+   "id": "2516",
+   "nom": "Kostyum va ko‘ylak shaklidagi taklifnoma",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Muhim kechalar uchun eng original ko‘rinishda tayyorlangan taklifnoma.",
+   "turkum": null,
+   "rasm": "img/2516.jpg"
+  },
+  {
+   "id": "2512",
+   "nom": "Sumkali taklifnoma",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Onlayn buyurtma berishingiz mumkin, biz uni chop etib, yetkazib ham beramiz.",
+   "turkum": null,
+   "rasm": "img/2512.jpg"
+  },
+  {
+   "id": "2504",
+   "nom": "Model-777-092",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "To‘y-marosimlar uchun eng original ko‘rinishda, hamyonbop narxlarda taklifnoma.",
+   "turkum": null,
+   "rasm": "img/2504.jpg"
+  },
+  {
+   "id": "2502",
+   "nom": "Pasport uslubidagi taklifnoma",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Yubiley va boshqa muhim kechalar uchun original ko‘rinishdagi taklifnoma.",
+   "turkum": null,
+   "rasm": "img/2502.jpg"
+  }
+ ]
+}
