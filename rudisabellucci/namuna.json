@@ -1,0 +1,63 @@
+{
+ "dokon": "RUDISABELLUCCI By Ruqiya Sultan",
+ "kanal": "rudisabellucci_premiumboutique",
+ "ava": "img/ava.jpg",
+ "accent": "#9A7727",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "85037",
+   "nom": "Adidas qishki tapochka",
+   "narx": "300 000 so'm",
+   "narx_son": 300000,
+   "tavsif": "Issiq va qulay qishki tapochka, razmerlar 36–40.",
+   "turkum": "Poyabzal",
+   "rasm": "img/85037.jpg"
+  },
+  {
+   "id": "84967",
+   "nom": "Angorka ko'ylak",
+   "narx": "400 000 so'm",
+   "narx_son": 400000,
+   "tavsif": "Matosi yupqa, issiqina angorka ko'ylak, razmerlar 36–46.",
+   "turkum": "Kiyim",
+   "rasm": "img/84967.jpg"
+  },
+  {
+   "id": "84987",
+   "nom": "Mo'ynali abaya",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Qizlar kutgan abayaning yangi partiyasi keldi, dastafka xizmati bor.",
+   "turkum": "Kiyim",
+   "rasm": "img/84987.jpg"
+  },
+  {
+   "id": "85051",
+   "nom": "Gulli ko'ylaklar",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Skidka: 115$ o'rniga 60$.",
+   "turkum": "Kiyim",
+   "rasm": "img/85051.jpg"
+  },
+  {
+   "id": "85049",
+   "nom": "Baxmal kumushrang naqshli ko'ylak",
+   "narx": null,
+   "narx_son": null,
+   "tavsif": "Takrorlanishni istamagan opa-singillar uchun ayni muddao.",
+   "turkum": "Kiyim",
+   "rasm": "img/85049.jpg"
+  },
+  {
+   "id": "85003",
+   "nom": "Jinsi shimlar",
+   "narx": "200 000 so'm",
+   "narx_son": 200000,
+   "tavsif": "Skidkada: 550.000 o'rniga 200.000.",
+   "turkum": "Kiyim",
+   "rasm": "img/85003.jpg"
+  }
+ ]
+}
