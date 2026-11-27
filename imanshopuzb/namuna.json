@@ -1,0 +1,63 @@
+{
+ "dokon": "IMAN Shop | Muddati to'lov",
+ "kanal": "imanshopuzb",
+ "ava": "img/ava.jpg",
+ "accent": "#11407E",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "2080",
+   "nom": "iPhone 15 Pro Max 256Gb",
+   "narx": "795$",
+   "narx_son": null,
+   "tavsif": "256Gb xotira, batareya 92%, ideal holatda, do'kondan 30 kungacha kafolat.",
+   "turkum": null,
+   "rasm": "img/2080.jpg"
+  },
+  {
+   "id": "2054",
+   "nom": "iPhone 14 Pro 256Gb",
+   "narx": "525$",
+   "narx_son": null,
+   "tavsif": "256Gb xotira, batareya 81%, ideal holatda, 3 oydan 24 oygacha bo'lib to'lash mumkin.",
+   "turkum": null,
+   "rasm": "img/2054.jpg"
+  },
+  {
+   "id": "2064",
+   "nom": "iPhone 15 128Gb",
+   "narx": "555$",
+   "narx_son": null,
+   "tavsif": "128Gb xotira, batareya 91%, ideal holatda, O'zbekiston bo'ylab yetkazib berish bepul.",
+   "turkum": null,
+   "rasm": "img/2064.jpg"
+  },
+  {
+   "id": "2041",
+   "nom": "iPhone 13 Pro 128Gb",
+   "narx": "445$",
+   "narx_son": null,
+   "tavsif": "128Gb xotira, batareya 93%, ideal holatda, do'kondan 30 kungacha kafolat.",
+   "turkum": null,
+   "rasm": "img/2041.jpg"
+  },
+  {
+   "id": "2068",
+   "nom": "iPhone 13 128Gb",
+   "narx": "355$",
+   "narx_son": null,
+   "tavsif": "128Gb xotira, batareya 96%, ideal holatda, bo'lib to'lashga xarid qilish mumkin.",
+   "turkum": null,
+   "rasm": "img/2068.jpg"
+  },
+  {
+   "id": "2049",
+   "nom": "Samsung S21 256Gb",
+   "narx": "225$",
+   "narx_son": null,
+   "tavsif": "256Gb xotira, batareya 100%, ideal holatda, yetkazib berish mutlaqo bepul.",
+   "turkum": null,
+   "rasm": "img/2049.jpg"
+  }
+ ]
+}
