@@ -1,0 +1,63 @@
+{
+ "dokon": "Asics_mizuno.uz volleymarket.uz",
+ "kanal": "volleymarketuz",
+ "ava": "img/ava.jpg",
+ "accent": "#931530",
+ "kiril": true,
+ "mahsulotlar": [
+  {
+   "id": "4953",
+   "nom": "Nike Hyperdunk",
+   "narx": "345 000 so'm",
+   "narx_son": 345000,
+   "tavsif": "Nike hyperdunk красовкаси, размерлар 38–45, бонусига Nike наски.",
+   "turkum": "Krossovka",
+   "rasm": "img/4953.jpg"
+  },
+  {
+   "id": "4951",
+   "nom": "Nike HyperSet",
+   "narx": "450 000 so'm",
+   "narx_son": 450000,
+   "tavsif": "Жудаям тез сотилаётган Nike HyperSet модели, бонусига наски.",
+   "turkum": "Krossovka",
+   "rasm": "img/4951.jpg"
+  },
+  {
+   "id": "4943",
+   "nom": "Asics Sky Elite",
+   "narx": "325 000 so'm",
+   "narx_son": 325000,
+   "tavsif": "Скай элит модели, оргинали, тагини 100 % овози чиқади.",
+   "turkum": "Krossovka",
+   "rasm": "img/4943.jpg"
+  },
+  {
+   "id": "4940",
+   "nom": "Mikasa W300V",
+   "narx": "600 000 so'm",
+   "narx_son": 600000,
+   "tavsif": "Микасса оргинал W300V ли топлар чекланмаган миқдорда келди.",
+   "turkum": "Voleybol to'pi",
+   "rasm": "img/4940.jpg"
+  },
+  {
+   "id": "4939",
+   "nom": "Mikasa W200V",
+   "narx": "890 000 so'm",
+   "narx_son": 890000,
+   "tavsif": "Микасса оргинал W200V ли топлар чекланмаган миқдорда келди.",
+   "turkum": "Voleybol to'pi",
+   "rasm": "img/4939.jpg"
+  },
+  {
+   "id": "4938",
+   "nom": "Топ соладиган карзинка",
+   "narx": "595 000 so'm",
+   "narx_son": 595000,
+   "tavsif": "Топ соладигон карзинка, такланадиган, бемалол заказ бериш мумкин.",
+   "turkum": "Aksessuar",
+   "rasm": "img/4938.jpg"
+  }
+ ]
+}
