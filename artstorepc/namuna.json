@@ -1,0 +1,63 @@
+{
+ "dokon": "ArtStore PC - Компьютерные комплектующие",
+ "kanal": "artstorepc",
+ "ava": "img/ava.jpg",
+ "accent": "#1859A9",
+ "kiril": false,
+ "mahsulotlar": [
+  {
+   "id": "2581",
+   "nom": "Zotac Twin Edge 5070 Gaming OC 12GB",
+   "narx": "1050$",
+   "narx_son": null,
+   "tavsif": "Zotac Twin Edge 5070 Gaming OC 12GB, бесплатная доставка по всему Узбекистану.",
+   "turkum": "Videokarta",
+   "rasm": "img/2581.jpg"
+  },
+  {
+   "id": "2579",
+   "nom": "Asus Dual 5060 OC 8GB White",
+   "narx": "550$",
+   "narx_son": null,
+   "tavsif": "Asus Dual 5060 OC 8GB White, в наличии по 20 штук.",
+   "turkum": "Videokarta",
+   "rasm": "img/2579.jpg"
+  },
+  {
+   "id": "2572",
+   "nom": "Klevv Fit V 2x8GB 6000MHz cl30",
+   "narx": "300$",
+   "narx_son": null,
+   "tavsif": "Klevv Fit V 2x8GB 6000MHz cl30 с поддержкой AMD Expo и Intel XMP.",
+   "turkum": "Operativ xotira",
+   "rasm": "img/2572.jpg"
+  },
+  {
+   "id": "2569",
+   "nom": "Logitech G PRO X3 SuperStrike",
+   "narx": "250$",
+   "narx_son": null,
+   "tavsif": "Logitech G PRO X3 SuperStrike, в наличии 70 штук.",
+   "turkum": "Sichqoncha",
+   "rasm": "img/2569.jpg"
+  },
+  {
+   "id": "2566",
+   "nom": "Ryzen 7 9800X3D",
+   "narx": "400$",
+   "narx_son": null,
+   "tavsif": "Процессор Ryzen 7 9800X3D, все в количестве.",
+   "turkum": "Protsessor",
+   "rasm": "img/2566.jpg"
+  },
+  {
+   "id": "2560",
+   "nom": "Samsung 9100 PRO 2TB",
+   "narx": "400$",
+   "narx_son": null,
+   "tavsif": "Samsung 9100 PRO 2TB, все в количестве, бесплатная доставка по Узбекистану.",
+   "turkum": "SSD",
+   "rasm": "img/2560.jpg"
+  }
+ ]
+}
